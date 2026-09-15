@@ -1,0 +1,7 @@
+﻿status_id,status_name,status_category
+1,To Do,To Do
+2,In Progress,In Progress
+3,Testing,In Progress
+4,Blocked,In Progress
+5,Done,Done
+6,Reopened,In Progress

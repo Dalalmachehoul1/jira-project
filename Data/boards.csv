@@ -1,0 +1,13 @@
+﻿board_id,board_name,project_key,board_type
+BOARD-001,MOB Board,MOB,Scrum
+BOARD-002,MOB Board,MOB,Scrum
+BOARD-003,DATA Board,DATA,Kanban
+BOARD-004,MOB Board,MOB,Scrum
+BOARD-005,CLOUD Board,CLOUD,Scrum
+BOARD-006,CLOUD Board,CLOUD,Scrum
+BOARD-007,PORTAL Board,PORTAL,Kanban
+BOARD-008,ERP Board,ERP,Scrum
+BOARD-009,BANK Board,BANK,Scrum
+BOARD-010,ERP Board,ERP,Kanban
+BOARD-011,CRM Board,CRM,Kanban
+BOARD-012,BI Board,BI,Kanban

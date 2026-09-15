@@ -1,0 +1,6 @@
+﻿priority_id,priority_name,priority_level
+1,Highest,5
+2,High,4
+3,Medium,3
+4,Low,2
+5,Lowest,1

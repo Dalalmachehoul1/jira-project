@@ -1,0 +1,6 @@
+﻿issue_type_id,issue_type_name,category
+1,Epic,Planning
+2,Story,Development
+3,Task,Development
+4,Bug,Quality
+5,Sub-task,Development

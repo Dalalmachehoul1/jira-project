@@ -1,0 +1,11 @@
+﻿project_id,project_key,project_name,project_type,project_manager,start_date,status
+PROJ-001,ECOM,E-Commerce,Software,user0043,2026-04-03,Active
+PROJ-002,MOB,Application Mobile,Data,user0047,2025-03-23,Completed
+PROJ-003,CRM,CRM,Data,user0022,2025-01-18,Completed
+PROJ-004,DATA,Data Platform,Data,user0043,2025-09-08,Active
+PROJ-005,ERP,ERP,Infrastructure,user0034,2025-07-05,Active
+PROJ-006,BANK,Digital Banking,Digital Transformation,user0043,2025-04-11,Completed
+PROJ-007,PORTAL,Customer Portal,Software,user0016,2026-09-02,Active
+PROJ-008,BI,BI Platform,Software,user0028,2026-01-24,Active
+PROJ-009,SEC,Cybersecurity,Data,user0046,2026-03-02,Active
+PROJ-010,CLOUD,Cloud Migration,Software,user0006,2025-11-20,Active

@@ -1,0 +1,4024 @@
+﻿custom_field_id,issue_key,field_name,field_value
+CF-000001,SEC-1,Technical Complexity,Low
+CF-000003,BI-3,Technical Complexity,High
+CF-000004,DATA-4,Technical Complexity,Medium
+CF-000006,ECOM-6,Technical Complexity,Medium
+CF-000008,ERP-8,Business Value,Very High
+CF-000011,ECOM-11,Risk Level,Very High
+CF-000012,MOB-12,Business Value,Very High
+CF-000014,ECOM-14,Business Value,Low
+CF-000015,ERP-15,Risk Level,Low
+CF-000017,CLOUD-17,Customer Impact,High
+CF-000019,PORTAL-19,Customer Impact,High
+CF-000021,SEC-21,Story Points,Low
+CF-000022,BI-22,Technical Complexity,Very High
+CF-000023,PORTAL-23,Technical Complexity,Medium
+CF-000024,MOB-24,Story Points,High
+CF-000025,CRM-25,Customer Impact,High
+CF-000027,MOB-27,Story Points,Medium
+CF-000028,MOB-28,Risk Level,Medium
+CF-000029,ERP-29,Business Value,High
+CF-000030,CRM-30,Technical Complexity,High
+CF-000031,MOB-31,Story Points,High
+CF-000034,MOB-34,Customer Impact,Medium
+CF-000035,ERP-35,Business Value,Low
+CF-000036,CRM-36,Technical Complexity,Low
+CF-000038,CLOUD-38,Risk Level,Very High
+CF-000040,BI-40,Risk Level,Low
+CF-000041,DATA-41,Risk Level,High
+CF-000044,PORTAL-44,Technical Complexity,High
+CF-000045,ECOM-45,Technical Complexity,Medium
+CF-000046,BANK-46,Risk Level,High
+CF-000047,DATA-47,Story Points,Medium
+CF-000048,ECOM-48,Story Points,Low
+CF-000049,CRM-49,Technical Complexity,High
+CF-000050,ERP-50,Story Points,Medium
+CF-000051,PORTAL-51,Customer Impact,High
+CF-000053,DATA-53,Risk Level,Medium
+CF-000054,CRM-54,Risk Level,Medium
+CF-000055,ERP-55,Risk Level,Medium
+CF-000056,PORTAL-56,Story Points,Medium
+CF-000058,ERP-58,Customer Impact,Medium
+CF-000059,BI-59,Customer Impact,High
+CF-000060,DATA-60,Business Value,Very High
+CF-000061,BI-61,Technical Complexity,High
+CF-000062,CLOUD-62,Customer Impact,High
+CF-000064,PORTAL-64,Technical Complexity,Very High
+CF-000065,SEC-65,Story Points,High
+CF-000066,MOB-66,Customer Impact,High
+CF-000067,SEC-67,Risk Level,Low
+CF-000068,BI-68,Story Points,Medium
+CF-000069,MOB-69,Technical Complexity,High
+CF-000070,PORTAL-70,Risk Level,High
+CF-000072,CLOUD-72,Business Value,Medium
+CF-000073,CLOUD-73,Risk Level,Low
+CF-000074,BANK-74,Risk Level,High
+CF-000075,ERP-75,Business Value,Very High
+CF-000076,SEC-76,Technical Complexity,Medium
+CF-000077,ERP-77,Technical Complexity,High
+CF-000078,MOB-78,Customer Impact,Low
+CF-000080,SEC-80,Technical Complexity,Low
+CF-000081,BANK-81,Business Value,High
+CF-000083,BANK-83,Story Points,Medium
+CF-000084,BI-84,Customer Impact,Very High
+CF-000085,BI-85,Story Points,Medium
+CF-000087,BANK-87,Technical Complexity,High
+CF-000089,CLOUD-89,Technical Complexity,Very High
+CF-000090,PORTAL-90,Technical Complexity,High
+CF-000091,MOB-91,Technical Complexity,High
+CF-000092,CLOUD-92,Business Value,Medium
+CF-000093,DATA-93,Story Points,High
+CF-000094,PORTAL-94,Technical Complexity,Medium
+CF-000095,SEC-95,Story Points,Very High
+CF-000096,MOB-96,Technical Complexity,Medium
+CF-000097,MOB-97,Business Value,Very High
+CF-000098,CRM-98,Risk Level,Very High
+CF-000099,MOB-99,Risk Level,Medium
+CF-000100,SEC-100,Story Points,Low
+CF-000101,SEC-101,Business Value,Low
+CF-000102,BANK-102,Risk Level,Low
+CF-000103,CRM-103,Customer Impact,Very High
+CF-000104,ECOM-104,Technical Complexity,Very High
+CF-000105,ERP-105,Story Points,Very High
+CF-000106,BANK-106,Business Value,High
+CF-000107,CLOUD-107,Technical Complexity,High
+CF-000108,CRM-108,Business Value,High
+CF-000109,BANK-109,Technical Complexity,Low
+CF-000110,BANK-110,Story Points,Low
+CF-000111,SEC-111,Customer Impact,High
+CF-000112,ERP-112,Customer Impact,Medium
+CF-000113,MOB-113,Risk Level,Low
+CF-000114,BANK-114,Story Points,Very High
+CF-000115,SEC-115,Technical Complexity,High
+CF-000117,MOB-117,Story Points,High
+CF-000118,SEC-118,Customer Impact,Very High
+CF-000119,CLOUD-119,Customer Impact,High
+CF-000120,CLOUD-120,Business Value,Low
+CF-000122,PORTAL-122,Business Value,Medium
+CF-000123,ECOM-123,Story Points,Very High
+CF-000126,ERP-126,Customer Impact,Medium
+CF-000127,SEC-127,Customer Impact,Very High
+CF-000128,SEC-128,Technical Complexity,Low
+CF-000131,CLOUD-131,Business Value,Low
+CF-000132,SEC-132,Story Points,Very High
+CF-000133,BI-133,Customer Impact,Medium
+CF-000134,SEC-134,Technical Complexity,High
+CF-000135,ERP-135,Technical Complexity,Very High
+CF-000137,ERP-137,Customer Impact,High
+CF-000138,CRM-138,Risk Level,Low
+CF-000139,BANK-139,Risk Level,Low
+CF-000140,ERP-140,Story Points,Low
+CF-000142,ECOM-142,Risk Level,Medium
+CF-000143,MOB-143,Customer Impact,Very High
+CF-000144,CLOUD-144,Business Value,Very High
+CF-000145,BANK-145,Technical Complexity,Low
+CF-000146,ERP-146,Business Value,Very High
+CF-000148,PORTAL-148,Business Value,Medium
+CF-000149,MOB-149,Technical Complexity,Medium
+CF-000150,DATA-150,Story Points,Very High
+CF-000152,MOB-152,Technical Complexity,Low
+CF-000155,BANK-155,Technical Complexity,High
+CF-000156,BI-156,Customer Impact,Medium
+CF-000159,SEC-159,Story Points,High
+CF-000160,BI-160,Technical Complexity,High
+CF-000161,BI-161,Risk Level,Very High
+CF-000163,CLOUD-163,Business Value,Very High
+CF-000164,ERP-164,Risk Level,High
+CF-000165,CRM-165,Story Points,Low
+CF-000166,BI-166,Business Value,Very High
+CF-000167,SEC-167,Technical Complexity,Low
+CF-000169,BI-169,Customer Impact,High
+CF-000170,CRM-170,Customer Impact,Medium
+CF-000172,ECOM-172,Story Points,Low
+CF-000173,ERP-173,Risk Level,High
+CF-000174,PORTAL-174,Business Value,High
+CF-000175,SEC-175,Business Value,Low
+CF-000176,BANK-176,Risk Level,Medium
+CF-000178,BANK-178,Customer Impact,Very High
+CF-000180,ECOM-180,Customer Impact,Medium
+CF-000183,PORTAL-183,Business Value,Low
+CF-000184,ERP-184,Story Points,High
+CF-000185,CLOUD-185,Technical Complexity,Medium
+CF-000186,BI-186,Story Points,Low
+CF-000187,SEC-187,Risk Level,Medium
+CF-000188,CRM-188,Risk Level,Low
+CF-000189,SEC-189,Risk Level,High
+CF-000193,PORTAL-193,Business Value,High
+CF-000194,DATA-194,Business Value,Very High
+CF-000196,CLOUD-196,Technical Complexity,Low
+CF-000197,PORTAL-197,Business Value,High
+CF-000199,PORTAL-199,Business Value,Medium
+CF-000200,DATA-200,Story Points,Medium
+CF-000202,ECOM-202,Technical Complexity,High
+CF-000204,BANK-204,Business Value,Medium
+CF-000205,ERP-205,Risk Level,Medium
+CF-000206,CLOUD-206,Risk Level,Low
+CF-000207,BI-207,Risk Level,Very High
+CF-000208,BI-208,Business Value,Medium
+CF-000209,MOB-209,Business Value,Medium
+CF-000210,ERP-210,Risk Level,Very High
+CF-000211,PORTAL-211,Risk Level,Very High
+CF-000212,SEC-212,Technical Complexity,Low
+CF-000213,MOB-213,Story Points,Low
+CF-000214,BI-214,Customer Impact,High
+CF-000216,ECOM-216,Technical Complexity,High
+CF-000219,PORTAL-219,Customer Impact,Very High
+CF-000220,ERP-220,Risk Level,Medium
+CF-000221,ERP-221,Technical Complexity,Medium
+CF-000222,CRM-222,Story Points,Low
+CF-000223,MOB-223,Technical Complexity,Medium
+CF-000225,DATA-225,Story Points,High
+CF-000226,SEC-226,Risk Level,Very High
+CF-000227,CLOUD-227,Technical Complexity,Medium
+CF-000228,ERP-228,Business Value,Medium
+CF-000229,CLOUD-229,Customer Impact,Very High
+CF-000230,ECOM-230,Technical Complexity,High
+CF-000231,ECOM-231,Story Points,Very High
+CF-000232,CLOUD-232,Technical Complexity,Medium
+CF-000233,ERP-233,Technical Complexity,Medium
+CF-000234,CLOUD-234,Business Value,High
+CF-000235,ERP-235,Business Value,Medium
+CF-000237,MOB-237,Story Points,Medium
+CF-000239,ECOM-239,Story Points,High
+CF-000241,ECOM-241,Business Value,High
+CF-000242,BI-242,Story Points,High
+CF-000243,ECOM-243,Story Points,Very High
+CF-000244,DATA-244,Technical Complexity,Low
+CF-000245,BANK-245,Customer Impact,High
+CF-000246,ECOM-246,Risk Level,Very High
+CF-000248,CLOUD-248,Business Value,High
+CF-000249,DATA-249,Technical Complexity,Very High
+CF-000250,CRM-250,Story Points,Very High
+CF-000252,BANK-252,Business Value,High
+CF-000253,MOB-253,Story Points,High
+CF-000255,PORTAL-255,Technical Complexity,High
+CF-000256,ERP-256,Customer Impact,Low
+CF-000257,ERP-257,Story Points,High
+CF-000258,ERP-258,Technical Complexity,Low
+CF-000260,MOB-260,Risk Level,High
+CF-000262,DATA-262,Customer Impact,High
+CF-000263,MOB-263,Risk Level,Medium
+CF-000264,MOB-264,Story Points,Low
+CF-000265,ERP-265,Customer Impact,Medium
+CF-000266,ECOM-266,Story Points,Medium
+CF-000267,BI-267,Business Value,Medium
+CF-000268,ERP-268,Business Value,Low
+CF-000269,SEC-269,Business Value,High
+CF-000270,DATA-270,Risk Level,High
+CF-000271,BANK-271,Customer Impact,High
+CF-000272,ERP-272,Risk Level,Medium
+CF-000273,ECOM-273,Technical Complexity,High
+CF-000274,PORTAL-274,Technical Complexity,Very High
+CF-000276,ERP-276,Business Value,Low
+CF-000277,CLOUD-277,Business Value,Medium
+CF-000278,CLOUD-278,Customer Impact,Very High
+CF-000279,SEC-279,Customer Impact,High
+CF-000281,BI-281,Customer Impact,Very High
+CF-000282,BANK-282,Business Value,High
+CF-000283,ECOM-283,Story Points,Very High
+CF-000284,PORTAL-284,Risk Level,Very High
+CF-000285,ECOM-285,Technical Complexity,High
+CF-000286,MOB-286,Business Value,Medium
+CF-000288,MOB-288,Business Value,Low
+CF-000289,ECOM-289,Technical Complexity,Low
+CF-000290,ERP-290,Business Value,Low
+CF-000291,ERP-291,Customer Impact,Medium
+CF-000292,ECOM-292,Story Points,Low
+CF-000293,CRM-293,Customer Impact,Low
+CF-000294,CRM-294,Technical Complexity,High
+CF-000295,CRM-295,Business Value,Low
+CF-000296,BI-296,Technical Complexity,Low
+CF-000297,MOB-297,Business Value,Low
+CF-000298,BI-298,Technical Complexity,Low
+CF-000299,BANK-299,Technical Complexity,Medium
+CF-000300,CRM-300,Risk Level,Medium
+CF-000301,SEC-301,Customer Impact,Very High
+CF-000302,BI-302,Risk Level,Very High
+CF-000303,SEC-303,Business Value,Medium
+CF-000304,BANK-304,Technical Complexity,Low
+CF-000305,MOB-305,Story Points,Medium
+CF-000306,DATA-306,Customer Impact,Very High
+CF-000307,BI-307,Business Value,Very High
+CF-000308,MOB-308,Business Value,Medium
+CF-000309,CRM-309,Technical Complexity,Very High
+CF-000310,DATA-310,Technical Complexity,Very High
+CF-000313,BANK-313,Customer Impact,High
+CF-000314,PORTAL-314,Business Value,High
+CF-000315,DATA-315,Story Points,Low
+CF-000316,CRM-316,Technical Complexity,Medium
+CF-000317,ECOM-317,Customer Impact,Very High
+CF-000318,BANK-318,Business Value,Medium
+CF-000319,BANK-319,Technical Complexity,Medium
+CF-000323,MOB-323,Business Value,Very High
+CF-000325,SEC-325,Risk Level,Low
+CF-000326,CLOUD-326,Customer Impact,High
+CF-000327,CRM-327,Technical Complexity,Low
+CF-000328,SEC-328,Customer Impact,Medium
+CF-000329,DATA-329,Risk Level,Very High
+CF-000330,DATA-330,Business Value,Medium
+CF-000331,BANK-331,Customer Impact,Low
+CF-000332,DATA-332,Customer Impact,High
+CF-000333,BI-333,Customer Impact,Low
+CF-000334,ECOM-334,Technical Complexity,Medium
+CF-000335,CRM-335,Risk Level,Low
+CF-000336,CLOUD-336,Customer Impact,Low
+CF-000337,DATA-337,Risk Level,Very High
+CF-000338,ECOM-338,Story Points,Medium
+CF-000339,PORTAL-339,Technical Complexity,High
+CF-000341,CLOUD-341,Risk Level,Medium
+CF-000342,PORTAL-342,Customer Impact,Very High
+CF-000344,CRM-344,Story Points,Very High
+CF-000345,CLOUD-345,Technical Complexity,Medium
+CF-000346,CLOUD-346,Risk Level,Low
+CF-000347,PORTAL-347,Customer Impact,Medium
+CF-000348,PORTAL-348,Story Points,Medium
+CF-000349,CLOUD-349,Risk Level,High
+CF-000350,ERP-350,Story Points,Medium
+CF-000351,BANK-351,Story Points,Very High
+CF-000352,BI-352,Risk Level,Medium
+CF-000354,CLOUD-354,Business Value,Medium
+CF-000357,MOB-357,Story Points,High
+CF-000358,CLOUD-358,Story Points,Medium
+CF-000359,BI-359,Technical Complexity,Low
+CF-000361,DATA-361,Customer Impact,Very High
+CF-000362,CRM-362,Business Value,Very High
+CF-000364,BI-364,Story Points,High
+CF-000365,CLOUD-365,Business Value,Very High
+CF-000366,MOB-366,Story Points,Medium
+CF-000368,BANK-368,Customer Impact,Low
+CF-000369,SEC-369,Customer Impact,High
+CF-000370,BI-370,Risk Level,Medium
+CF-000371,BI-371,Risk Level,Low
+CF-000376,DATA-376,Risk Level,Low
+CF-000377,MOB-377,Business Value,Medium
+CF-000378,CRM-378,Customer Impact,High
+CF-000379,CRM-379,Customer Impact,Low
+CF-000380,BANK-380,Story Points,High
+CF-000382,CLOUD-382,Customer Impact,Medium
+CF-000383,PORTAL-383,Business Value,Medium
+CF-000384,PORTAL-384,Risk Level,Low
+CF-000385,BANK-385,Risk Level,Medium
+CF-000386,DATA-386,Technical Complexity,High
+CF-000387,BANK-387,Story Points,Very High
+CF-000388,ECOM-388,Technical Complexity,High
+CF-000389,BI-389,Risk Level,High
+CF-000391,PORTAL-391,Business Value,Very High
+CF-000392,BI-392,Story Points,Low
+CF-000393,CRM-393,Customer Impact,High
+CF-000395,SEC-395,Customer Impact,Medium
+CF-000396,ERP-396,Customer Impact,Low
+CF-000397,BANK-397,Business Value,Low
+CF-000400,ECOM-400,Business Value,Medium
+CF-000401,ECOM-401,Risk Level,Low
+CF-000402,SEC-402,Story Points,Medium
+CF-000403,BI-403,Technical Complexity,Low
+CF-000404,BANK-404,Technical Complexity,Very High
+CF-000405,CLOUD-405,Technical Complexity,Low
+CF-000406,ERP-406,Story Points,Low
+CF-000407,SEC-407,Business Value,Medium
+CF-000408,DATA-408,Story Points,Very High
+CF-000409,CLOUD-409,Technical Complexity,Very High
+CF-000410,BANK-410,Business Value,Medium
+CF-000411,ERP-411,Customer Impact,Low
+CF-000412,CLOUD-412,Technical Complexity,Low
+CF-000413,SEC-413,Technical Complexity,Low
+CF-000414,SEC-414,Risk Level,Very High
+CF-000415,PORTAL-415,Customer Impact,Low
+CF-000416,BI-416,Risk Level,High
+CF-000417,ERP-417,Technical Complexity,Medium
+CF-000418,SEC-418,Story Points,Very High
+CF-000419,CRM-419,Risk Level,Low
+CF-000422,ECOM-422,Story Points,Low
+CF-000423,ECOM-423,Business Value,High
+CF-000424,PORTAL-424,Customer Impact,High
+CF-000425,CRM-425,Customer Impact,Very High
+CF-000426,CRM-426,Business Value,High
+CF-000428,BANK-428,Story Points,High
+CF-000430,MOB-430,Risk Level,High
+CF-000431,BANK-431,Technical Complexity,Very High
+CF-000432,SEC-432,Technical Complexity,High
+CF-000433,ERP-433,Story Points,Very High
+CF-000434,CRM-434,Technical Complexity,Low
+CF-000435,BI-435,Technical Complexity,Very High
+CF-000436,MOB-436,Story Points,Low
+CF-000438,ERP-438,Risk Level,High
+CF-000440,DATA-440,Story Points,Low
+CF-000442,CLOUD-442,Risk Level,Medium
+CF-000443,BANK-443,Customer Impact,High
+CF-000444,BANK-444,Risk Level,Medium
+CF-000445,BI-445,Risk Level,Medium
+CF-000446,CLOUD-446,Technical Complexity,Medium
+CF-000447,ECOM-447,Business Value,Medium
+CF-000448,ECOM-448,Customer Impact,Medium
+CF-000450,ECOM-450,Customer Impact,Medium
+CF-000451,CLOUD-451,Business Value,High
+CF-000454,BANK-454,Business Value,High
+CF-000455,BANK-455,Customer Impact,Very High
+CF-000456,ECOM-456,Customer Impact,Medium
+CF-000457,ECOM-457,Story Points,Low
+CF-000458,MOB-458,Risk Level,Medium
+CF-000460,CRM-460,Story Points,High
+CF-000461,CLOUD-461,Business Value,High
+CF-000462,ERP-462,Technical Complexity,Low
+CF-000463,BANK-463,Story Points,Very High
+CF-000464,SEC-464,Customer Impact,Medium
+CF-000465,DATA-465,Customer Impact,Low
+CF-000466,CLOUD-466,Risk Level,Very High
+CF-000468,BANK-468,Story Points,Medium
+CF-000469,PORTAL-469,Business Value,High
+CF-000470,CLOUD-470,Story Points,High
+CF-000471,MOB-471,Technical Complexity,Very High
+CF-000472,SEC-472,Customer Impact,High
+CF-000473,ECOM-473,Risk Level,Medium
+CF-000474,BI-474,Risk Level,High
+CF-000475,CRM-475,Business Value,High
+CF-000476,ECOM-476,Technical Complexity,Low
+CF-000477,BI-477,Risk Level,Low
+CF-000478,BI-478,Story Points,Low
+CF-000479,CLOUD-479,Risk Level,Low
+CF-000480,ERP-480,Risk Level,Very High
+CF-000481,BANK-481,Business Value,Low
+CF-000482,BI-482,Risk Level,Medium
+CF-000484,ERP-484,Risk Level,Low
+CF-000485,CLOUD-485,Customer Impact,Medium
+CF-000487,MOB-487,Risk Level,High
+CF-000488,CLOUD-488,Risk Level,Medium
+CF-000489,BI-489,Story Points,Medium
+CF-000490,PORTAL-490,Technical Complexity,High
+CF-000491,BI-491,Risk Level,High
+CF-000492,MOB-492,Technical Complexity,Very High
+CF-000493,BANK-493,Customer Impact,Very High
+CF-000494,ECOM-494,Business Value,Medium
+CF-000495,BANK-495,Customer Impact,Very High
+CF-000496,ERP-496,Technical Complexity,High
+CF-000498,BANK-498,Technical Complexity,Low
+CF-000499,MOB-499,Story Points,High
+CF-000500,ECOM-500,Technical Complexity,Low
+CF-000501,MOB-501,Business Value,Very High
+CF-000502,BANK-502,Story Points,High
+CF-000503,MOB-503,Story Points,Very High
+CF-000504,PORTAL-504,Story Points,Low
+CF-000505,CLOUD-505,Story Points,Medium
+CF-000506,DATA-506,Technical Complexity,Very High
+CF-000507,ERP-507,Technical Complexity,Medium
+CF-000508,ERP-508,Technical Complexity,Medium
+CF-000510,DATA-510,Risk Level,Low
+CF-000511,ECOM-511,Business Value,Medium
+CF-000512,BANK-512,Customer Impact,Low
+CF-000514,SEC-514,Technical Complexity,Medium
+CF-000515,CLOUD-515,Customer Impact,Medium
+CF-000517,DATA-517,Customer Impact,High
+CF-000518,BI-518,Technical Complexity,Very High
+CF-000519,PORTAL-519,Story Points,Medium
+CF-000520,ECOM-520,Risk Level,Medium
+CF-000521,SEC-521,Business Value,Medium
+CF-000522,DATA-522,Technical Complexity,Very High
+CF-000523,BI-523,Customer Impact,High
+CF-000525,ERP-525,Story Points,Medium
+CF-000526,MOB-526,Technical Complexity,Low
+CF-000527,BI-527,Customer Impact,Low
+CF-000528,CRM-528,Customer Impact,High
+CF-000529,CRM-529,Story Points,High
+CF-000530,BANK-530,Story Points,Low
+CF-000531,CRM-531,Technical Complexity,Medium
+CF-000532,CLOUD-532,Risk Level,Low
+CF-000533,ECOM-533,Customer Impact,Medium
+CF-000534,DATA-534,Story Points,High
+CF-000535,BANK-535,Customer Impact,High
+CF-000536,DATA-536,Story Points,High
+CF-000538,ECOM-538,Story Points,Low
+CF-000539,ECOM-539,Business Value,Low
+CF-000540,BI-540,Customer Impact,Medium
+CF-000542,ERP-542,Business Value,High
+CF-000543,ECOM-543,Customer Impact,Medium
+CF-000544,BANK-544,Customer Impact,Low
+CF-000545,BANK-545,Technical Complexity,Very High
+CF-000546,PORTAL-546,Story Points,Medium
+CF-000547,CRM-547,Risk Level,Very High
+CF-000548,PORTAL-548,Risk Level,Very High
+CF-000549,BI-549,Story Points,High
+CF-000550,CRM-550,Risk Level,Medium
+CF-000551,SEC-551,Customer Impact,Very High
+CF-000552,MOB-552,Customer Impact,Very High
+CF-000553,PORTAL-553,Customer Impact,Low
+CF-000554,ERP-554,Story Points,Very High
+CF-000555,DATA-555,Risk Level,Medium
+CF-000556,MOB-556,Customer Impact,Low
+CF-000557,MOB-557,Business Value,Low
+CF-000558,CLOUD-558,Business Value,High
+CF-000559,ERP-559,Risk Level,Low
+CF-000560,CLOUD-560,Story Points,Low
+CF-000562,PORTAL-562,Risk Level,Low
+CF-000563,BI-563,Technical Complexity,Medium
+CF-000564,PORTAL-564,Business Value,Low
+CF-000565,BANK-565,Technical Complexity,Low
+CF-000566,ECOM-566,Customer Impact,Medium
+CF-000567,SEC-567,Story Points,Medium
+CF-000568,PORTAL-568,Risk Level,High
+CF-000570,DATA-570,Story Points,Low
+CF-000571,DATA-571,Story Points,Medium
+CF-000572,PORTAL-572,Business Value,Very High
+CF-000574,ERP-574,Technical Complexity,Low
+CF-000575,PORTAL-575,Risk Level,Medium
+CF-000576,ERP-576,Risk Level,Medium
+CF-000577,MOB-577,Story Points,Medium
+CF-000578,SEC-578,Business Value,Very High
+CF-000579,BANK-579,Customer Impact,Medium
+CF-000580,PORTAL-580,Customer Impact,Medium
+CF-000581,ERP-581,Story Points,Medium
+CF-000582,DATA-582,Technical Complexity,Very High
+CF-000583,ERP-583,Business Value,High
+CF-000584,ECOM-584,Technical Complexity,Low
+CF-000585,ERP-585,Customer Impact,Low
+CF-000587,SEC-587,Customer Impact,Medium
+CF-000588,ERP-588,Technical Complexity,Medium
+CF-000589,CLOUD-589,Business Value,Medium
+CF-000590,ECOM-590,Business Value,Very High
+CF-000591,BI-591,Technical Complexity,Medium
+CF-000592,ERP-592,Story Points,High
+CF-000593,BANK-593,Customer Impact,Low
+CF-000595,ECOM-595,Business Value,Medium
+CF-000598,PORTAL-598,Story Points,Low
+CF-000599,CRM-599,Risk Level,High
+CF-000601,CLOUD-601,Business Value,Low
+CF-000602,MOB-602,Customer Impact,Very High
+CF-000603,MOB-603,Customer Impact,Very High
+CF-000605,ERP-605,Risk Level,Medium
+CF-000606,MOB-606,Customer Impact,Medium
+CF-000607,SEC-607,Business Value,Low
+CF-000608,CLOUD-608,Technical Complexity,Very High
+CF-000609,SEC-609,Risk Level,Medium
+CF-000611,CLOUD-611,Customer Impact,Medium
+CF-000612,CRM-612,Risk Level,Medium
+CF-000613,BANK-613,Customer Impact,Low
+CF-000614,ECOM-614,Customer Impact,High
+CF-000615,ERP-615,Risk Level,Low
+CF-000616,PORTAL-616,Risk Level,Very High
+CF-000618,ECOM-618,Technical Complexity,Low
+CF-000619,DATA-619,Business Value,Low
+CF-000620,MOB-620,Story Points,Low
+CF-000621,CLOUD-621,Story Points,Low
+CF-000622,CRM-622,Story Points,Medium
+CF-000623,BI-623,Technical Complexity,Very High
+CF-000624,BANK-624,Story Points,Medium
+CF-000625,CRM-625,Story Points,Low
+CF-000626,SEC-626,Technical Complexity,Very High
+CF-000628,BI-628,Risk Level,Medium
+CF-000629,DATA-629,Technical Complexity,High
+CF-000630,SEC-630,Risk Level,Medium
+CF-000631,CLOUD-631,Business Value,Low
+CF-000632,ECOM-632,Technical Complexity,Very High
+CF-000633,BANK-633,Risk Level,Medium
+CF-000634,SEC-634,Business Value,Low
+CF-000635,SEC-635,Customer Impact,High
+CF-000636,ECOM-636,Story Points,Very High
+CF-000637,BANK-637,Risk Level,Very High
+CF-000638,BI-638,Business Value,High
+CF-000639,SEC-639,Story Points,Low
+CF-000640,CRM-640,Technical Complexity,Medium
+CF-000641,CRM-641,Story Points,Medium
+CF-000642,SEC-642,Story Points,Medium
+CF-000645,BI-645,Technical Complexity,Very High
+CF-000646,BI-646,Risk Level,High
+CF-000647,CLOUD-647,Business Value,High
+CF-000648,MOB-648,Technical Complexity,Very High
+CF-000650,CRM-650,Technical Complexity,Very High
+CF-000651,BANK-651,Story Points,Very High
+CF-000652,SEC-652,Risk Level,Medium
+CF-000653,ECOM-653,Customer Impact,High
+CF-000654,CRM-654,Customer Impact,Medium
+CF-000656,ECOM-656,Risk Level,High
+CF-000657,DATA-657,Technical Complexity,Low
+CF-000658,BI-658,Technical Complexity,High
+CF-000659,SEC-659,Story Points,Medium
+CF-000660,PORTAL-660,Business Value,High
+CF-000661,ERP-661,Customer Impact,Low
+CF-000662,BI-662,Customer Impact,Medium
+CF-000663,SEC-663,Business Value,Medium
+CF-000664,ERP-664,Risk Level,High
+CF-000665,ECOM-665,Business Value,Medium
+CF-000666,SEC-666,Risk Level,Low
+CF-000668,MOB-668,Technical Complexity,Low
+CF-000669,BANK-669,Customer Impact,Medium
+CF-000670,MOB-670,Customer Impact,Medium
+CF-000671,MOB-671,Customer Impact,Very High
+CF-000673,MOB-673,Story Points,Very High
+CF-000674,CRM-674,Risk Level,Very High
+CF-000675,CRM-675,Risk Level,Medium
+CF-000677,CLOUD-677,Business Value,High
+CF-000678,BI-678,Story Points,Very High
+CF-000679,PORTAL-679,Story Points,Very High
+CF-000680,BI-680,Technical Complexity,Medium
+CF-000681,CRM-681,Business Value,Medium
+CF-000682,BANK-682,Business Value,Very High
+CF-000683,MOB-683,Customer Impact,Medium
+CF-000684,CLOUD-684,Risk Level,Very High
+CF-000685,DATA-685,Business Value,Low
+CF-000686,BI-686,Story Points,Low
+CF-000687,DATA-687,Customer Impact,Medium
+CF-000689,PORTAL-689,Risk Level,Very High
+CF-000690,MOB-690,Risk Level,Medium
+CF-000693,PORTAL-693,Technical Complexity,High
+CF-000694,BANK-694,Risk Level,Low
+CF-000696,BANK-696,Technical Complexity,Medium
+CF-000697,DATA-697,Risk Level,Medium
+CF-000698,ECOM-698,Business Value,Medium
+CF-000700,BI-700,Story Points,Low
+CF-000701,CLOUD-701,Customer Impact,Very High
+CF-000702,PORTAL-702,Business Value,Medium
+CF-000703,BI-703,Risk Level,Medium
+CF-000705,BI-705,Story Points,Medium
+CF-000706,SEC-706,Risk Level,Low
+CF-000708,CRM-708,Customer Impact,Very High
+CF-000709,CRM-709,Customer Impact,Medium
+CF-000711,DATA-711,Technical Complexity,High
+CF-000713,CLOUD-713,Business Value,Medium
+CF-000714,PORTAL-714,Business Value,Low
+CF-000716,BANK-716,Story Points,Low
+CF-000718,CLOUD-718,Story Points,Medium
+CF-000719,BANK-719,Risk Level,Low
+CF-000720,BANK-720,Risk Level,Medium
+CF-000721,MOB-721,Story Points,High
+CF-000722,DATA-722,Business Value,Low
+CF-000723,ERP-723,Business Value,Very High
+CF-000724,SEC-724,Customer Impact,Very High
+CF-000726,DATA-726,Risk Level,Very High
+CF-000727,PORTAL-727,Business Value,Medium
+CF-000728,ERP-728,Technical Complexity,Medium
+CF-000729,DATA-729,Technical Complexity,Low
+CF-000731,PORTAL-731,Story Points,Low
+CF-000732,MOB-732,Customer Impact,Low
+CF-000733,MOB-733,Story Points,Medium
+CF-000734,DATA-734,Customer Impact,Medium
+CF-000735,ERP-735,Technical Complexity,High
+CF-000737,MOB-737,Story Points,High
+CF-000738,BANK-738,Business Value,High
+CF-000739,MOB-739,Story Points,Medium
+CF-000741,BI-741,Technical Complexity,Very High
+CF-000742,PORTAL-742,Story Points,High
+CF-000743,CRM-743,Technical Complexity,Low
+CF-000744,MOB-744,Story Points,Very High
+CF-000745,CRM-745,Customer Impact,High
+CF-000746,SEC-746,Technical Complexity,High
+CF-000747,MOB-747,Risk Level,Very High
+CF-000748,PORTAL-748,Story Points,High
+CF-000749,BANK-749,Risk Level,Low
+CF-000750,CLOUD-750,Business Value,Very High
+CF-000751,ECOM-751,Technical Complexity,Very High
+CF-000752,ERP-752,Story Points,Medium
+CF-000753,PORTAL-753,Technical Complexity,Low
+CF-000754,ERP-754,Story Points,Medium
+CF-000755,BANK-755,Customer Impact,Very High
+CF-000757,ERP-757,Story Points,Very High
+CF-000758,BANK-758,Story Points,Low
+CF-000759,ERP-759,Technical Complexity,Low
+CF-000760,SEC-760,Business Value,Low
+CF-000761,DATA-761,Technical Complexity,High
+CF-000762,CRM-762,Story Points,Medium
+CF-000763,PORTAL-763,Risk Level,Low
+CF-000764,SEC-764,Business Value,Low
+CF-000765,DATA-765,Customer Impact,Medium
+CF-000766,ERP-766,Business Value,Low
+CF-000767,DATA-767,Risk Level,Low
+CF-000768,MOB-768,Risk Level,High
+CF-000769,ERP-769,Story Points,Low
+CF-000771,CRM-771,Technical Complexity,High
+CF-000772,SEC-772,Business Value,Very High
+CF-000773,CLOUD-773,Technical Complexity,Low
+CF-000774,ERP-774,Risk Level,High
+CF-000775,CLOUD-775,Story Points,Very High
+CF-000776,BI-776,Customer Impact,Medium
+CF-000777,DATA-777,Customer Impact,Very High
+CF-000778,SEC-778,Customer Impact,Low
+CF-000779,ERP-779,Risk Level,Very High
+CF-000780,BI-780,Technical Complexity,High
+CF-000781,BANK-781,Risk Level,Very High
+CF-000783,SEC-783,Customer Impact,Medium
+CF-000785,MOB-785,Risk Level,Medium
+CF-000786,CRM-786,Customer Impact,High
+CF-000787,ERP-787,Risk Level,High
+CF-000788,DATA-788,Business Value,Very High
+CF-000789,DATA-789,Business Value,Very High
+CF-000790,PORTAL-790,Business Value,High
+CF-000791,ERP-791,Business Value,Low
+CF-000792,DATA-792,Business Value,Medium
+CF-000794,MOB-794,Customer Impact,Medium
+CF-000795,MOB-795,Story Points,Very High
+CF-000796,SEC-796,Business Value,High
+CF-000797,CRM-797,Business Value,Very High
+CF-000798,CRM-798,Technical Complexity,Very High
+CF-000799,CLOUD-799,Business Value,High
+CF-000802,BANK-802,Customer Impact,Low
+CF-000803,PORTAL-803,Technical Complexity,Very High
+CF-000804,CRM-804,Story Points,Low
+CF-000806,MOB-806,Story Points,Medium
+CF-000807,PORTAL-807,Technical Complexity,Low
+CF-000808,ECOM-808,Customer Impact,Low
+CF-000809,CRM-809,Risk Level,Medium
+CF-000812,MOB-812,Story Points,Low
+CF-000813,ERP-813,Story Points,Very High
+CF-000814,CRM-814,Business Value,Low
+CF-000815,MOB-815,Customer Impact,Medium
+CF-000816,CRM-816,Business Value,Very High
+CF-000817,CLOUD-817,Story Points,Very High
+CF-000818,BANK-818,Business Value,High
+CF-000819,DATA-819,Technical Complexity,Very High
+CF-000820,ECOM-820,Customer Impact,Medium
+CF-000821,MOB-821,Story Points,Low
+CF-000822,ECOM-822,Technical Complexity,Low
+CF-000824,CRM-824,Story Points,High
+CF-000825,PORTAL-825,Risk Level,Very High
+CF-000826,ECOM-826,Business Value,Low
+CF-000827,ECOM-827,Business Value,High
+CF-000829,BANK-829,Risk Level,High
+CF-000830,CRM-830,Customer Impact,High
+CF-000832,DATA-832,Customer Impact,Low
+CF-000833,SEC-833,Story Points,Very High
+CF-000834,CLOUD-834,Story Points,Medium
+CF-000836,BANK-836,Customer Impact,Low
+CF-000837,CRM-837,Customer Impact,Medium
+CF-000838,BI-838,Customer Impact,Low
+CF-000839,BANK-839,Story Points,Low
+CF-000840,BI-840,Story Points,High
+CF-000841,DATA-841,Story Points,Very High
+CF-000842,ERP-842,Business Value,Very High
+CF-000843,CRM-843,Customer Impact,High
+CF-000844,SEC-844,Risk Level,High
+CF-000846,CRM-846,Story Points,Low
+CF-000847,DATA-847,Technical Complexity,Low
+CF-000848,BI-848,Business Value,Low
+CF-000849,BI-849,Risk Level,High
+CF-000850,CLOUD-850,Technical Complexity,Medium
+CF-000851,BI-851,Business Value,Low
+CF-000852,BI-852,Story Points,Low
+CF-000853,DATA-853,Business Value,High
+CF-000854,SEC-854,Technical Complexity,Very High
+CF-000855,PORTAL-855,Risk Level,High
+CF-000856,SEC-856,Customer Impact,Very High
+CF-000859,MOB-859,Business Value,Low
+CF-000861,BI-861,Technical Complexity,Medium
+CF-000862,CRM-862,Customer Impact,Very High
+CF-000863,BANK-863,Customer Impact,Medium
+CF-000864,BANK-864,Risk Level,Low
+CF-000865,PORTAL-865,Story Points,Medium
+CF-000866,BANK-866,Story Points,Very High
+CF-000867,SEC-867,Story Points,Low
+CF-000868,PORTAL-868,Technical Complexity,Very High
+CF-000870,SEC-870,Customer Impact,Medium
+CF-000871,BI-871,Customer Impact,High
+CF-000873,BANK-873,Story Points,High
+CF-000874,SEC-874,Story Points,Very High
+CF-000875,ECOM-875,Risk Level,Low
+CF-000876,SEC-876,Customer Impact,Medium
+CF-000877,CLOUD-877,Business Value,Low
+CF-000878,CLOUD-878,Business Value,Medium
+CF-000879,BANK-879,Business Value,Very High
+CF-000882,DATA-882,Customer Impact,Low
+CF-000883,ERP-883,Business Value,Medium
+CF-000884,BI-884,Business Value,High
+CF-000885,SEC-885,Customer Impact,Very High
+CF-000886,CLOUD-886,Risk Level,Very High
+CF-000887,CLOUD-887,Customer Impact,Very High
+CF-000888,BI-888,Technical Complexity,Low
+CF-000889,ERP-889,Business Value,Very High
+CF-000890,PORTAL-890,Customer Impact,High
+CF-000891,BI-891,Customer Impact,Medium
+CF-000892,ERP-892,Story Points,Medium
+CF-000893,ERP-893,Risk Level,Low
+CF-000894,BANK-894,Customer Impact,Medium
+CF-000895,SEC-895,Story Points,High
+CF-000896,ERP-896,Technical Complexity,Low
+CF-000897,ERP-897,Customer Impact,Low
+CF-000899,BANK-899,Business Value,High
+CF-000900,PORTAL-900,Story Points,Medium
+CF-000901,ERP-901,Risk Level,Low
+CF-000903,BANK-903,Story Points,Medium
+CF-000905,ECOM-905,Customer Impact,Low
+CF-000906,BANK-906,Customer Impact,Very High
+CF-000908,BI-908,Business Value,Medium
+CF-000909,BI-909,Customer Impact,High
+CF-000910,CLOUD-910,Business Value,Very High
+CF-000913,ECOM-913,Business Value,Low
+CF-000915,CRM-915,Customer Impact,Low
+CF-000916,CRM-916,Risk Level,High
+CF-000917,MOB-917,Business Value,High
+CF-000918,PORTAL-918,Business Value,Low
+CF-000921,DATA-921,Risk Level,Medium
+CF-000922,DATA-922,Story Points,Very High
+CF-000923,MOB-923,Business Value,Medium
+CF-000924,DATA-924,Customer Impact,High
+CF-000925,SEC-925,Business Value,Very High
+CF-000926,PORTAL-926,Risk Level,Medium
+CF-000927,BANK-927,Technical Complexity,Very High
+CF-000928,ECOM-928,Business Value,High
+CF-000929,SEC-929,Customer Impact,Very High
+CF-000930,PORTAL-930,Customer Impact,Low
+CF-000931,DATA-931,Technical Complexity,High
+CF-000932,MOB-932,Story Points,Medium
+CF-000933,MOB-933,Story Points,Low
+CF-000934,SEC-934,Risk Level,High
+CF-000935,ERP-935,Business Value,Low
+CF-000936,ECOM-936,Technical Complexity,Medium
+CF-000937,MOB-937,Customer Impact,Low
+CF-000938,PORTAL-938,Business Value,Medium
+CF-000939,BANK-939,Customer Impact,Medium
+CF-000940,SEC-940,Business Value,High
+CF-000941,ERP-941,Customer Impact,Very High
+CF-000942,BANK-942,Story Points,High
+CF-000943,BI-943,Customer Impact,Medium
+CF-000945,CRM-945,Story Points,Low
+CF-000946,ECOM-946,Risk Level,Low
+CF-000947,BANK-947,Risk Level,Low
+CF-000948,MOB-948,Technical Complexity,Low
+CF-000949,CLOUD-949,Technical Complexity,Very High
+CF-000950,DATA-950,Technical Complexity,High
+CF-000951,SEC-951,Customer Impact,Low
+CF-000954,SEC-954,Risk Level,Low
+CF-000955,PORTAL-955,Risk Level,Low
+CF-000957,BANK-957,Business Value,High
+CF-000958,MOB-958,Story Points,Very High
+CF-000959,CLOUD-959,Customer Impact,Low
+CF-000960,BI-960,Technical Complexity,High
+CF-000961,ERP-961,Story Points,High
+CF-000964,ECOM-964,Risk Level,Very High
+CF-000966,MOB-966,Customer Impact,High
+CF-000968,CLOUD-968,Technical Complexity,High
+CF-000970,CLOUD-970,Technical Complexity,Very High
+CF-000971,BI-971,Risk Level,Low
+CF-000972,BI-972,Risk Level,Very High
+CF-000973,BI-973,Technical Complexity,High
+CF-000974,BANK-974,Risk Level,Low
+CF-000975,ERP-975,Risk Level,Low
+CF-000976,PORTAL-976,Risk Level,Medium
+CF-000979,PORTAL-979,Customer Impact,Low
+CF-000983,DATA-983,Customer Impact,Very High
+CF-000985,SEC-985,Risk Level,Low
+CF-000986,CLOUD-986,Technical Complexity,Low
+CF-000987,BANK-987,Story Points,Medium
+CF-000988,SEC-988,Risk Level,Low
+CF-000989,SEC-989,Business Value,Low
+CF-000991,CRM-991,Technical Complexity,Low
+CF-000993,BANK-993,Story Points,Very High
+CF-000994,SEC-994,Risk Level,Very High
+CF-000995,SEC-995,Risk Level,Medium
+CF-000996,DATA-996,Technical Complexity,Low
+CF-000997,PORTAL-997,Technical Complexity,Medium
+CF-000999,SEC-999,Risk Level,Medium
+CF-001000,BANK-1000,Technical Complexity,Very High
+CF-001001,ECOM-1001,Story Points,Medium
+CF-001002,BI-1002,Business Value,High
+CF-001004,MOB-1004,Risk Level,Medium
+CF-001006,ECOM-1006,Risk Level,Low
+CF-001007,CRM-1007,Technical Complexity,Very High
+CF-001008,CLOUD-1008,Risk Level,Very High
+CF-001009,ECOM-1009,Risk Level,Medium
+CF-001010,CRM-1010,Customer Impact,Very High
+CF-001011,MOB-1011,Business Value,Low
+CF-001012,PORTAL-1012,Risk Level,High
+CF-001013,DATA-1013,Risk Level,Medium
+CF-001014,CLOUD-1014,Technical Complexity,Medium
+CF-001015,MOB-1015,Risk Level,High
+CF-001016,PORTAL-1016,Customer Impact,High
+CF-001018,CLOUD-1018,Risk Level,Low
+CF-001019,CRM-1019,Business Value,Medium
+CF-001020,ECOM-1020,Story Points,Low
+CF-001021,DATA-1021,Business Value,Very High
+CF-001022,CLOUD-1022,Risk Level,High
+CF-001023,SEC-1023,Story Points,Low
+CF-001024,MOB-1024,Risk Level,Very High
+CF-001026,BI-1026,Technical Complexity,Very High
+CF-001027,BANK-1027,Risk Level,High
+CF-001028,CLOUD-1028,Customer Impact,Medium
+CF-001030,PORTAL-1030,Business Value,Medium
+CF-001031,MOB-1031,Story Points,Very High
+CF-001032,ECOM-1032,Technical Complexity,High
+CF-001033,PORTAL-1033,Technical Complexity,Very High
+CF-001034,CLOUD-1034,Business Value,High
+CF-001035,ERP-1035,Business Value,Low
+CF-001038,BANK-1038,Business Value,Very High
+CF-001040,ERP-1040,Business Value,Low
+CF-001041,ECOM-1041,Customer Impact,Very High
+CF-001043,PORTAL-1043,Customer Impact,Low
+CF-001045,MOB-1045,Technical Complexity,Medium
+CF-001046,CLOUD-1046,Business Value,Medium
+CF-001047,SEC-1047,Business Value,Very High
+CF-001048,ERP-1048,Business Value,High
+CF-001049,CLOUD-1049,Customer Impact,Medium
+CF-001050,ERP-1050,Customer Impact,High
+CF-001051,PORTAL-1051,Story Points,Medium
+CF-001053,BANK-1053,Technical Complexity,Very High
+CF-001054,BI-1054,Technical Complexity,Low
+CF-001055,CLOUD-1055,Story Points,Medium
+CF-001056,CRM-1056,Risk Level,Very High
+CF-001057,ERP-1057,Story Points,Medium
+CF-001058,SEC-1058,Story Points,Low
+CF-001059,BANK-1059,Story Points,High
+CF-001060,SEC-1060,Customer Impact,Low
+CF-001061,ECOM-1061,Customer Impact,Low
+CF-001062,ECOM-1062,Customer Impact,Very High
+CF-001065,MOB-1065,Risk Level,Very High
+CF-001067,BI-1067,Technical Complexity,High
+CF-001068,ERP-1068,Risk Level,Low
+CF-001069,ERP-1069,Risk Level,Low
+CF-001070,DATA-1070,Risk Level,Medium
+CF-001071,DATA-1071,Story Points,Medium
+CF-001072,ERP-1072,Customer Impact,High
+CF-001073,ECOM-1073,Technical Complexity,Very High
+CF-001074,DATA-1074,Story Points,High
+CF-001076,ERP-1076,Risk Level,Medium
+CF-001077,CRM-1077,Risk Level,Medium
+CF-001080,SEC-1080,Customer Impact,Very High
+CF-001081,MOB-1081,Business Value,Medium
+CF-001083,CRM-1083,Customer Impact,Medium
+CF-001084,DATA-1084,Risk Level,High
+CF-001085,CLOUD-1085,Customer Impact,Very High
+CF-001086,BANK-1086,Customer Impact,High
+CF-001087,ECOM-1087,Risk Level,Very High
+CF-001088,DATA-1088,Technical Complexity,Medium
+CF-001089,CLOUD-1089,Risk Level,Very High
+CF-001090,ECOM-1090,Technical Complexity,Medium
+CF-001091,MOB-1091,Business Value,Medium
+CF-001092,CRM-1092,Risk Level,Medium
+CF-001094,ERP-1094,Technical Complexity,High
+CF-001095,PORTAL-1095,Customer Impact,Medium
+CF-001096,MOB-1096,Business Value,Low
+CF-001097,BI-1097,Risk Level,High
+CF-001098,CRM-1098,Risk Level,Medium
+CF-001099,DATA-1099,Risk Level,Very High
+CF-001101,DATA-1101,Technical Complexity,Low
+CF-001102,BI-1102,Technical Complexity,Very High
+CF-001103,SEC-1103,Customer Impact,High
+CF-001104,DATA-1104,Business Value,Low
+CF-001105,PORTAL-1105,Risk Level,High
+CF-001106,CLOUD-1106,Story Points,Low
+CF-001107,MOB-1107,Technical Complexity,High
+CF-001108,PORTAL-1108,Customer Impact,Medium
+CF-001109,DATA-1109,Technical Complexity,Very High
+CF-001111,MOB-1111,Business Value,Low
+CF-001112,SEC-1112,Story Points,High
+CF-001113,CRM-1113,Customer Impact,Very High
+CF-001116,ECOM-1116,Customer Impact,Very High
+CF-001117,SEC-1117,Risk Level,Very High
+CF-001118,MOB-1118,Risk Level,Low
+CF-001119,CLOUD-1119,Story Points,Low
+CF-001121,BANK-1121,Business Value,Medium
+CF-001123,BANK-1123,Risk Level,Medium
+CF-001124,CRM-1124,Technical Complexity,Very High
+CF-001125,CLOUD-1125,Customer Impact,High
+CF-001126,PORTAL-1126,Risk Level,Very High
+CF-001128,DATA-1128,Technical Complexity,Medium
+CF-001129,CLOUD-1129,Business Value,High
+CF-001130,MOB-1130,Story Points,High
+CF-001131,MOB-1131,Customer Impact,Low
+CF-001133,BI-1133,Customer Impact,Medium
+CF-001134,PORTAL-1134,Risk Level,Very High
+CF-001135,DATA-1135,Risk Level,Medium
+CF-001136,CLOUD-1136,Story Points,Low
+CF-001137,CRM-1137,Story Points,Medium
+CF-001138,PORTAL-1138,Customer Impact,High
+CF-001140,ECOM-1140,Risk Level,High
+CF-001142,SEC-1142,Business Value,High
+CF-001145,BANK-1145,Business Value,Low
+CF-001146,SEC-1146,Business Value,Very High
+CF-001147,BANK-1147,Customer Impact,High
+CF-001148,MOB-1148,Customer Impact,High
+CF-001150,SEC-1150,Business Value,Very High
+CF-001151,MOB-1151,Technical Complexity,Medium
+CF-001152,ECOM-1152,Technical Complexity,Very High
+CF-001153,BANK-1153,Business Value,Medium
+CF-001154,DATA-1154,Risk Level,High
+CF-001158,MOB-1158,Story Points,Low
+CF-001159,BI-1159,Technical Complexity,Medium
+CF-001160,ERP-1160,Technical Complexity,High
+CF-001161,CRM-1161,Business Value,Medium
+CF-001162,CRM-1162,Customer Impact,Medium
+CF-001163,BANK-1163,Story Points,Low
+CF-001164,ECOM-1164,Business Value,Medium
+CF-001165,BI-1165,Risk Level,Low
+CF-001166,ERP-1166,Story Points,Very High
+CF-001167,PORTAL-1167,Story Points,Medium
+CF-001169,DATA-1169,Risk Level,Medium
+CF-001170,BI-1170,Customer Impact,Medium
+CF-001172,PORTAL-1172,Customer Impact,Low
+CF-001173,MOB-1173,Technical Complexity,Medium
+CF-001174,ERP-1174,Technical Complexity,Very High
+CF-001175,MOB-1175,Story Points,Very High
+CF-001176,ERP-1176,Business Value,Low
+CF-001177,CRM-1177,Technical Complexity,High
+CF-001178,BANK-1178,Technical Complexity,Very High
+CF-001179,ERP-1179,Technical Complexity,Low
+CF-001181,ERP-1181,Customer Impact,High
+CF-001182,CLOUD-1182,Story Points,Low
+CF-001183,BANK-1183,Customer Impact,Very High
+CF-001184,BI-1184,Story Points,High
+CF-001185,MOB-1185,Story Points,High
+CF-001186,CLOUD-1186,Story Points,High
+CF-001187,DATA-1187,Story Points,Medium
+CF-001189,BI-1189,Story Points,Low
+CF-001191,DATA-1191,Story Points,Medium
+CF-001193,CLOUD-1193,Customer Impact,Low
+CF-001194,BANK-1194,Story Points,Medium
+CF-001195,BI-1195,Technical Complexity,High
+CF-001197,ERP-1197,Story Points,Medium
+CF-001198,PORTAL-1198,Technical Complexity,Medium
+CF-001199,CRM-1199,Risk Level,Low
+CF-001200,CLOUD-1200,Technical Complexity,Very High
+CF-001201,BI-1201,Story Points,Medium
+CF-001203,BI-1203,Customer Impact,Medium
+CF-001204,MOB-1204,Technical Complexity,Medium
+CF-001205,BANK-1205,Customer Impact,High
+CF-001206,DATA-1206,Business Value,Very High
+CF-001207,ERP-1207,Business Value,Very High
+CF-001208,BI-1208,Story Points,Medium
+CF-001209,ERP-1209,Customer Impact,Medium
+CF-001210,SEC-1210,Business Value,High
+CF-001211,SEC-1211,Business Value,Very High
+CF-001212,MOB-1212,Customer Impact,Very High
+CF-001214,SEC-1214,Story Points,Low
+CF-001215,SEC-1215,Business Value,Medium
+CF-001216,SEC-1216,Customer Impact,Very High
+CF-001217,SEC-1217,Technical Complexity,Low
+CF-001218,CRM-1218,Customer Impact,Very High
+CF-001220,DATA-1220,Business Value,Medium
+CF-001221,DATA-1221,Business Value,High
+CF-001222,BI-1222,Business Value,Low
+CF-001223,ERP-1223,Technical Complexity,High
+CF-001224,BANK-1224,Technical Complexity,High
+CF-001225,MOB-1225,Customer Impact,Medium
+CF-001226,ERP-1226,Business Value,Very High
+CF-001227,PORTAL-1227,Story Points,Very High
+CF-001228,ERP-1228,Story Points,Low
+CF-001229,DATA-1229,Risk Level,Medium
+CF-001230,SEC-1230,Story Points,Medium
+CF-001231,CRM-1231,Customer Impact,Low
+CF-001233,SEC-1233,Story Points,Medium
+CF-001234,SEC-1234,Business Value,Very High
+CF-001235,SEC-1235,Business Value,Low
+CF-001236,DATA-1236,Customer Impact,High
+CF-001238,MOB-1238,Story Points,Very High
+CF-001239,PORTAL-1239,Risk Level,Very High
+CF-001241,BI-1241,Technical Complexity,High
+CF-001243,CLOUD-1243,Risk Level,Very High
+CF-001244,SEC-1244,Business Value,High
+CF-001245,PORTAL-1245,Risk Level,Medium
+CF-001246,PORTAL-1246,Customer Impact,High
+CF-001247,MOB-1247,Business Value,Medium
+CF-001248,SEC-1248,Customer Impact,Very High
+CF-001249,BI-1249,Technical Complexity,Medium
+CF-001251,ERP-1251,Story Points,Medium
+CF-001252,ERP-1252,Technical Complexity,Low
+CF-001254,BI-1254,Technical Complexity,Medium
+CF-001257,PORTAL-1257,Risk Level,High
+CF-001258,ERP-1258,Story Points,High
+CF-001260,ERP-1260,Customer Impact,Medium
+CF-001262,SEC-1262,Technical Complexity,Very High
+CF-001264,ERP-1264,Business Value,Medium
+CF-001265,SEC-1265,Technical Complexity,Medium
+CF-001266,CRM-1266,Customer Impact,High
+CF-001267,MOB-1267,Story Points,Medium
+CF-001269,DATA-1269,Story Points,Medium
+CF-001270,MOB-1270,Risk Level,Medium
+CF-001271,ERP-1271,Customer Impact,Very High
+CF-001272,PORTAL-1272,Customer Impact,Very High
+CF-001273,BI-1273,Risk Level,High
+CF-001274,PORTAL-1274,Story Points,High
+CF-001275,MOB-1275,Business Value,High
+CF-001276,MOB-1276,Customer Impact,Medium
+CF-001278,MOB-1278,Customer Impact,Very High
+CF-001279,SEC-1279,Customer Impact,Very High
+CF-001280,DATA-1280,Customer Impact,High
+CF-001281,SEC-1281,Risk Level,Medium
+CF-001282,SEC-1282,Story Points,Low
+CF-001283,BI-1283,Business Value,Low
+CF-001284,BI-1284,Story Points,High
+CF-001285,ERP-1285,Customer Impact,High
+CF-001286,MOB-1286,Risk Level,Very High
+CF-001288,BI-1288,Customer Impact,High
+CF-001289,ERP-1289,Risk Level,Very High
+CF-001291,ECOM-1291,Customer Impact,Very High
+CF-001293,CRM-1293,Business Value,Very High
+CF-001294,ERP-1294,Risk Level,Low
+CF-001295,DATA-1295,Customer Impact,Medium
+CF-001296,MOB-1296,Risk Level,High
+CF-001298,BANK-1298,Risk Level,Medium
+CF-001299,DATA-1299,Story Points,High
+CF-001300,ERP-1300,Technical Complexity,Low
+CF-001301,BI-1301,Technical Complexity,Very High
+CF-001302,DATA-1302,Customer Impact,High
+CF-001303,CRM-1303,Customer Impact,Very High
+CF-001305,CLOUD-1305,Story Points,Medium
+CF-001306,CLOUD-1306,Risk Level,High
+CF-001307,ECOM-1307,Risk Level,High
+CF-001309,ECOM-1309,Story Points,High
+CF-001311,BANK-1311,Story Points,High
+CF-001313,BI-1313,Story Points,High
+CF-001314,ECOM-1314,Story Points,High
+CF-001316,PORTAL-1316,Customer Impact,High
+CF-001317,CLOUD-1317,Risk Level,Low
+CF-001318,ERP-1318,Risk Level,Very High
+CF-001319,BI-1319,Risk Level,Medium
+CF-001320,CLOUD-1320,Technical Complexity,High
+CF-001321,SEC-1321,Customer Impact,Medium
+CF-001322,MOB-1322,Technical Complexity,Medium
+CF-001323,BANK-1323,Story Points,Medium
+CF-001324,DATA-1324,Story Points,Medium
+CF-001326,ECOM-1326,Risk Level,Medium
+CF-001328,DATA-1328,Risk Level,High
+CF-001329,ECOM-1329,Story Points,Very High
+CF-001332,CRM-1332,Risk Level,High
+CF-001333,ERP-1333,Technical Complexity,Medium
+CF-001334,BANK-1334,Technical Complexity,Low
+CF-001335,ERP-1335,Customer Impact,Medium
+CF-001336,ECOM-1336,Risk Level,Medium
+CF-001339,BI-1339,Risk Level,Very High
+CF-001340,CLOUD-1340,Customer Impact,High
+CF-001341,ERP-1341,Story Points,High
+CF-001342,MOB-1342,Technical Complexity,Low
+CF-001344,BI-1344,Customer Impact,High
+CF-001345,ECOM-1345,Business Value,Low
+CF-001347,BI-1347,Business Value,High
+CF-001348,BI-1348,Technical Complexity,Medium
+CF-001349,PORTAL-1349,Business Value,High
+CF-001351,CRM-1351,Business Value,High
+CF-001352,MOB-1352,Risk Level,Low
+CF-001354,PORTAL-1354,Story Points,Medium
+CF-001355,ECOM-1355,Technical Complexity,High
+CF-001356,CLOUD-1356,Risk Level,Very High
+CF-001357,ECOM-1357,Story Points,Very High
+CF-001358,ECOM-1358,Technical Complexity,High
+CF-001361,CRM-1361,Customer Impact,Medium
+CF-001362,MOB-1362,Customer Impact,High
+CF-001363,BI-1363,Story Points,Medium
+CF-001364,CLOUD-1364,Technical Complexity,Very High
+CF-001365,ECOM-1365,Customer Impact,Medium
+CF-001366,CRM-1366,Risk Level,Medium
+CF-001367,ERP-1367,Story Points,Very High
+CF-001368,CLOUD-1368,Technical Complexity,Very High
+CF-001369,ECOM-1369,Customer Impact,Very High
+CF-001370,MOB-1370,Business Value,Low
+CF-001371,CRM-1371,Risk Level,Very High
+CF-001372,CLOUD-1372,Story Points,Medium
+CF-001374,PORTAL-1374,Story Points,Very High
+CF-001375,PORTAL-1375,Technical Complexity,Medium
+CF-001376,SEC-1376,Story Points,High
+CF-001377,CRM-1377,Story Points,Medium
+CF-001379,SEC-1379,Customer Impact,Medium
+CF-001381,MOB-1381,Story Points,Low
+CF-001382,CRM-1382,Technical Complexity,Medium
+CF-001383,BI-1383,Customer Impact,Low
+CF-001386,CLOUD-1386,Risk Level,High
+CF-001387,SEC-1387,Customer Impact,Low
+CF-001388,BI-1388,Business Value,Low
+CF-001391,BI-1391,Risk Level,Medium
+CF-001392,CLOUD-1392,Customer Impact,Very High
+CF-001393,MOB-1393,Technical Complexity,Medium
+CF-001394,CRM-1394,Risk Level,Very High
+CF-001397,ECOM-1397,Story Points,Low
+CF-001398,CRM-1398,Business Value,Very High
+CF-001399,SEC-1399,Technical Complexity,High
+CF-001400,CLOUD-1400,Story Points,Medium
+CF-001401,DATA-1401,Story Points,Low
+CF-001402,CLOUD-1402,Technical Complexity,Low
+CF-001403,ERP-1403,Risk Level,Medium
+CF-001404,CLOUD-1404,Technical Complexity,High
+CF-001405,CLOUD-1405,Business Value,Very High
+CF-001408,PORTAL-1408,Risk Level,Low
+CF-001410,CRM-1410,Risk Level,Low
+CF-001411,PORTAL-1411,Story Points,Very High
+CF-001412,PORTAL-1412,Story Points,Low
+CF-001413,ERP-1413,Risk Level,Very High
+CF-001414,BI-1414,Business Value,Low
+CF-001417,CLOUD-1417,Technical Complexity,Low
+CF-001421,BANK-1421,Business Value,Very High
+CF-001422,MOB-1422,Story Points,Low
+CF-001424,CLOUD-1424,Risk Level,Low
+CF-001426,CRM-1426,Story Points,Medium
+CF-001428,SEC-1428,Risk Level,Medium
+CF-001429,PORTAL-1429,Story Points,Medium
+CF-001430,ECOM-1430,Risk Level,Low
+CF-001431,MOB-1431,Story Points,High
+CF-001433,DATA-1433,Risk Level,Very High
+CF-001434,CLOUD-1434,Risk Level,Very High
+CF-001435,CLOUD-1435,Story Points,Low
+CF-001436,ECOM-1436,Business Value,Medium
+CF-001437,ECOM-1437,Technical Complexity,Medium
+CF-001438,SEC-1438,Technical Complexity,Medium
+CF-001440,ERP-1440,Customer Impact,Medium
+CF-001441,MOB-1441,Story Points,Very High
+CF-001442,CLOUD-1442,Business Value,Low
+CF-001443,PORTAL-1443,Customer Impact,Very High
+CF-001445,DATA-1445,Story Points,Medium
+CF-001446,ECOM-1446,Business Value,Medium
+CF-001447,ERP-1447,Story Points,Very High
+CF-001448,ECOM-1448,Risk Level,Medium
+CF-001449,BANK-1449,Business Value,High
+CF-001450,PORTAL-1450,Customer Impact,Very High
+CF-001451,CRM-1451,Customer Impact,Very High
+CF-001453,PORTAL-1453,Technical Complexity,Very High
+CF-001454,SEC-1454,Technical Complexity,Very High
+CF-001455,CLOUD-1455,Customer Impact,Low
+CF-001460,ERP-1460,Technical Complexity,High
+CF-001461,CRM-1461,Technical Complexity,Medium
+CF-001462,ERP-1462,Business Value,High
+CF-001463,BANK-1463,Technical Complexity,Medium
+CF-001464,BANK-1464,Customer Impact,Low
+CF-001465,CLOUD-1465,Technical Complexity,High
+CF-001466,MOB-1466,Risk Level,Very High
+CF-001467,BANK-1467,Risk Level,High
+CF-001468,CLOUD-1468,Risk Level,Medium
+CF-001469,CLOUD-1469,Technical Complexity,High
+CF-001470,BI-1470,Story Points,High
+CF-001471,CRM-1471,Risk Level,Low
+CF-001472,ECOM-1472,Business Value,High
+CF-001473,CRM-1473,Business Value,High
+CF-001475,SEC-1475,Customer Impact,Medium
+CF-001476,MOB-1476,Technical Complexity,High
+CF-001477,ECOM-1477,Risk Level,Low
+CF-001478,SEC-1478,Technical Complexity,Low
+CF-001479,MOB-1479,Business Value,Medium
+CF-001480,PORTAL-1480,Customer Impact,High
+CF-001481,CRM-1481,Customer Impact,Medium
+CF-001482,ECOM-1482,Business Value,High
+CF-001484,BANK-1484,Customer Impact,High
+CF-001486,CRM-1486,Technical Complexity,Very High
+CF-001487,SEC-1487,Customer Impact,High
+CF-001488,CRM-1488,Story Points,Low
+CF-001490,SEC-1490,Technical Complexity,Very High
+CF-001491,ECOM-1491,Technical Complexity,High
+CF-001492,BANK-1492,Story Points,High
+CF-001494,SEC-1494,Business Value,High
+CF-001495,BANK-1495,Risk Level,Medium
+CF-001496,BI-1496,Risk Level,Medium
+CF-001497,DATA-1497,Risk Level,High
+CF-001498,BI-1498,Story Points,Medium
+CF-001499,CLOUD-1499,Customer Impact,High
+CF-001500,CRM-1500,Customer Impact,Very High
+CF-001501,MOB-1501,Story Points,Very High
+CF-001502,CLOUD-1502,Customer Impact,Very High
+CF-001504,CLOUD-1504,Technical Complexity,Low
+CF-001505,MOB-1505,Business Value,Low
+CF-001507,ECOM-1507,Technical Complexity,Medium
+CF-001508,SEC-1508,Risk Level,Medium
+CF-001509,CLOUD-1509,Customer Impact,Medium
+CF-001510,SEC-1510,Story Points,Medium
+CF-001511,BI-1511,Customer Impact,Very High
+CF-001512,ECOM-1512,Business Value,High
+CF-001513,CLOUD-1513,Risk Level,Very High
+CF-001514,BI-1514,Technical Complexity,Low
+CF-001516,BI-1516,Customer Impact,High
+CF-001517,CRM-1517,Story Points,Medium
+CF-001518,CLOUD-1518,Story Points,High
+CF-001519,PORTAL-1519,Risk Level,High
+CF-001520,ERP-1520,Story Points,Low
+CF-001521,CLOUD-1521,Story Points,Medium
+CF-001522,BANK-1522,Technical Complexity,High
+CF-001523,ECOM-1523,Business Value,Low
+CF-001524,CRM-1524,Business Value,Low
+CF-001525,ERP-1525,Customer Impact,Medium
+CF-001526,CLOUD-1526,Customer Impact,Low
+CF-001527,MOB-1527,Technical Complexity,Low
+CF-001529,MOB-1529,Business Value,Low
+CF-001531,PORTAL-1531,Customer Impact,Low
+CF-001532,CRM-1532,Technical Complexity,Low
+CF-001533,CRM-1533,Customer Impact,High
+CF-001535,BANK-1535,Risk Level,Low
+CF-001536,CRM-1536,Technical Complexity,Very High
+CF-001538,ERP-1538,Technical Complexity,Low
+CF-001539,PORTAL-1539,Story Points,Low
+CF-001541,DATA-1541,Business Value,Very High
+CF-001542,ERP-1542,Risk Level,Low
+CF-001543,BI-1543,Business Value,High
+CF-001544,BANK-1544,Risk Level,Very High
+CF-001545,ECOM-1545,Customer Impact,Medium
+CF-001547,BI-1547,Business Value,Medium
+CF-001548,CRM-1548,Risk Level,Low
+CF-001550,ERP-1550,Risk Level,Medium
+CF-001551,SEC-1551,Risk Level,Low
+CF-001552,ECOM-1552,Technical Complexity,Medium
+CF-001553,BANK-1553,Risk Level,Very High
+CF-001554,CLOUD-1554,Business Value,Medium
+CF-001555,MOB-1555,Story Points,Very High
+CF-001557,CRM-1557,Technical Complexity,Low
+CF-001558,CLOUD-1558,Customer Impact,Medium
+CF-001559,ECOM-1559,Technical Complexity,Very High
+CF-001561,BANK-1561,Technical Complexity,Medium
+CF-001562,DATA-1562,Business Value,Low
+CF-001565,ERP-1565,Technical Complexity,Medium
+CF-001566,CLOUD-1566,Customer Impact,Very High
+CF-001567,PORTAL-1567,Story Points,Medium
+CF-001568,SEC-1568,Risk Level,Medium
+CF-001569,CLOUD-1569,Customer Impact,Medium
+CF-001570,ECOM-1570,Technical Complexity,Medium
+CF-001571,PORTAL-1571,Risk Level,Medium
+CF-001575,MOB-1575,Story Points,Medium
+CF-001576,CLOUD-1576,Story Points,Very High
+CF-001578,SEC-1578,Business Value,Very High
+CF-001579,ERP-1579,Risk Level,High
+CF-001580,SEC-1580,Risk Level,Medium
+CF-001581,MOB-1581,Customer Impact,Low
+CF-001582,ECOM-1582,Customer Impact,Very High
+CF-001584,PORTAL-1584,Customer Impact,Very High
+CF-001585,BI-1585,Technical Complexity,Very High
+CF-001586,SEC-1586,Risk Level,Low
+CF-001587,BANK-1587,Business Value,Low
+CF-001588,BI-1588,Business Value,Very High
+CF-001589,PORTAL-1589,Risk Level,Low
+CF-001590,ERP-1590,Story Points,Medium
+CF-001591,ECOM-1591,Risk Level,High
+CF-001592,DATA-1592,Technical Complexity,Very High
+CF-001596,BANK-1596,Story Points,High
+CF-001597,MOB-1597,Business Value,Low
+CF-001598,ECOM-1598,Customer Impact,Medium
+CF-001600,MOB-1600,Customer Impact,High
+CF-001601,BANK-1601,Customer Impact,Low
+CF-001602,ECOM-1602,Technical Complexity,High
+CF-001603,DATA-1603,Business Value,High
+CF-001604,DATA-1604,Customer Impact,Very High
+CF-001605,ECOM-1605,Story Points,Low
+CF-001606,CRM-1606,Story Points,High
+CF-001607,MOB-1607,Risk Level,Low
+CF-001608,SEC-1608,Story Points,Low
+CF-001610,CLOUD-1610,Story Points,Medium
+CF-001611,CRM-1611,Business Value,Very High
+CF-001612,MOB-1612,Business Value,Medium
+CF-001613,MOB-1613,Business Value,Low
+CF-001616,BANK-1616,Customer Impact,Very High
+CF-001617,CRM-1617,Business Value,High
+CF-001619,MOB-1619,Risk Level,High
+CF-001620,ECOM-1620,Business Value,Low
+CF-001621,CRM-1621,Story Points,Low
+CF-001622,SEC-1622,Customer Impact,Very High
+CF-001623,BI-1623,Risk Level,Low
+CF-001624,CRM-1624,Technical Complexity,Low
+CF-001625,MOB-1625,Risk Level,Low
+CF-001627,PORTAL-1627,Customer Impact,Low
+CF-001628,BANK-1628,Business Value,Very High
+CF-001629,CLOUD-1629,Customer Impact,Low
+CF-001630,PORTAL-1630,Technical Complexity,Low
+CF-001631,SEC-1631,Technical Complexity,High
+CF-001632,CLOUD-1632,Business Value,Very High
+CF-001633,DATA-1633,Risk Level,Low
+CF-001635,BANK-1635,Business Value,Medium
+CF-001636,BANK-1636,Risk Level,High
+CF-001637,MOB-1637,Business Value,Very High
+CF-001638,CLOUD-1638,Business Value,High
+CF-001640,BANK-1640,Risk Level,Medium
+CF-001641,DATA-1641,Business Value,Very High
+CF-001642,DATA-1642,Customer Impact,Very High
+CF-001643,CRM-1643,Customer Impact,High
+CF-001644,CRM-1644,Technical Complexity,Low
+CF-001645,ECOM-1645,Story Points,Very High
+CF-001646,PORTAL-1646,Technical Complexity,High
+CF-001647,BANK-1647,Customer Impact,Low
+CF-001648,ERP-1648,Customer Impact,Very High
+CF-001649,DATA-1649,Risk Level,Medium
+CF-001650,BANK-1650,Business Value,Low
+CF-001651,DATA-1651,Customer Impact,High
+CF-001653,BANK-1653,Customer Impact,Very High
+CF-001654,SEC-1654,Business Value,Very High
+CF-001655,BI-1655,Business Value,Very High
+CF-001657,BI-1657,Risk Level,Low
+CF-001658,CLOUD-1658,Business Value,High
+CF-001661,DATA-1661,Risk Level,Medium
+CF-001662,CRM-1662,Business Value,Low
+CF-001663,BI-1663,Technical Complexity,Low
+CF-001664,MOB-1664,Customer Impact,Low
+CF-001665,CLOUD-1665,Customer Impact,High
+CF-001666,CRM-1666,Technical Complexity,Very High
+CF-001667,PORTAL-1667,Customer Impact,High
+CF-001668,MOB-1668,Story Points,Very High
+CF-001669,BI-1669,Technical Complexity,Medium
+CF-001671,CRM-1671,Business Value,Low
+CF-001672,ERP-1672,Customer Impact,Low
+CF-001673,PORTAL-1673,Risk Level,Low
+CF-001676,MOB-1676,Customer Impact,High
+CF-001677,CLOUD-1677,Customer Impact,High
+CF-001678,ERP-1678,Risk Level,Low
+CF-001679,PORTAL-1679,Risk Level,Medium
+CF-001680,ERP-1680,Technical Complexity,High
+CF-001681,ERP-1681,Story Points,Medium
+CF-001682,SEC-1682,Risk Level,Very High
+CF-001683,CLOUD-1683,Risk Level,Low
+CF-001684,ERP-1684,Risk Level,Very High
+CF-001685,ECOM-1685,Risk Level,Medium
+CF-001686,ECOM-1686,Risk Level,High
+CF-001687,DATA-1687,Customer Impact,Low
+CF-001688,BANK-1688,Technical Complexity,Low
+CF-001691,SEC-1691,Technical Complexity,Low
+CF-001693,DATA-1693,Technical Complexity,High
+CF-001694,SEC-1694,Customer Impact,High
+CF-001695,CLOUD-1695,Customer Impact,Low
+CF-001696,DATA-1696,Risk Level,Very High
+CF-001697,CRM-1697,Customer Impact,Medium
+CF-001698,MOB-1698,Business Value,Very High
+CF-001699,CRM-1699,Business Value,High
+CF-001700,ERP-1700,Technical Complexity,Low
+CF-001701,BI-1701,Technical Complexity,Very High
+CF-001702,SEC-1702,Customer Impact,Low
+CF-001703,CLOUD-1703,Business Value,High
+CF-001704,DATA-1704,Story Points,High
+CF-001705,SEC-1705,Risk Level,Low
+CF-001706,BI-1706,Story Points,High
+CF-001707,BANK-1707,Customer Impact,Medium
+CF-001709,BANK-1709,Customer Impact,High
+CF-001710,DATA-1710,Technical Complexity,Very High
+CF-001711,ECOM-1711,Business Value,Medium
+CF-001712,CLOUD-1712,Risk Level,Medium
+CF-001713,CRM-1713,Technical Complexity,Medium
+CF-001714,CRM-1714,Business Value,Medium
+CF-001715,CLOUD-1715,Risk Level,Low
+CF-001717,CRM-1717,Technical Complexity,Very High
+CF-001718,DATA-1718,Customer Impact,Low
+CF-001719,CRM-1719,Story Points,Low
+CF-001720,BANK-1720,Risk Level,Medium
+CF-001721,SEC-1721,Customer Impact,High
+CF-001722,BI-1722,Customer Impact,High
+CF-001724,CRM-1724,Story Points,Low
+CF-001725,ERP-1725,Story Points,Very High
+CF-001727,DATA-1727,Risk Level,High
+CF-001729,SEC-1729,Business Value,Low
+CF-001730,ECOM-1730,Customer Impact,High
+CF-001732,SEC-1732,Technical Complexity,High
+CF-001733,ECOM-1733,Technical Complexity,High
+CF-001734,SEC-1734,Business Value,Medium
+CF-001735,PORTAL-1735,Risk Level,Low
+CF-001736,ERP-1736,Business Value,Medium
+CF-001737,CLOUD-1737,Customer Impact,Medium
+CF-001739,DATA-1739,Customer Impact,Low
+CF-001740,BI-1740,Business Value,High
+CF-001741,CLOUD-1741,Story Points,High
+CF-001742,ERP-1742,Story Points,Low
+CF-001743,CLOUD-1743,Business Value,Medium
+CF-001745,SEC-1745,Technical Complexity,Medium
+CF-001746,PORTAL-1746,Customer Impact,Low
+CF-001747,ECOM-1747,Story Points,Very High
+CF-001748,CLOUD-1748,Business Value,Medium
+CF-001749,BANK-1749,Technical Complexity,High
+CF-001750,DATA-1750,Customer Impact,Very High
+CF-001751,PORTAL-1751,Customer Impact,Low
+CF-001753,PORTAL-1753,Story Points,Very High
+CF-001754,MOB-1754,Technical Complexity,Medium
+CF-001755,MOB-1755,Story Points,High
+CF-001756,PORTAL-1756,Technical Complexity,Low
+CF-001757,SEC-1757,Business Value,Very High
+CF-001758,ECOM-1758,Customer Impact,High
+CF-001760,SEC-1760,Business Value,Medium
+CF-001761,SEC-1761,Story Points,Medium
+CF-001762,CLOUD-1762,Technical Complexity,Low
+CF-001763,ERP-1763,Technical Complexity,High
+CF-001764,DATA-1764,Technical Complexity,Very High
+CF-001765,PORTAL-1765,Technical Complexity,High
+CF-001766,SEC-1766,Business Value,High
+CF-001767,BANK-1767,Technical Complexity,Low
+CF-001768,MOB-1768,Risk Level,Very High
+CF-001769,BI-1769,Risk Level,High
+CF-001770,PORTAL-1770,Customer Impact,Very High
+CF-001771,BI-1771,Business Value,Very High
+CF-001772,SEC-1772,Technical Complexity,Medium
+CF-001776,ERP-1776,Business Value,Very High
+CF-001777,ECOM-1777,Technical Complexity,Very High
+CF-001778,SEC-1778,Customer Impact,Very High
+CF-001779,BANK-1779,Business Value,Very High
+CF-001780,BI-1780,Business Value,Low
+CF-001781,CLOUD-1781,Business Value,Medium
+CF-001782,BANK-1782,Risk Level,Low
+CF-001783,ECOM-1783,Business Value,Low
+CF-001785,DATA-1785,Technical Complexity,Low
+CF-001786,BI-1786,Technical Complexity,High
+CF-001787,MOB-1787,Technical Complexity,High
+CF-001788,CRM-1788,Technical Complexity,Very High
+CF-001789,ERP-1789,Business Value,Very High
+CF-001790,PORTAL-1790,Story Points,Very High
+CF-001791,CRM-1791,Customer Impact,Very High
+CF-001792,MOB-1792,Story Points,Very High
+CF-001793,PORTAL-1793,Risk Level,Medium
+CF-001795,MOB-1795,Risk Level,Medium
+CF-001796,ECOM-1796,Technical Complexity,High
+CF-001797,SEC-1797,Customer Impact,Medium
+CF-001799,BANK-1799,Technical Complexity,High
+CF-001800,BI-1800,Story Points,Very High
+CF-001802,MOB-1802,Business Value,High
+CF-001803,CRM-1803,Risk Level,Very High
+CF-001804,CRM-1804,Technical Complexity,Very High
+CF-001805,ECOM-1805,Story Points,Very High
+CF-001806,BI-1806,Risk Level,Very High
+CF-001807,PORTAL-1807,Risk Level,Very High
+CF-001808,BANK-1808,Business Value,Low
+CF-001809,BI-1809,Customer Impact,High
+CF-001811,BANK-1811,Business Value,Very High
+CF-001814,ERP-1814,Risk Level,Very High
+CF-001815,BANK-1815,Business Value,Very High
+CF-001816,ERP-1816,Business Value,Low
+CF-001818,ERP-1818,Business Value,Low
+CF-001820,CLOUD-1820,Business Value,Low
+CF-001821,PORTAL-1821,Technical Complexity,High
+CF-001823,ECOM-1823,Risk Level,Very High
+CF-001824,DATA-1824,Customer Impact,Very High
+CF-001825,CLOUD-1825,Customer Impact,High
+CF-001827,CLOUD-1827,Story Points,High
+CF-001829,MOB-1829,Business Value,Very High
+CF-001831,BANK-1831,Customer Impact,High
+CF-001832,ERP-1832,Technical Complexity,High
+CF-001833,CRM-1833,Story Points,Medium
+CF-001834,ECOM-1834,Risk Level,Low
+CF-001835,BI-1835,Technical Complexity,Low
+CF-001836,MOB-1836,Technical Complexity,Low
+CF-001837,MOB-1837,Risk Level,High
+CF-001838,DATA-1838,Business Value,Low
+CF-001839,MOB-1839,Risk Level,Low
+CF-001840,SEC-1840,Customer Impact,Very High
+CF-001841,PORTAL-1841,Customer Impact,Medium
+CF-001842,MOB-1842,Technical Complexity,Very High
+CF-001843,SEC-1843,Risk Level,Medium
+CF-001844,BI-1844,Business Value,Very High
+CF-001845,ERP-1845,Technical Complexity,Medium
+CF-001847,ERP-1847,Risk Level,Low
+CF-001848,SEC-1848,Risk Level,Medium
+CF-001849,ECOM-1849,Technical Complexity,Very High
+CF-001850,SEC-1850,Technical Complexity,Very High
+CF-001852,PORTAL-1852,Story Points,Low
+CF-001853,ERP-1853,Story Points,Medium
+CF-001854,ECOM-1854,Story Points,Medium
+CF-001855,DATA-1855,Technical Complexity,High
+CF-001856,DATA-1856,Story Points,Medium
+CF-001857,ECOM-1857,Risk Level,Low
+CF-001859,MOB-1859,Risk Level,Medium
+CF-001860,DATA-1860,Technical Complexity,Very High
+CF-001862,BI-1862,Customer Impact,Very High
+CF-001863,BANK-1863,Risk Level,Very High
+CF-001864,CRM-1864,Business Value,Medium
+CF-001865,BI-1865,Business Value,Low
+CF-001866,MOB-1866,Story Points,Medium
+CF-001867,BANK-1867,Customer Impact,High
+CF-001868,ERP-1868,Technical Complexity,High
+CF-001870,ERP-1870,Technical Complexity,Very High
+CF-001871,BANK-1871,Business Value,Very High
+CF-001872,MOB-1872,Business Value,High
+CF-001873,BI-1873,Story Points,Very High
+CF-001874,CRM-1874,Business Value,Low
+CF-001875,ERP-1875,Story Points,High
+CF-001877,SEC-1877,Business Value,Very High
+CF-001880,ECOM-1880,Risk Level,High
+CF-001881,BANK-1881,Customer Impact,Low
+CF-001882,SEC-1882,Story Points,Very High
+CF-001884,BANK-1884,Story Points,Medium
+CF-001885,PORTAL-1885,Technical Complexity,Low
+CF-001886,CLOUD-1886,Story Points,Low
+CF-001887,BI-1887,Risk Level,High
+CF-001888,BANK-1888,Business Value,Low
+CF-001889,CLOUD-1889,Customer Impact,Medium
+CF-001890,CRM-1890,Risk Level,Low
+CF-001891,CLOUD-1891,Technical Complexity,Very High
+CF-001893,CLOUD-1893,Customer Impact,Very High
+CF-001894,BI-1894,Business Value,Low
+CF-001895,ERP-1895,Customer Impact,Very High
+CF-001897,ECOM-1897,Technical Complexity,Low
+CF-001899,ECOM-1899,Customer Impact,Very High
+CF-001900,ECOM-1900,Technical Complexity,Low
+CF-001901,ERP-1901,Technical Complexity,Medium
+CF-001902,BANK-1902,Customer Impact,Very High
+CF-001903,BANK-1903,Business Value,Very High
+CF-001905,ERP-1905,Risk Level,High
+CF-001907,BANK-1907,Risk Level,Low
+CF-001908,BI-1908,Customer Impact,High
+CF-001909,CLOUD-1909,Technical Complexity,Medium
+CF-001911,ERP-1911,Technical Complexity,Medium
+CF-001912,CLOUD-1912,Story Points,High
+CF-001913,BANK-1913,Risk Level,High
+CF-001914,ERP-1914,Business Value,Very High
+CF-001915,BANK-1915,Risk Level,Very High
+CF-001916,SEC-1916,Technical Complexity,Low
+CF-001917,CLOUD-1917,Technical Complexity,Medium
+CF-001918,CRM-1918,Risk Level,Very High
+CF-001919,SEC-1919,Customer Impact,High
+CF-001921,CRM-1921,Customer Impact,Low
+CF-001922,DATA-1922,Customer Impact,Medium
+CF-001923,CLOUD-1923,Risk Level,Very High
+CF-001924,ERP-1924,Risk Level,Low
+CF-001925,ECOM-1925,Technical Complexity,Low
+CF-001926,CRM-1926,Business Value,Very High
+CF-001928,PORTAL-1928,Customer Impact,Very High
+CF-001929,PORTAL-1929,Business Value,Low
+CF-001931,BI-1931,Risk Level,Low
+CF-001932,ERP-1932,Story Points,Very High
+CF-001933,ECOM-1933,Risk Level,Very High
+CF-001934,BI-1934,Risk Level,Very High
+CF-001935,SEC-1935,Story Points,Very High
+CF-001937,MOB-1937,Story Points,Very High
+CF-001939,ECOM-1939,Story Points,Medium
+CF-001940,PORTAL-1940,Story Points,Medium
+CF-001941,DATA-1941,Customer Impact,High
+CF-001942,ECOM-1942,Risk Level,Very High
+CF-001943,BI-1943,Risk Level,Very High
+CF-001944,BI-1944,Business Value,Medium
+CF-001945,PORTAL-1945,Customer Impact,Low
+CF-001946,MOB-1946,Technical Complexity,High
+CF-001947,PORTAL-1947,Technical Complexity,Very High
+CF-001948,BANK-1948,Customer Impact,Low
+CF-001949,MOB-1949,Business Value,High
+CF-001950,CRM-1950,Customer Impact,High
+CF-001951,BI-1951,Customer Impact,High
+CF-001952,SEC-1952,Customer Impact,Low
+CF-001953,MOB-1953,Technical Complexity,Medium
+CF-001954,BI-1954,Technical Complexity,High
+CF-001955,ERP-1955,Risk Level,Medium
+CF-001956,BI-1956,Technical Complexity,Low
+CF-001957,BANK-1957,Customer Impact,Medium
+CF-001958,SEC-1958,Story Points,Medium
+CF-001959,ECOM-1959,Story Points,High
+CF-001960,PORTAL-1960,Business Value,High
+CF-001961,BI-1961,Story Points,Medium
+CF-001962,PORTAL-1962,Technical Complexity,Medium
+CF-001963,SEC-1963,Technical Complexity,Low
+CF-001964,DATA-1964,Technical Complexity,Medium
+CF-001965,BANK-1965,Story Points,Very High
+CF-001966,DATA-1966,Technical Complexity,Medium
+CF-001967,CLOUD-1967,Technical Complexity,Low
+CF-001970,BI-1970,Customer Impact,Medium
+CF-001971,PORTAL-1971,Business Value,Medium
+CF-001972,CRM-1972,Risk Level,High
+CF-001973,ECOM-1973,Technical Complexity,Very High
+CF-001974,CLOUD-1974,Customer Impact,Very High
+CF-001975,BI-1975,Customer Impact,High
+CF-001976,CLOUD-1976,Story Points,Medium
+CF-001977,ECOM-1977,Business Value,Low
+CF-001978,ERP-1978,Technical Complexity,Low
+CF-001979,BANK-1979,Customer Impact,Medium
+CF-001980,CRM-1980,Customer Impact,Medium
+CF-001982,BANK-1982,Customer Impact,Medium
+CF-001984,MOB-1984,Risk Level,Medium
+CF-001985,MOB-1985,Technical Complexity,Medium
+CF-001986,CLOUD-1986,Technical Complexity,Very High
+CF-001987,DATA-1987,Story Points,High
+CF-001988,ERP-1988,Technical Complexity,Medium
+CF-001991,BANK-1991,Business Value,Low
+CF-001992,DATA-1992,Business Value,High
+CF-001993,ECOM-1993,Story Points,Medium
+CF-001994,MOB-1994,Risk Level,High
+CF-001995,ERP-1995,Risk Level,Very High
+CF-001996,MOB-1996,Business Value,Medium
+CF-001997,CRM-1997,Technical Complexity,Medium
+CF-001999,DATA-1999,Risk Level,Low
+CF-002000,SEC-2000,Story Points,Low
+CF-002001,BI-2001,Business Value,High
+CF-002003,ERP-2003,Technical Complexity,High
+CF-002005,SEC-2005,Customer Impact,Low
+CF-002006,ECOM-2006,Risk Level,High
+CF-002007,PORTAL-2007,Business Value,Low
+CF-002008,ECOM-2008,Story Points,Low
+CF-002009,CLOUD-2009,Business Value,Medium
+CF-002011,ECOM-2011,Story Points,Low
+CF-002012,SEC-2012,Customer Impact,High
+CF-002013,PORTAL-2013,Technical Complexity,Medium
+CF-002014,ECOM-2014,Risk Level,High
+CF-002015,ERP-2015,Customer Impact,Medium
+CF-002016,MOB-2016,Customer Impact,Low
+CF-002017,BANK-2017,Story Points,Very High
+CF-002020,CLOUD-2020,Risk Level,Medium
+CF-002021,SEC-2021,Risk Level,Medium
+CF-002023,DATA-2023,Customer Impact,Very High
+CF-002024,ECOM-2024,Story Points,Very High
+CF-002025,ERP-2025,Technical Complexity,Low
+CF-002026,CRM-2026,Customer Impact,Medium
+CF-002028,BANK-2028,Technical Complexity,Low
+CF-002029,DATA-2029,Risk Level,High
+CF-002031,SEC-2031,Business Value,Low
+CF-002033,BI-2033,Customer Impact,Very High
+CF-002034,SEC-2034,Risk Level,Very High
+CF-002035,DATA-2035,Customer Impact,Low
+CF-002037,CLOUD-2037,Technical Complexity,Low
+CF-002038,CRM-2038,Business Value,Very High
+CF-002039,MOB-2039,Customer Impact,High
+CF-002040,DATA-2040,Business Value,Medium
+CF-002041,BI-2041,Story Points,High
+CF-002042,CRM-2042,Business Value,High
+CF-002043,MOB-2043,Story Points,Very High
+CF-002044,PORTAL-2044,Customer Impact,Medium
+CF-002046,PORTAL-2046,Customer Impact,Low
+CF-002048,BI-2048,Risk Level,Medium
+CF-002049,ERP-2049,Story Points,Medium
+CF-002050,ERP-2050,Customer Impact,Very High
+CF-002051,ECOM-2051,Story Points,Low
+CF-002052,CLOUD-2052,Technical Complexity,Very High
+CF-002053,SEC-2053,Technical Complexity,Medium
+CF-002054,CLOUD-2054,Business Value,Very High
+CF-002055,MOB-2055,Customer Impact,Low
+CF-002057,ECOM-2057,Customer Impact,Very High
+CF-002058,ERP-2058,Story Points,Very High
+CF-002059,BI-2059,Business Value,Medium
+CF-002060,BI-2060,Customer Impact,Very High
+CF-002062,CRM-2062,Story Points,Low
+CF-002063,BI-2063,Risk Level,High
+CF-002064,CRM-2064,Customer Impact,Low
+CF-002065,CRM-2065,Risk Level,Low
+CF-002066,CRM-2066,Story Points,Very High
+CF-002067,ECOM-2067,Customer Impact,Low
+CF-002068,BI-2068,Risk Level,Low
+CF-002069,SEC-2069,Customer Impact,Medium
+CF-002070,SEC-2070,Story Points,Medium
+CF-002071,PORTAL-2071,Business Value,Medium
+CF-002072,MOB-2072,Story Points,Very High
+CF-002073,MOB-2073,Story Points,Very High
+CF-002074,MOB-2074,Customer Impact,Low
+CF-002075,DATA-2075,Story Points,Medium
+CF-002076,PORTAL-2076,Story Points,High
+CF-002077,BI-2077,Technical Complexity,Low
+CF-002078,BI-2078,Customer Impact,Very High
+CF-002079,SEC-2079,Business Value,Medium
+CF-002081,BANK-2081,Customer Impact,High
+CF-002083,ECOM-2083,Customer Impact,High
+CF-002084,CLOUD-2084,Risk Level,Medium
+CF-002085,CLOUD-2085,Story Points,High
+CF-002086,BANK-2086,Technical Complexity,Medium
+CF-002087,ERP-2087,Technical Complexity,Very High
+CF-002088,CRM-2088,Business Value,High
+CF-002089,PORTAL-2089,Story Points,Medium
+CF-002090,MOB-2090,Business Value,High
+CF-002091,ERP-2091,Technical Complexity,Low
+CF-002092,CRM-2092,Technical Complexity,Very High
+CF-002093,PORTAL-2093,Customer Impact,Medium
+CF-002094,DATA-2094,Business Value,High
+CF-002095,DATA-2095,Risk Level,High
+CF-002096,BANK-2096,Story Points,Very High
+CF-002097,BANK-2097,Business Value,Low
+CF-002098,BI-2098,Story Points,Low
+CF-002099,CRM-2099,Story Points,Medium
+CF-002100,CRM-2100,Story Points,Very High
+CF-002101,CRM-2101,Technical Complexity,High
+CF-002102,ERP-2102,Customer Impact,Very High
+CF-002103,CLOUD-2103,Risk Level,Low
+CF-002104,ERP-2104,Technical Complexity,Low
+CF-002107,ECOM-2107,Customer Impact,Low
+CF-002110,BANK-2110,Risk Level,Low
+CF-002112,DATA-2112,Business Value,Very High
+CF-002114,SEC-2114,Story Points,Medium
+CF-002116,ERP-2116,Technical Complexity,Medium
+CF-002117,CLOUD-2117,Risk Level,Very High
+CF-002118,CRM-2118,Business Value,High
+CF-002119,ERP-2119,Risk Level,Low
+CF-002120,ERP-2120,Risk Level,Low
+CF-002121,PORTAL-2121,Story Points,Very High
+CF-002122,DATA-2122,Story Points,Medium
+CF-002123,BI-2123,Story Points,High
+CF-002124,PORTAL-2124,Risk Level,Low
+CF-002126,MOB-2126,Business Value,High
+CF-002127,ECOM-2127,Business Value,Medium
+CF-002128,PORTAL-2128,Risk Level,High
+CF-002129,PORTAL-2129,Customer Impact,Medium
+CF-002130,DATA-2130,Risk Level,High
+CF-002132,CLOUD-2132,Business Value,Very High
+CF-002133,PORTAL-2133,Business Value,Very High
+CF-002134,DATA-2134,Customer Impact,Low
+CF-002135,ERP-2135,Technical Complexity,Low
+CF-002136,MOB-2136,Story Points,High
+CF-002138,CLOUD-2138,Technical Complexity,Medium
+CF-002139,CRM-2139,Story Points,Low
+CF-002140,ECOM-2140,Customer Impact,Very High
+CF-002141,ECOM-2141,Business Value,Low
+CF-002142,ERP-2142,Story Points,Low
+CF-002143,PORTAL-2143,Risk Level,Very High
+CF-002144,PORTAL-2144,Business Value,High
+CF-002145,MOB-2145,Technical Complexity,Low
+CF-002146,BANK-2146,Story Points,Medium
+CF-002147,BI-2147,Technical Complexity,Low
+CF-002148,CLOUD-2148,Risk Level,Very High
+CF-002149,PORTAL-2149,Business Value,High
+CF-002150,BI-2150,Customer Impact,High
+CF-002151,BI-2151,Technical Complexity,Low
+CF-002152,CRM-2152,Technical Complexity,Very High
+CF-002153,MOB-2153,Business Value,Medium
+CF-002154,CRM-2154,Customer Impact,Very High
+CF-002155,CRM-2155,Risk Level,Very High
+CF-002156,BI-2156,Risk Level,High
+CF-002157,DATA-2157,Story Points,High
+CF-002159,MOB-2159,Customer Impact,Very High
+CF-002160,ERP-2160,Business Value,Very High
+CF-002161,ECOM-2161,Customer Impact,Medium
+CF-002162,CRM-2162,Story Points,Medium
+CF-002163,SEC-2163,Technical Complexity,Low
+CF-002164,CRM-2164,Business Value,High
+CF-002165,ECOM-2165,Business Value,Medium
+CF-002168,ERP-2168,Technical Complexity,Medium
+CF-002169,ERP-2169,Risk Level,Low
+CF-002170,BANK-2170,Technical Complexity,High
+CF-002171,BI-2171,Technical Complexity,Low
+CF-002172,CRM-2172,Risk Level,Medium
+CF-002173,SEC-2173,Business Value,Medium
+CF-002174,BI-2174,Business Value,High
+CF-002175,SEC-2175,Story Points,Low
+CF-002176,PORTAL-2176,Risk Level,Low
+CF-002178,DATA-2178,Story Points,Medium
+CF-002179,CLOUD-2179,Technical Complexity,Very High
+CF-002180,MOB-2180,Technical Complexity,Low
+CF-002181,ERP-2181,Risk Level,Low
+CF-002182,SEC-2182,Business Value,High
+CF-002183,BANK-2183,Customer Impact,Low
+CF-002184,ECOM-2184,Story Points,Low
+CF-002185,BI-2185,Business Value,Low
+CF-002186,SEC-2186,Technical Complexity,Low
+CF-002187,BI-2187,Technical Complexity,Low
+CF-002189,DATA-2189,Customer Impact,High
+CF-002190,CLOUD-2190,Technical Complexity,Low
+CF-002191,BI-2191,Business Value,Very High
+CF-002192,MOB-2192,Customer Impact,Medium
+CF-002193,PORTAL-2193,Story Points,High
+CF-002194,DATA-2194,Business Value,High
+CF-002197,PORTAL-2197,Story Points,Medium
+CF-002198,ERP-2198,Risk Level,High
+CF-002199,CRM-2199,Customer Impact,Medium
+CF-002200,CRM-2200,Customer Impact,Low
+CF-002202,CLOUD-2202,Business Value,Low
+CF-002203,CRM-2203,Story Points,Very High
+CF-002204,SEC-2204,Business Value,High
+CF-002205,CLOUD-2205,Customer Impact,Very High
+CF-002206,PORTAL-2206,Technical Complexity,Medium
+CF-002207,ERP-2207,Story Points,Medium
+CF-002208,BANK-2208,Customer Impact,Very High
+CF-002209,SEC-2209,Technical Complexity,High
+CF-002210,ERP-2210,Story Points,Medium
+CF-002211,ERP-2211,Business Value,Low
+CF-002212,MOB-2212,Story Points,High
+CF-002215,DATA-2215,Technical Complexity,Very High
+CF-002217,DATA-2217,Business Value,Medium
+CF-002218,BI-2218,Customer Impact,Medium
+CF-002219,ECOM-2219,Story Points,Low
+CF-002220,PORTAL-2220,Technical Complexity,Medium
+CF-002221,ERP-2221,Technical Complexity,Very High
+CF-002222,BI-2222,Story Points,High
+CF-002223,SEC-2223,Customer Impact,Very High
+CF-002225,BI-2225,Risk Level,High
+CF-002227,PORTAL-2227,Risk Level,Very High
+CF-002228,CLOUD-2228,Technical Complexity,Low
+CF-002229,CRM-2229,Business Value,Very High
+CF-002230,BI-2230,Business Value,Medium
+CF-002231,ECOM-2231,Customer Impact,High
+CF-002232,ERP-2232,Customer Impact,Medium
+CF-002235,PORTAL-2235,Story Points,Low
+CF-002238,ECOM-2238,Customer Impact,Very High
+CF-002239,ECOM-2239,Customer Impact,Medium
+CF-002240,ECOM-2240,Technical Complexity,Low
+CF-002241,SEC-2241,Story Points,Low
+CF-002242,PORTAL-2242,Customer Impact,Medium
+CF-002244,DATA-2244,Risk Level,Low
+CF-002245,CLOUD-2245,Technical Complexity,High
+CF-002246,CRM-2246,Story Points,Low
+CF-002247,PORTAL-2247,Customer Impact,High
+CF-002248,ECOM-2248,Business Value,Medium
+CF-002249,PORTAL-2249,Business Value,Very High
+CF-002250,CRM-2250,Customer Impact,Medium
+CF-002253,MOB-2253,Business Value,Low
+CF-002255,ECOM-2255,Story Points,High
+CF-002256,ECOM-2256,Risk Level,Low
+CF-002257,MOB-2257,Technical Complexity,Very High
+CF-002259,DATA-2259,Risk Level,Low
+CF-002260,DATA-2260,Customer Impact,High
+CF-002261,PORTAL-2261,Story Points,Very High
+CF-002262,DATA-2262,Customer Impact,Very High
+CF-002263,SEC-2263,Customer Impact,Medium
+CF-002264,DATA-2264,Technical Complexity,High
+CF-002265,ECOM-2265,Risk Level,High
+CF-002266,PORTAL-2266,Business Value,Medium
+CF-002267,SEC-2267,Risk Level,Low
+CF-002268,CLOUD-2268,Customer Impact,Low
+CF-002270,ECOM-2270,Technical Complexity,Medium
+CF-002271,CRM-2271,Customer Impact,Very High
+CF-002272,MOB-2272,Story Points,Medium
+CF-002273,PORTAL-2273,Business Value,Very High
+CF-002275,BI-2275,Story Points,Low
+CF-002277,BI-2277,Technical Complexity,Low
+CF-002278,SEC-2278,Technical Complexity,Medium
+CF-002279,DATA-2279,Customer Impact,Low
+CF-002281,ERP-2281,Risk Level,Very High
+CF-002282,CRM-2282,Customer Impact,Medium
+CF-002283,DATA-2283,Technical Complexity,Medium
+CF-002284,BANK-2284,Business Value,Low
+CF-002285,DATA-2285,Risk Level,Medium
+CF-002286,BANK-2286,Risk Level,Low
+CF-002287,DATA-2287,Business Value,Very High
+CF-002288,DATA-2288,Story Points,Low
+CF-002289,BI-2289,Risk Level,Very High
+CF-002290,BANK-2290,Risk Level,Medium
+CF-002291,CRM-2291,Customer Impact,High
+CF-002292,ERP-2292,Risk Level,High
+CF-002294,DATA-2294,Technical Complexity,High
+CF-002295,MOB-2295,Story Points,Low
+CF-002296,BANK-2296,Technical Complexity,High
+CF-002297,PORTAL-2297,Business Value,Low
+CF-002298,BI-2298,Story Points,Medium
+CF-002300,ECOM-2300,Business Value,Medium
+CF-002302,CLOUD-2302,Risk Level,Very High
+CF-002303,BI-2303,Business Value,Low
+CF-002304,CRM-2304,Customer Impact,Low
+CF-002305,MOB-2305,Story Points,Very High
+CF-002306,PORTAL-2306,Business Value,Medium
+CF-002307,MOB-2307,Risk Level,Low
+CF-002308,CLOUD-2308,Story Points,Low
+CF-002309,SEC-2309,Story Points,High
+CF-002310,ECOM-2310,Story Points,Very High
+CF-002311,BANK-2311,Business Value,High
+CF-002312,PORTAL-2312,Technical Complexity,Medium
+CF-002313,CRM-2313,Business Value,High
+CF-002314,ECOM-2314,Technical Complexity,Very High
+CF-002315,CLOUD-2315,Customer Impact,Medium
+CF-002316,BANK-2316,Risk Level,Low
+CF-002317,BANK-2317,Story Points,Very High
+CF-002318,BI-2318,Story Points,Very High
+CF-002319,MOB-2319,Customer Impact,Low
+CF-002320,MOB-2320,Risk Level,Medium
+CF-002321,PORTAL-2321,Technical Complexity,Medium
+CF-002322,ERP-2322,Story Points,Low
+CF-002323,BANK-2323,Risk Level,High
+CF-002325,SEC-2325,Business Value,Medium
+CF-002327,SEC-2327,Technical Complexity,Very High
+CF-002328,SEC-2328,Technical Complexity,Medium
+CF-002329,CRM-2329,Business Value,High
+CF-002330,BANK-2330,Customer Impact,Medium
+CF-002331,BI-2331,Customer Impact,Very High
+CF-002332,CRM-2332,Customer Impact,High
+CF-002334,CRM-2334,Technical Complexity,Very High
+CF-002336,MOB-2336,Story Points,Very High
+CF-002337,ERP-2337,Story Points,Low
+CF-002339,PORTAL-2339,Technical Complexity,Very High
+CF-002341,CRM-2341,Risk Level,Medium
+CF-002342,SEC-2342,Customer Impact,Low
+CF-002343,ECOM-2343,Business Value,Medium
+CF-002344,BANK-2344,Risk Level,High
+CF-002346,BI-2346,Customer Impact,Low
+CF-002348,BI-2348,Business Value,Very High
+CF-002349,CLOUD-2349,Technical Complexity,Very High
+CF-002350,BI-2350,Business Value,High
+CF-002351,MOB-2351,Technical Complexity,Medium
+CF-002352,ECOM-2352,Story Points,Very High
+CF-002354,BANK-2354,Technical Complexity,High
+CF-002355,BI-2355,Business Value,Very High
+CF-002356,CLOUD-2356,Story Points,Medium
+CF-002357,ECOM-2357,Story Points,Low
+CF-002358,ERP-2358,Customer Impact,Very High
+CF-002359,PORTAL-2359,Technical Complexity,High
+CF-002361,BI-2361,Customer Impact,High
+CF-002363,BI-2363,Story Points,High
+CF-002365,PORTAL-2365,Story Points,Low
+CF-002367,ECOM-2367,Story Points,Low
+CF-002368,BANK-2368,Business Value,Very High
+CF-002369,ECOM-2369,Business Value,High
+CF-002370,CLOUD-2370,Business Value,Low
+CF-002371,BANK-2371,Business Value,Low
+CF-002372,MOB-2372,Risk Level,Very High
+CF-002373,SEC-2373,Technical Complexity,High
+CF-002374,ECOM-2374,Technical Complexity,Low
+CF-002375,BI-2375,Story Points,Very High
+CF-002376,MOB-2376,Business Value,Very High
+CF-002377,DATA-2377,Risk Level,Very High
+CF-002379,MOB-2379,Customer Impact,Medium
+CF-002380,ECOM-2380,Story Points,High
+CF-002381,CRM-2381,Risk Level,Low
+CF-002382,CRM-2382,Customer Impact,High
+CF-002383,DATA-2383,Technical Complexity,High
+CF-002384,DATA-2384,Risk Level,Very High
+CF-002385,CLOUD-2385,Technical Complexity,Medium
+CF-002386,BI-2386,Business Value,High
+CF-002388,BI-2388,Risk Level,Medium
+CF-002389,BANK-2389,Story Points,Very High
+CF-002390,CRM-2390,Customer Impact,Very High
+CF-002392,CRM-2392,Customer Impact,Very High
+CF-002393,BI-2393,Technical Complexity,High
+CF-002395,BI-2395,Business Value,Very High
+CF-002396,ERP-2396,Customer Impact,High
+CF-002397,ERP-2397,Customer Impact,Medium
+CF-002398,ECOM-2398,Business Value,Low
+CF-002399,PORTAL-2399,Business Value,Very High
+CF-002400,PORTAL-2400,Story Points,Medium
+CF-002401,SEC-2401,Technical Complexity,Low
+CF-002402,PORTAL-2402,Risk Level,Medium
+CF-002403,ERP-2403,Customer Impact,Medium
+CF-002404,MOB-2404,Business Value,Low
+CF-002405,ERP-2405,Customer Impact,High
+CF-002406,SEC-2406,Risk Level,High
+CF-002407,PORTAL-2407,Business Value,High
+CF-002408,BANK-2408,Customer Impact,Very High
+CF-002409,MOB-2409,Business Value,Very High
+CF-002411,CLOUD-2411,Technical Complexity,Very High
+CF-002412,CLOUD-2412,Customer Impact,Medium
+CF-002413,SEC-2413,Customer Impact,Low
+CF-002416,BANK-2416,Technical Complexity,High
+CF-002417,CRM-2417,Story Points,Medium
+CF-002418,BI-2418,Story Points,Very High
+CF-002420,SEC-2420,Business Value,Very High
+CF-002421,PORTAL-2421,Risk Level,Low
+CF-002423,SEC-2423,Technical Complexity,Low
+CF-002424,BANK-2424,Business Value,Low
+CF-002425,ERP-2425,Technical Complexity,Low
+CF-002426,CLOUD-2426,Risk Level,Low
+CF-002427,BANK-2427,Risk Level,Low
+CF-002428,SEC-2428,Story Points,Very High
+CF-002430,BI-2430,Customer Impact,Low
+CF-002431,DATA-2431,Business Value,Low
+CF-002432,MOB-2432,Story Points,High
+CF-002433,SEC-2433,Risk Level,Low
+CF-002434,BI-2434,Story Points,Medium
+CF-002435,BANK-2435,Business Value,High
+CF-002436,BANK-2436,Story Points,Low
+CF-002437,PORTAL-2437,Risk Level,Very High
+CF-002439,SEC-2439,Risk Level,Medium
+CF-002440,ECOM-2440,Technical Complexity,Very High
+CF-002442,SEC-2442,Customer Impact,Low
+CF-002444,SEC-2444,Risk Level,High
+CF-002445,BANK-2445,Risk Level,Low
+CF-002446,CLOUD-2446,Business Value,Low
+CF-002447,SEC-2447,Business Value,Very High
+CF-002448,SEC-2448,Business Value,Medium
+CF-002449,CLOUD-2449,Technical Complexity,Medium
+CF-002450,CRM-2450,Customer Impact,Very High
+CF-002451,CLOUD-2451,Story Points,Medium
+CF-002452,ERP-2452,Risk Level,Low
+CF-002453,SEC-2453,Business Value,Low
+CF-002455,MOB-2455,Story Points,Very High
+CF-002456,DATA-2456,Technical Complexity,Very High
+CF-002457,ECOM-2457,Customer Impact,High
+CF-002458,BI-2458,Customer Impact,Medium
+CF-002459,MOB-2459,Customer Impact,Medium
+CF-002460,ERP-2460,Business Value,High
+CF-002461,ERP-2461,Risk Level,High
+CF-002463,ECOM-2463,Customer Impact,High
+CF-002464,BANK-2464,Technical Complexity,Medium
+CF-002466,CRM-2466,Technical Complexity,Very High
+CF-002467,CLOUD-2467,Risk Level,Medium
+CF-002468,PORTAL-2468,Story Points,Medium
+CF-002469,MOB-2469,Customer Impact,Low
+CF-002470,BANK-2470,Business Value,High
+CF-002471,BI-2471,Risk Level,High
+CF-002472,ERP-2472,Story Points,Very High
+CF-002474,ECOM-2474,Technical Complexity,Very High
+CF-002475,MOB-2475,Customer Impact,High
+CF-002478,ERP-2478,Customer Impact,Low
+CF-002480,BI-2480,Story Points,Low
+CF-002482,PORTAL-2482,Risk Level,High
+CF-002483,BI-2483,Story Points,Medium
+CF-002484,MOB-2484,Story Points,Very High
+CF-002486,ECOM-2486,Technical Complexity,High
+CF-002489,ERP-2489,Story Points,Low
+CF-002490,ERP-2490,Story Points,Medium
+CF-002491,CRM-2491,Business Value,High
+CF-002492,ECOM-2492,Customer Impact,Low
+CF-002495,BI-2495,Risk Level,Low
+CF-002496,BI-2496,Business Value,Very High
+CF-002501,CRM-2501,Customer Impact,Medium
+CF-002503,ECOM-2503,Technical Complexity,High
+CF-002504,BANK-2504,Technical Complexity,Medium
+CF-002505,CLOUD-2505,Business Value,High
+CF-002507,BI-2507,Risk Level,Very High
+CF-002509,BI-2509,Risk Level,Very High
+CF-002510,ERP-2510,Customer Impact,Medium
+CF-002512,ERP-2512,Customer Impact,Very High
+CF-002513,BI-2513,Technical Complexity,Very High
+CF-002514,ECOM-2514,Customer Impact,High
+CF-002515,CRM-2515,Customer Impact,Low
+CF-002516,PORTAL-2516,Business Value,Low
+CF-002517,BI-2517,Customer Impact,Medium
+CF-002518,BI-2518,Technical Complexity,Low
+CF-002519,ERP-2519,Risk Level,Medium
+CF-002520,ECOM-2520,Risk Level,Very High
+CF-002521,BANK-2521,Risk Level,High
+CF-002522,ECOM-2522,Risk Level,Very High
+CF-002523,CLOUD-2523,Business Value,Very High
+CF-002524,BANK-2524,Customer Impact,Low
+CF-002525,DATA-2525,Risk Level,Low
+CF-002526,ECOM-2526,Customer Impact,Low
+CF-002527,PORTAL-2527,Technical Complexity,High
+CF-002528,SEC-2528,Risk Level,Low
+CF-002529,BANK-2529,Business Value,High
+CF-002530,BI-2530,Risk Level,Low
+CF-002532,PORTAL-2532,Risk Level,High
+CF-002533,CRM-2533,Business Value,Low
+CF-002534,BI-2534,Story Points,Low
+CF-002536,MOB-2536,Technical Complexity,High
+CF-002537,SEC-2537,Business Value,Medium
+CF-002538,SEC-2538,Business Value,Very High
+CF-002539,BANK-2539,Technical Complexity,Low
+CF-002540,BI-2540,Risk Level,Medium
+CF-002541,BANK-2541,Risk Level,High
+CF-002542,SEC-2542,Business Value,Very High
+CF-002545,CLOUD-2545,Risk Level,High
+CF-002546,ECOM-2546,Story Points,Medium
+CF-002548,MOB-2548,Business Value,Very High
+CF-002549,ERP-2549,Technical Complexity,Medium
+CF-002550,CLOUD-2550,Technical Complexity,Very High
+CF-002552,BANK-2552,Business Value,Very High
+CF-002553,BANK-2553,Risk Level,Low
+CF-002555,ERP-2555,Business Value,Very High
+CF-002556,ERP-2556,Risk Level,High
+CF-002557,CRM-2557,Technical Complexity,High
+CF-002558,DATA-2558,Business Value,Medium
+CF-002559,CRM-2559,Technical Complexity,High
+CF-002560,DATA-2560,Customer Impact,Low
+CF-002561,CLOUD-2561,Business Value,Very High
+CF-002563,PORTAL-2563,Risk Level,Very High
+CF-002565,ERP-2565,Business Value,Low
+CF-002566,ERP-2566,Story Points,Medium
+CF-002568,BI-2568,Risk Level,Medium
+CF-002570,PORTAL-2570,Risk Level,High
+CF-002571,CRM-2571,Story Points,Medium
+CF-002572,ECOM-2572,Technical Complexity,High
+CF-002573,PORTAL-2573,Story Points,High
+CF-002574,SEC-2574,Customer Impact,Very High
+CF-002575,ECOM-2575,Technical Complexity,Very High
+CF-002576,ECOM-2576,Story Points,High
+CF-002578,SEC-2578,Risk Level,High
+CF-002579,DATA-2579,Technical Complexity,Low
+CF-002580,PORTAL-2580,Story Points,Medium
+CF-002581,DATA-2581,Technical Complexity,Very High
+CF-002582,SEC-2582,Risk Level,Medium
+CF-002583,MOB-2583,Technical Complexity,Very High
+CF-002584,PORTAL-2584,Risk Level,Very High
+CF-002585,PORTAL-2585,Customer Impact,Low
+CF-002586,PORTAL-2586,Business Value,Very High
+CF-002587,BI-2587,Business Value,Medium
+CF-002588,PORTAL-2588,Risk Level,Low
+CF-002589,PORTAL-2589,Risk Level,Low
+CF-002590,CLOUD-2590,Story Points,Low
+CF-002591,SEC-2591,Customer Impact,Medium
+CF-002592,BI-2592,Story Points,Low
+CF-002593,PORTAL-2593,Customer Impact,Very High
+CF-002594,CRM-2594,Technical Complexity,High
+CF-002595,ECOM-2595,Business Value,Medium
+CF-002596,PORTAL-2596,Business Value,Medium
+CF-002597,BANK-2597,Story Points,High
+CF-002598,BI-2598,Story Points,Very High
+CF-002599,ERP-2599,Technical Complexity,High
+CF-002600,DATA-2600,Story Points,Very High
+CF-002601,BANK-2601,Customer Impact,High
+CF-002602,CRM-2602,Story Points,High
+CF-002604,SEC-2604,Risk Level,High
+CF-002605,CLOUD-2605,Risk Level,Medium
+CF-002606,ERP-2606,Story Points,Low
+CF-002607,BANK-2607,Risk Level,Low
+CF-002608,ECOM-2608,Technical Complexity,High
+CF-002609,SEC-2609,Risk Level,Very High
+CF-002610,MOB-2610,Risk Level,Very High
+CF-002611,ECOM-2611,Risk Level,High
+CF-002614,CRM-2614,Risk Level,High
+CF-002615,BANK-2615,Story Points,Medium
+CF-002616,DATA-2616,Customer Impact,Medium
+CF-002617,PORTAL-2617,Customer Impact,High
+CF-002618,ERP-2618,Risk Level,Medium
+CF-002620,CRM-2620,Customer Impact,Medium
+CF-002621,CLOUD-2621,Risk Level,Low
+CF-002622,CRM-2622,Technical Complexity,Medium
+CF-002623,DATA-2623,Risk Level,Medium
+CF-002624,ECOM-2624,Customer Impact,High
+CF-002625,BI-2625,Risk Level,Low
+CF-002626,DATA-2626,Business Value,Low
+CF-002627,SEC-2627,Technical Complexity,Low
+CF-002628,BANK-2628,Technical Complexity,Very High
+CF-002629,MOB-2629,Technical Complexity,Very High
+CF-002632,ECOM-2632,Risk Level,Very High
+CF-002633,ECOM-2633,Story Points,High
+CF-002634,CLOUD-2634,Story Points,Low
+CF-002635,SEC-2635,Story Points,Low
+CF-002636,DATA-2636,Customer Impact,High
+CF-002638,ERP-2638,Technical Complexity,Low
+CF-002639,ERP-2639,Risk Level,High
+CF-002640,CLOUD-2640,Story Points,Very High
+CF-002641,BANK-2641,Customer Impact,Very High
+CF-002642,BI-2642,Risk Level,Medium
+CF-002643,BI-2643,Customer Impact,Low
+CF-002644,PORTAL-2644,Customer Impact,Low
+CF-002645,CRM-2645,Technical Complexity,Medium
+CF-002646,BANK-2646,Business Value,Medium
+CF-002647,CRM-2647,Technical Complexity,Very High
+CF-002648,BANK-2648,Risk Level,Medium
+CF-002649,DATA-2649,Risk Level,Very High
+CF-002650,SEC-2650,Risk Level,Very High
+CF-002653,PORTAL-2653,Risk Level,Medium
+CF-002656,ECOM-2656,Customer Impact,Medium
+CF-002658,MOB-2658,Story Points,Medium
+CF-002659,CLOUD-2659,Customer Impact,High
+CF-002660,SEC-2660,Story Points,Low
+CF-002661,CLOUD-2661,Customer Impact,Low
+CF-002663,BANK-2663,Risk Level,Very High
+CF-002664,PORTAL-2664,Story Points,Low
+CF-002667,SEC-2667,Business Value,Very High
+CF-002668,BANK-2668,Customer Impact,Low
+CF-002669,DATA-2669,Risk Level,Very High
+CF-002670,MOB-2670,Business Value,Very High
+CF-002672,BI-2672,Business Value,Low
+CF-002673,ECOM-2673,Business Value,Medium
+CF-002674,CRM-2674,Technical Complexity,Low
+CF-002675,ECOM-2675,Risk Level,Very High
+CF-002676,CLOUD-2676,Risk Level,High
+CF-002677,BANK-2677,Story Points,Medium
+CF-002678,ERP-2678,Customer Impact,Very High
+CF-002680,DATA-2680,Technical Complexity,Very High
+CF-002682,SEC-2682,Technical Complexity,Medium
+CF-002684,DATA-2684,Customer Impact,High
+CF-002685,SEC-2685,Risk Level,Medium
+CF-002687,BI-2687,Story Points,High
+CF-002689,SEC-2689,Story Points,Very High
+CF-002691,BI-2691,Customer Impact,Medium
+CF-002692,BANK-2692,Business Value,Very High
+CF-002693,BANK-2693,Technical Complexity,Medium
+CF-002694,CLOUD-2694,Customer Impact,Medium
+CF-002695,CLOUD-2695,Risk Level,High
+CF-002696,BI-2696,Business Value,High
+CF-002697,DATA-2697,Story Points,High
+CF-002699,DATA-2699,Story Points,Medium
+CF-002700,ERP-2700,Customer Impact,Very High
+CF-002703,MOB-2703,Business Value,Very High
+CF-002704,PORTAL-2704,Story Points,Very High
+CF-002705,SEC-2705,Risk Level,Low
+CF-002706,MOB-2706,Risk Level,Low
+CF-002708,ECOM-2708,Customer Impact,Medium
+CF-002709,PORTAL-2709,Business Value,Very High
+CF-002710,CRM-2710,Risk Level,Very High
+CF-002712,ERP-2712,Risk Level,Low
+CF-002713,CLOUD-2713,Technical Complexity,High
+CF-002714,ERP-2714,Technical Complexity,Very High
+CF-002715,PORTAL-2715,Business Value,Very High
+CF-002716,SEC-2716,Business Value,Very High
+CF-002717,CRM-2717,Customer Impact,Medium
+CF-002718,DATA-2718,Story Points,Very High
+CF-002720,BANK-2720,Customer Impact,Very High
+CF-002722,BANK-2722,Story Points,Medium
+CF-002723,PORTAL-2723,Technical Complexity,Medium
+CF-002724,CRM-2724,Business Value,High
+CF-002725,MOB-2725,Technical Complexity,Very High
+CF-002726,BANK-2726,Business Value,Very High
+CF-002728,CLOUD-2728,Risk Level,High
+CF-002729,BANK-2729,Business Value,Very High
+CF-002730,CLOUD-2730,Risk Level,High
+CF-002731,MOB-2731,Risk Level,Low
+CF-002732,CRM-2732,Story Points,Very High
+CF-002733,CRM-2733,Technical Complexity,Medium
+CF-002734,SEC-2734,Technical Complexity,High
+CF-002735,BANK-2735,Risk Level,Medium
+CF-002736,DATA-2736,Risk Level,Medium
+CF-002737,ECOM-2737,Customer Impact,High
+CF-002739,CLOUD-2739,Story Points,Medium
+CF-002740,BI-2740,Business Value,Low
+CF-002741,MOB-2741,Customer Impact,High
+CF-002742,BANK-2742,Business Value,Very High
+CF-002743,BI-2743,Customer Impact,Very High
+CF-002744,DATA-2744,Customer Impact,High
+CF-002745,ERP-2745,Story Points,High
+CF-002746,ERP-2746,Technical Complexity,High
+CF-002748,BANK-2748,Story Points,Medium
+CF-002749,DATA-2749,Risk Level,Medium
+CF-002750,DATA-2750,Business Value,Medium
+CF-002751,ERP-2751,Customer Impact,Very High
+CF-002753,SEC-2753,Business Value,Low
+CF-002754,DATA-2754,Story Points,Medium
+CF-002755,PORTAL-2755,Customer Impact,High
+CF-002756,BANK-2756,Business Value,Medium
+CF-002757,ERP-2757,Story Points,Very High
+CF-002758,PORTAL-2758,Story Points,Low
+CF-002759,DATA-2759,Business Value,Medium
+CF-002760,PORTAL-2760,Technical Complexity,Medium
+CF-002763,BI-2763,Business Value,Very High
+CF-002764,CLOUD-2764,Business Value,Medium
+CF-002765,CRM-2765,Story Points,Medium
+CF-002766,BI-2766,Story Points,Very High
+CF-002767,SEC-2767,Business Value,Very High
+CF-002768,BI-2768,Customer Impact,High
+CF-002769,MOB-2769,Technical Complexity,Low
+CF-002770,CRM-2770,Story Points,Medium
+CF-002771,CRM-2771,Story Points,High
+CF-002772,PORTAL-2772,Risk Level,High
+CF-002773,SEC-2773,Customer Impact,Low
+CF-002774,MOB-2774,Technical Complexity,Medium
+CF-002775,ECOM-2775,Technical Complexity,High
+CF-002776,CRM-2776,Business Value,Medium
+CF-002777,CRM-2777,Technical Complexity,High
+CF-002779,BANK-2779,Customer Impact,Medium
+CF-002780,SEC-2780,Story Points,Medium
+CF-002782,CRM-2782,Customer Impact,Low
+CF-002783,BI-2783,Technical Complexity,Low
+CF-002784,ERP-2784,Story Points,Low
+CF-002785,SEC-2785,Story Points,Very High
+CF-002786,CRM-2786,Story Points,Low
+CF-002787,BANK-2787,Technical Complexity,Low
+CF-002788,ECOM-2788,Risk Level,Medium
+CF-002790,PORTAL-2790,Customer Impact,Low
+CF-002791,CRM-2791,Customer Impact,Medium
+CF-002792,BANK-2792,Business Value,Medium
+CF-002794,DATA-2794,Customer Impact,High
+CF-002795,CRM-2795,Business Value,High
+CF-002796,MOB-2796,Risk Level,High
+CF-002798,CRM-2798,Customer Impact,High
+CF-002799,SEC-2799,Business Value,Low
+CF-002800,DATA-2800,Risk Level,Low
+CF-002801,BANK-2801,Business Value,Low
+CF-002802,PORTAL-2802,Customer Impact,Medium
+CF-002803,DATA-2803,Technical Complexity,Low
+CF-002804,BI-2804,Story Points,Low
+CF-002805,DATA-2805,Story Points,High
+CF-002806,PORTAL-2806,Risk Level,Medium
+CF-002808,DATA-2808,Story Points,High
+CF-002809,PORTAL-2809,Technical Complexity,Low
+CF-002810,ECOM-2810,Customer Impact,Low
+CF-002812,BI-2812,Risk Level,Medium
+CF-002814,SEC-2814,Risk Level,Very High
+CF-002815,MOB-2815,Business Value,High
+CF-002816,BI-2816,Business Value,Very High
+CF-002819,BANK-2819,Story Points,Low
+CF-002820,PORTAL-2820,Risk Level,High
+CF-002821,CLOUD-2821,Technical Complexity,Very High
+CF-002822,BANK-2822,Technical Complexity,Very High
+CF-002823,DATA-2823,Story Points,Very High
+CF-002824,ECOM-2824,Business Value,Very High
+CF-002825,MOB-2825,Story Points,Low
+CF-002827,CLOUD-2827,Risk Level,High
+CF-002828,SEC-2828,Risk Level,High
+CF-002829,ECOM-2829,Risk Level,Medium
+CF-002830,CLOUD-2830,Customer Impact,Very High
+CF-002831,BI-2831,Business Value,High
+CF-002832,MOB-2832,Story Points,Low
+CF-002833,BANK-2833,Business Value,High
+CF-002834,CRM-2834,Story Points,Low
+CF-002835,CLOUD-2835,Customer Impact,Low
+CF-002836,BANK-2836,Business Value,Low
+CF-002837,CLOUD-2837,Story Points,Very High
+CF-002838,DATA-2838,Technical Complexity,Medium
+CF-002840,ERP-2840,Risk Level,Very High
+CF-002841,PORTAL-2841,Business Value,Very High
+CF-002842,CLOUD-2842,Risk Level,High
+CF-002843,ERP-2843,Business Value,Medium
+CF-002844,BI-2844,Story Points,Very High
+CF-002845,SEC-2845,Business Value,High
+CF-002846,CRM-2846,Risk Level,High
+CF-002847,PORTAL-2847,Risk Level,Very High
+CF-002848,BANK-2848,Technical Complexity,Very High
+CF-002849,BANK-2849,Risk Level,Medium
+CF-002850,CLOUD-2850,Customer Impact,High
+CF-002851,DATA-2851,Business Value,Very High
+CF-002852,ERP-2852,Business Value,High
+CF-002855,MOB-2855,Technical Complexity,Medium
+CF-002856,SEC-2856,Risk Level,Low
+CF-002857,DATA-2857,Technical Complexity,Medium
+CF-002858,SEC-2858,Risk Level,Medium
+CF-002859,BANK-2859,Risk Level,High
+CF-002860,ERP-2860,Technical Complexity,Medium
+CF-002861,PORTAL-2861,Business Value,Very High
+CF-002862,MOB-2862,Technical Complexity,Low
+CF-002863,SEC-2863,Story Points,Low
+CF-002865,BANK-2865,Risk Level,High
+CF-002866,MOB-2866,Risk Level,Very High
+CF-002867,ECOM-2867,Technical Complexity,High
+CF-002868,SEC-2868,Business Value,High
+CF-002870,ERP-2870,Business Value,Very High
+CF-002871,SEC-2871,Risk Level,Very High
+CF-002872,SEC-2872,Risk Level,Medium
+CF-002873,BANK-2873,Business Value,Very High
+CF-002875,CRM-2875,Technical Complexity,Medium
+CF-002876,CLOUD-2876,Business Value,Very High
+CF-002877,DATA-2877,Customer Impact,High
+CF-002878,BANK-2878,Story Points,Very High
+CF-002880,BANK-2880,Customer Impact,Medium
+CF-002881,MOB-2881,Customer Impact,Very High
+CF-002882,SEC-2882,Customer Impact,Low
+CF-002883,BI-2883,Customer Impact,Low
+CF-002884,CRM-2884,Technical Complexity,High
+CF-002885,ECOM-2885,Customer Impact,Low
+CF-002887,SEC-2887,Story Points,Low
+CF-002888,BANK-2888,Customer Impact,Medium
+CF-002889,CRM-2889,Story Points,High
+CF-002890,CRM-2890,Risk Level,Medium
+CF-002891,BANK-2891,Business Value,Low
+CF-002892,CLOUD-2892,Business Value,Medium
+CF-002893,PORTAL-2893,Risk Level,Very High
+CF-002894,DATA-2894,Customer Impact,High
+CF-002895,ERP-2895,Customer Impact,Medium
+CF-002896,CLOUD-2896,Business Value,Medium
+CF-002899,BANK-2899,Business Value,High
+CF-002900,BI-2900,Story Points,High
+CF-002901,DATA-2901,Story Points,High
+CF-002902,ERP-2902,Business Value,Medium
+CF-002903,PORTAL-2903,Risk Level,Low
+CF-002904,PORTAL-2904,Business Value,Low
+CF-002905,ERP-2905,Business Value,High
+CF-002906,PORTAL-2906,Risk Level,High
+CF-002907,BI-2907,Technical Complexity,Medium
+CF-002908,BI-2908,Business Value,Very High
+CF-002909,PORTAL-2909,Risk Level,Medium
+CF-002910,BI-2910,Risk Level,High
+CF-002911,CLOUD-2911,Story Points,Very High
+CF-002912,DATA-2912,Technical Complexity,Low
+CF-002913,PORTAL-2913,Business Value,High
+CF-002914,BI-2914,Story Points,High
+CF-002915,PORTAL-2915,Risk Level,Low
+CF-002916,CLOUD-2916,Customer Impact,Medium
+CF-002917,PORTAL-2917,Business Value,Very High
+CF-002919,CRM-2919,Story Points,High
+CF-002921,BI-2921,Risk Level,Low
+CF-002922,ECOM-2922,Story Points,Medium
+CF-002923,SEC-2923,Business Value,Medium
+CF-002924,CLOUD-2924,Customer Impact,Low
+CF-002925,CLOUD-2925,Story Points,High
+CF-002926,DATA-2926,Story Points,High
+CF-002927,PORTAL-2927,Risk Level,Medium
+CF-002928,SEC-2928,Story Points,Very High
+CF-002929,CLOUD-2929,Business Value,Medium
+CF-002930,SEC-2930,Risk Level,Low
+CF-002932,BANK-2932,Customer Impact,Medium
+CF-002933,ERP-2933,Risk Level,Low
+CF-002934,DATA-2934,Risk Level,Medium
+CF-002935,BI-2935,Customer Impact,Medium
+CF-002936,ERP-2936,Business Value,Medium
+CF-002937,BANK-2937,Risk Level,Low
+CF-002938,PORTAL-2938,Risk Level,Very High
+CF-002939,ERP-2939,Risk Level,Very High
+CF-002940,BANK-2940,Story Points,High
+CF-002941,DATA-2941,Customer Impact,High
+CF-002942,ECOM-2942,Technical Complexity,Low
+CF-002943,CRM-2943,Risk Level,Very High
+CF-002945,BANK-2945,Business Value,Very High
+CF-002946,ERP-2946,Business Value,Low
+CF-002948,SEC-2948,Customer Impact,Medium
+CF-002949,CRM-2949,Technical Complexity,Very High
+CF-002950,BI-2950,Business Value,Low
+CF-002953,DATA-2953,Risk Level,High
+CF-002954,PORTAL-2954,Technical Complexity,High
+CF-002956,ERP-2956,Story Points,Very High
+CF-002957,ECOM-2957,Technical Complexity,High
+CF-002958,BANK-2958,Story Points,Very High
+CF-002959,SEC-2959,Technical Complexity,Low
+CF-002960,ERP-2960,Business Value,Low
+CF-002961,PORTAL-2961,Business Value,Low
+CF-002962,ERP-2962,Risk Level,Medium
+CF-002964,ERP-2964,Technical Complexity,Very High
+CF-002965,CLOUD-2965,Technical Complexity,High
+CF-002966,BI-2966,Story Points,Low
+CF-002967,CLOUD-2967,Story Points,Very High
+CF-002968,CLOUD-2968,Technical Complexity,Very High
+CF-002969,BI-2969,Business Value,Low
+CF-002970,MOB-2970,Business Value,Very High
+CF-002972,ECOM-2972,Risk Level,Medium
+CF-002973,BANK-2973,Customer Impact,Low
+CF-002974,BI-2974,Customer Impact,Low
+CF-002975,BI-2975,Business Value,Low
+CF-002976,CRM-2976,Story Points,Low
+CF-002977,CLOUD-2977,Business Value,Medium
+CF-002978,SEC-2978,Customer Impact,Medium
+CF-002979,CLOUD-2979,Risk Level,Low
+CF-002980,MOB-2980,Risk Level,Medium
+CF-002981,ECOM-2981,Business Value,Very High
+CF-002983,MOB-2983,Risk Level,Medium
+CF-002985,BI-2985,Technical Complexity,High
+CF-002986,CLOUD-2986,Story Points,Very High
+CF-002988,BANK-2988,Story Points,Medium
+CF-002989,PORTAL-2989,Story Points,Low
+CF-002991,CLOUD-2991,Risk Level,Very High
+CF-002992,CRM-2992,Story Points,High
+CF-002994,ERP-2994,Customer Impact,Medium
+CF-002995,CLOUD-2995,Risk Level,Very High
+CF-002996,ERP-2996,Business Value,Very High
+CF-002997,SEC-2997,Customer Impact,Very High
+CF-002998,ERP-2998,Story Points,High
+CF-002999,CLOUD-2999,Technical Complexity,High
+CF-003000,ERP-3000,Risk Level,Low
+CF-003001,DATA-3001,Business Value,Low
+CF-003002,SEC-3002,Story Points,High
+CF-003003,ECOM-3003,Customer Impact,High
+CF-003004,CLOUD-3004,Business Value,Medium
+CF-003005,CRM-3005,Story Points,High
+CF-003007,DATA-3007,Customer Impact,High
+CF-003009,DATA-3009,Customer Impact,Very High
+CF-003010,SEC-3010,Technical Complexity,High
+CF-003011,DATA-3011,Technical Complexity,Medium
+CF-003012,BI-3012,Business Value,Medium
+CF-003014,BANK-3014,Technical Complexity,High
+CF-003015,ECOM-3015,Technical Complexity,High
+CF-003016,CRM-3016,Business Value,Low
+CF-003017,PORTAL-3017,Story Points,Very High
+CF-003018,ERP-3018,Business Value,Low
+CF-003019,PORTAL-3019,Technical Complexity,Low
+CF-003020,PORTAL-3020,Business Value,Medium
+CF-003021,BI-3021,Customer Impact,Medium
+CF-003022,ERP-3022,Business Value,Medium
+CF-003024,CLOUD-3024,Risk Level,Medium
+CF-003025,ERP-3025,Business Value,Low
+CF-003026,SEC-3026,Customer Impact,Low
+CF-003027,ECOM-3027,Story Points,Very High
+CF-003028,ERP-3028,Risk Level,Very High
+CF-003030,BANK-3030,Business Value,Low
+CF-003031,DATA-3031,Business Value,Medium
+CF-003032,CRM-3032,Business Value,Very High
+CF-003034,ECOM-3034,Business Value,Very High
+CF-003036,ERP-3036,Technical Complexity,Medium
+CF-003038,CLOUD-3038,Technical Complexity,Medium
+CF-003039,SEC-3039,Technical Complexity,High
+CF-003040,ERP-3040,Business Value,Very High
+CF-003041,MOB-3041,Story Points,Medium
+CF-003042,ECOM-3042,Business Value,High
+CF-003043,CLOUD-3043,Business Value,Low
+CF-003044,CRM-3044,Technical Complexity,High
+CF-003045,BANK-3045,Risk Level,Low
+CF-003046,BANK-3046,Risk Level,Very High
+CF-003047,ECOM-3047,Risk Level,Very High
+CF-003048,BANK-3048,Risk Level,Low
+CF-003049,SEC-3049,Customer Impact,Medium
+CF-003050,SEC-3050,Story Points,Medium
+CF-003051,CRM-3051,Business Value,Medium
+CF-003052,MOB-3052,Story Points,High
+CF-003053,BANK-3053,Business Value,High
+CF-003054,ERP-3054,Technical Complexity,High
+CF-003055,ECOM-3055,Business Value,High
+CF-003056,DATA-3056,Business Value,Very High
+CF-003057,DATA-3057,Business Value,High
+CF-003059,BANK-3059,Risk Level,Very High
+CF-003060,CLOUD-3060,Story Points,Medium
+CF-003061,SEC-3061,Business Value,Very High
+CF-003062,MOB-3062,Risk Level,Medium
+CF-003063,SEC-3063,Business Value,High
+CF-003064,BI-3064,Business Value,High
+CF-003065,ECOM-3065,Business Value,High
+CF-003066,DATA-3066,Technical Complexity,Medium
+CF-003067,MOB-3067,Business Value,Low
+CF-003068,BI-3068,Story Points,Very High
+CF-003069,BANK-3069,Technical Complexity,Very High
+CF-003070,CRM-3070,Story Points,High
+CF-003071,ECOM-3071,Technical Complexity,Low
+CF-003072,BI-3072,Story Points,Low
+CF-003073,ERP-3073,Story Points,High
+CF-003074,BI-3074,Business Value,High
+CF-003076,ERP-3076,Technical Complexity,Low
+CF-003078,MOB-3078,Business Value,Very High
+CF-003080,DATA-3080,Risk Level,Very High
+CF-003081,PORTAL-3081,Technical Complexity,Very High
+CF-003082,MOB-3082,Technical Complexity,High
+CF-003083,ECOM-3083,Technical Complexity,Low
+CF-003086,SEC-3086,Risk Level,Medium
+CF-003088,SEC-3088,Customer Impact,Low
+CF-003090,DATA-3090,Technical Complexity,Very High
+CF-003091,CLOUD-3091,Risk Level,Very High
+CF-003092,PORTAL-3092,Technical Complexity,Very High
+CF-003093,ERP-3093,Risk Level,Low
+CF-003094,ERP-3094,Business Value,Very High
+CF-003095,CRM-3095,Story Points,Low
+CF-003096,BI-3096,Story Points,Very High
+CF-003098,DATA-3098,Story Points,Medium
+CF-003099,CLOUD-3099,Risk Level,High
+CF-003103,CRM-3103,Technical Complexity,Medium
+CF-003104,PORTAL-3104,Customer Impact,Very High
+CF-003105,DATA-3105,Customer Impact,High
+CF-003106,CRM-3106,Risk Level,Low
+CF-003108,SEC-3108,Business Value,High
+CF-003111,ECOM-3111,Technical Complexity,High
+CF-003112,BANK-3112,Technical Complexity,Low
+CF-003113,CLOUD-3113,Story Points,Low
+CF-003114,CRM-3114,Customer Impact,Low
+CF-003116,BANK-3116,Customer Impact,Very High
+CF-003117,ECOM-3117,Risk Level,Very High
+CF-003119,BANK-3119,Technical Complexity,Very High
+CF-003121,CLOUD-3121,Technical Complexity,High
+CF-003122,BI-3122,Customer Impact,Medium
+CF-003125,BI-3125,Business Value,Low
+CF-003126,ECOM-3126,Risk Level,Medium
+CF-003128,BANK-3128,Story Points,High
+CF-003129,BANK-3129,Story Points,High
+CF-003131,BI-3131,Customer Impact,Medium
+CF-003132,DATA-3132,Risk Level,Low
+CF-003133,DATA-3133,Customer Impact,Medium
+CF-003136,MOB-3136,Business Value,Low
+CF-003137,CRM-3137,Technical Complexity,Very High
+CF-003138,MOB-3138,Business Value,Low
+CF-003139,MOB-3139,Risk Level,Very High
+CF-003141,BANK-3141,Technical Complexity,Low
+CF-003143,SEC-3143,Risk Level,Medium
+CF-003144,PORTAL-3144,Customer Impact,Medium
+CF-003145,SEC-3145,Customer Impact,High
+CF-003146,DATA-3146,Story Points,Very High
+CF-003147,MOB-3147,Technical Complexity,Very High
+CF-003148,BANK-3148,Technical Complexity,Medium
+CF-003149,PORTAL-3149,Risk Level,Medium
+CF-003150,MOB-3150,Story Points,Medium
+CF-003151,SEC-3151,Technical Complexity,Low
+CF-003154,MOB-3154,Technical Complexity,Medium
+CF-003155,ECOM-3155,Technical Complexity,Medium
+CF-003156,PORTAL-3156,Technical Complexity,Low
+CF-003157,PORTAL-3157,Business Value,Medium
+CF-003158,CRM-3158,Risk Level,High
+CF-003159,MOB-3159,Customer Impact,Medium
+CF-003160,BANK-3160,Story Points,Medium
+CF-003164,SEC-3164,Risk Level,High
+CF-003165,CLOUD-3165,Customer Impact,Very High
+CF-003166,DATA-3166,Business Value,Very High
+CF-003167,SEC-3167,Customer Impact,Very High
+CF-003168,DATA-3168,Story Points,Very High
+CF-003169,MOB-3169,Story Points,High
+CF-003170,CLOUD-3170,Risk Level,Medium
+CF-003174,DATA-3174,Story Points,Low
+CF-003175,BI-3175,Business Value,Very High
+CF-003176,BI-3176,Technical Complexity,Medium
+CF-003177,BANK-3177,Business Value,Very High
+CF-003178,BANK-3178,Story Points,Low
+CF-003179,BANK-3179,Risk Level,Very High
+CF-003180,DATA-3180,Business Value,Medium
+CF-003181,ECOM-3181,Risk Level,High
+CF-003182,DATA-3182,Story Points,Low
+CF-003184,MOB-3184,Story Points,Very High
+CF-003185,MOB-3185,Technical Complexity,High
+CF-003186,DATA-3186,Story Points,High
+CF-003187,ECOM-3187,Risk Level,Very High
+CF-003188,PORTAL-3188,Customer Impact,Very High
+CF-003189,ECOM-3189,Risk Level,Very High
+CF-003190,CLOUD-3190,Customer Impact,Low
+CF-003191,SEC-3191,Business Value,Very High
+CF-003192,ERP-3192,Technical Complexity,Low
+CF-003193,MOB-3193,Business Value,Medium
+CF-003194,CLOUD-3194,Customer Impact,High
+CF-003195,MOB-3195,Business Value,Medium
+CF-003196,DATA-3196,Technical Complexity,Very High
+CF-003197,PORTAL-3197,Technical Complexity,High
+CF-003198,MOB-3198,Technical Complexity,High
+CF-003199,ECOM-3199,Story Points,Medium
+CF-003200,DATA-3200,Business Value,Low
+CF-003202,BI-3202,Business Value,High
+CF-003203,BI-3203,Story Points,Medium
+CF-003204,SEC-3204,Business Value,High
+CF-003205,BI-3205,Story Points,Low
+CF-003206,ERP-3206,Technical Complexity,Very High
+CF-003207,CRM-3207,Risk Level,Medium
+CF-003208,CRM-3208,Story Points,Medium
+CF-003209,MOB-3209,Technical Complexity,High
+CF-003210,BI-3210,Business Value,Very High
+CF-003212,DATA-3212,Customer Impact,Very High
+CF-003213,ERP-3213,Business Value,High
+CF-003216,ERP-3216,Customer Impact,Low
+CF-003217,CLOUD-3217,Technical Complexity,Very High
+CF-003218,CRM-3218,Story Points,Very High
+CF-003220,BI-3220,Business Value,Very High
+CF-003221,BI-3221,Business Value,High
+CF-003222,ERP-3222,Business Value,Medium
+CF-003223,BANK-3223,Customer Impact,Very High
+CF-003224,ECOM-3224,Business Value,Very High
+CF-003225,ECOM-3225,Story Points,Medium
+CF-003226,BI-3226,Risk Level,Medium
+CF-003230,CLOUD-3230,Business Value,Very High
+CF-003231,BI-3231,Risk Level,High
+CF-003232,MOB-3232,Technical Complexity,High
+CF-003234,DATA-3234,Customer Impact,Very High
+CF-003235,DATA-3235,Technical Complexity,Very High
+CF-003236,BI-3236,Risk Level,High
+CF-003238,ERP-3238,Customer Impact,Low
+CF-003239,CLOUD-3239,Business Value,High
+CF-003240,MOB-3240,Story Points,Very High
+CF-003241,SEC-3241,Customer Impact,Low
+CF-003242,BI-3242,Technical Complexity,Medium
+CF-003244,CLOUD-3244,Customer Impact,Low
+CF-003245,ERP-3245,Business Value,High
+CF-003246,ECOM-3246,Risk Level,Very High
+CF-003247,CRM-3247,Risk Level,Medium
+CF-003248,PORTAL-3248,Risk Level,High
+CF-003251,DATA-3251,Customer Impact,Very High
+CF-003253,ECOM-3253,Story Points,Low
+CF-003254,PORTAL-3254,Technical Complexity,Very High
+CF-003255,DATA-3255,Customer Impact,Medium
+CF-003256,CRM-3256,Customer Impact,High
+CF-003257,ECOM-3257,Customer Impact,High
+CF-003258,BI-3258,Technical Complexity,Medium
+CF-003259,BI-3259,Business Value,High
+CF-003260,PORTAL-3260,Business Value,Very High
+CF-003261,CLOUD-3261,Story Points,Very High
+CF-003262,ERP-3262,Business Value,Very High
+CF-003263,ECOM-3263,Technical Complexity,Medium
+CF-003264,BI-3264,Story Points,Very High
+CF-003265,BANK-3265,Business Value,Low
+CF-003267,SEC-3267,Story Points,Low
+CF-003268,CLOUD-3268,Customer Impact,High
+CF-003269,MOB-3269,Customer Impact,Very High
+CF-003270,MOB-3270,Technical Complexity,Low
+CF-003271,BI-3271,Risk Level,Medium
+CF-003272,CLOUD-3272,Business Value,Low
+CF-003274,DATA-3274,Customer Impact,Very High
+CF-003275,BI-3275,Risk Level,Medium
+CF-003276,BANK-3276,Customer Impact,Very High
+CF-003277,ERP-3277,Story Points,Medium
+CF-003278,ECOM-3278,Customer Impact,Very High
+CF-003279,BI-3279,Customer Impact,Very High
+CF-003280,CLOUD-3280,Risk Level,High
+CF-003281,CLOUD-3281,Business Value,High
+CF-003283,SEC-3283,Business Value,Very High
+CF-003284,MOB-3284,Story Points,High
+CF-003285,ECOM-3285,Story Points,High
+CF-003286,DATA-3286,Risk Level,Very High
+CF-003287,CLOUD-3287,Technical Complexity,High
+CF-003288,SEC-3288,Risk Level,High
+CF-003289,BANK-3289,Story Points,High
+CF-003290,BANK-3290,Technical Complexity,Low
+CF-003291,PORTAL-3291,Customer Impact,High
+CF-003292,PORTAL-3292,Customer Impact,Medium
+CF-003293,CLOUD-3293,Technical Complexity,High
+CF-003294,CLOUD-3294,Story Points,Very High
+CF-003296,CLOUD-3296,Risk Level,Low
+CF-003298,SEC-3298,Customer Impact,Low
+CF-003299,PORTAL-3299,Business Value,Medium
+CF-003300,MOB-3300,Customer Impact,Medium
+CF-003301,ERP-3301,Technical Complexity,Low
+CF-003302,PORTAL-3302,Technical Complexity,Low
+CF-003303,SEC-3303,Technical Complexity,Very High
+CF-003304,MOB-3304,Customer Impact,High
+CF-003305,PORTAL-3305,Business Value,Medium
+CF-003306,CLOUD-3306,Business Value,Very High
+CF-003307,ECOM-3307,Technical Complexity,Low
+CF-003308,BANK-3308,Customer Impact,Low
+CF-003309,ECOM-3309,Technical Complexity,Low
+CF-003310,ERP-3310,Risk Level,Very High
+CF-003311,ECOM-3311,Business Value,Medium
+CF-003312,DATA-3312,Risk Level,Low
+CF-003313,MOB-3313,Risk Level,Low
+CF-003314,CLOUD-3314,Technical Complexity,Medium
+CF-003315,SEC-3315,Story Points,High
+CF-003316,BI-3316,Story Points,Low
+CF-003317,MOB-3317,Business Value,High
+CF-003318,SEC-3318,Risk Level,High
+CF-003321,BANK-3321,Customer Impact,High
+CF-003322,PORTAL-3322,Customer Impact,Medium
+CF-003324,BANK-3324,Technical Complexity,Medium
+CF-003325,SEC-3325,Risk Level,Very High
+CF-003326,MOB-3326,Customer Impact,Low
+CF-003327,ERP-3327,Business Value,Medium
+CF-003328,CLOUD-3328,Technical Complexity,Very High
+CF-003329,BI-3329,Business Value,High
+CF-003330,CRM-3330,Risk Level,High
+CF-003332,DATA-3332,Risk Level,Medium
+CF-003333,CRM-3333,Story Points,Low
+CF-003334,SEC-3334,Customer Impact,Very High
+CF-003335,CLOUD-3335,Story Points,High
+CF-003336,ECOM-3336,Customer Impact,Medium
+CF-003337,SEC-3337,Business Value,High
+CF-003338,ECOM-3338,Customer Impact,High
+CF-003339,DATA-3339,Business Value,Low
+CF-003341,BI-3341,Story Points,Low
+CF-003343,MOB-3343,Risk Level,High
+CF-003344,MOB-3344,Customer Impact,Low
+CF-003345,CLOUD-3345,Risk Level,Very High
+CF-003347,SEC-3347,Risk Level,Very High
+CF-003348,BANK-3348,Risk Level,High
+CF-003349,BI-3349,Technical Complexity,High
+CF-003350,PORTAL-3350,Customer Impact,Low
+CF-003351,BI-3351,Risk Level,Very High
+CF-003352,MOB-3352,Business Value,Medium
+CF-003353,MOB-3353,Technical Complexity,Low
+CF-003354,MOB-3354,Story Points,Medium
+CF-003355,PORTAL-3355,Story Points,Low
+CF-003356,BI-3356,Customer Impact,Low
+CF-003357,ECOM-3357,Customer Impact,Low
+CF-003359,PORTAL-3359,Business Value,Medium
+CF-003360,ECOM-3360,Technical Complexity,Low
+CF-003362,ECOM-3362,Risk Level,Medium
+CF-003363,SEC-3363,Business Value,Low
+CF-003364,CLOUD-3364,Customer Impact,Very High
+CF-003366,ERP-3366,Story Points,Low
+CF-003367,PORTAL-3367,Risk Level,Low
+CF-003369,ECOM-3369,Business Value,Low
+CF-003371,CLOUD-3371,Technical Complexity,Very High
+CF-003372,CRM-3372,Customer Impact,Low
+CF-003373,CRM-3373,Business Value,Very High
+CF-003374,BANK-3374,Story Points,High
+CF-003375,DATA-3375,Customer Impact,Medium
+CF-003376,ERP-3376,Story Points,Medium
+CF-003378,MOB-3378,Risk Level,High
+CF-003380,CRM-3380,Business Value,High
+CF-003381,MOB-3381,Business Value,Medium
+CF-003382,SEC-3382,Technical Complexity,High
+CF-003383,BI-3383,Risk Level,High
+CF-003385,ECOM-3385,Customer Impact,Low
+CF-003387,PORTAL-3387,Risk Level,Medium
+CF-003388,ERP-3388,Technical Complexity,Medium
+CF-003390,DATA-3390,Risk Level,Medium
+CF-003393,DATA-3393,Story Points,Low
+CF-003394,MOB-3394,Technical Complexity,Low
+CF-003397,BI-3397,Story Points,High
+CF-003398,SEC-3398,Customer Impact,Low
+CF-003399,CLOUD-3399,Risk Level,High
+CF-003400,ECOM-3400,Story Points,Low
+CF-003401,BI-3401,Risk Level,Low
+CF-003402,ERP-3402,Customer Impact,Medium
+CF-003403,BI-3403,Technical Complexity,Medium
+CF-003404,ERP-3404,Risk Level,Medium
+CF-003405,DATA-3405,Technical Complexity,Low
+CF-003406,BI-3406,Business Value,Medium
+CF-003407,BI-3407,Story Points,High
+CF-003408,ECOM-3408,Customer Impact,Very High
+CF-003409,BI-3409,Risk Level,High
+CF-003410,MOB-3410,Story Points,Medium
+CF-003411,ERP-3411,Business Value,High
+CF-003412,ERP-3412,Risk Level,High
+CF-003413,CRM-3413,Risk Level,Low
+CF-003414,PORTAL-3414,Risk Level,Very High
+CF-003415,DATA-3415,Risk Level,Very High
+CF-003416,ECOM-3416,Story Points,Medium
+CF-003417,CRM-3417,Story Points,Low
+CF-003419,CRM-3419,Business Value,High
+CF-003420,ECOM-3420,Story Points,Medium
+CF-003421,CRM-3421,Risk Level,High
+CF-003422,CRM-3422,Customer Impact,Low
+CF-003423,BI-3423,Story Points,High
+CF-003424,BANK-3424,Risk Level,Medium
+CF-003425,PORTAL-3425,Customer Impact,High
+CF-003427,CLOUD-3427,Business Value,Very High
+CF-003428,CRM-3428,Customer Impact,Very High
+CF-003430,DATA-3430,Risk Level,Low
+CF-003431,SEC-3431,Technical Complexity,Low
+CF-003435,ECOM-3435,Story Points,Medium
+CF-003436,PORTAL-3436,Customer Impact,High
+CF-003437,ERP-3437,Story Points,Very High
+CF-003439,CRM-3439,Story Points,High
+CF-003440,CLOUD-3440,Risk Level,High
+CF-003442,SEC-3442,Customer Impact,Medium
+CF-003443,CLOUD-3443,Risk Level,Medium
+CF-003444,PORTAL-3444,Customer Impact,Medium
+CF-003445,BANK-3445,Story Points,Low
+CF-003446,PORTAL-3446,Story Points,Very High
+CF-003447,DATA-3447,Story Points,Medium
+CF-003448,PORTAL-3448,Customer Impact,High
+CF-003449,ECOM-3449,Risk Level,High
+CF-003450,SEC-3450,Story Points,Medium
+CF-003455,ERP-3455,Technical Complexity,Low
+CF-003456,BI-3456,Technical Complexity,High
+CF-003457,CRM-3457,Story Points,Medium
+CF-003458,BI-3458,Technical Complexity,High
+CF-003459,DATA-3459,Risk Level,High
+CF-003460,BI-3460,Risk Level,Low
+CF-003461,CRM-3461,Business Value,Very High
+CF-003462,BI-3462,Risk Level,High
+CF-003463,ECOM-3463,Customer Impact,Low
+CF-003464,MOB-3464,Customer Impact,Medium
+CF-003465,ECOM-3465,Business Value,Low
+CF-003466,BI-3466,Risk Level,Low
+CF-003467,SEC-3467,Technical Complexity,Low
+CF-003468,DATA-3468,Business Value,High
+CF-003469,BI-3469,Story Points,Low
+CF-003470,ECOM-3470,Story Points,Very High
+CF-003471,SEC-3471,Risk Level,High
+CF-003472,CLOUD-3472,Technical Complexity,Medium
+CF-003474,BANK-3474,Customer Impact,Low
+CF-003475,BI-3475,Technical Complexity,Very High
+CF-003477,MOB-3477,Customer Impact,Low
+CF-003478,CLOUD-3478,Technical Complexity,Low
+CF-003479,CRM-3479,Technical Complexity,High
+CF-003480,ECOM-3480,Business Value,High
+CF-003481,CLOUD-3481,Risk Level,Very High
+CF-003482,BI-3482,Risk Level,High
+CF-003483,CLOUD-3483,Technical Complexity,Very High
+CF-003485,MOB-3485,Risk Level,Medium
+CF-003486,SEC-3486,Risk Level,Medium
+CF-003487,BANK-3487,Business Value,Very High
+CF-003489,SEC-3489,Technical Complexity,Low
+CF-003491,SEC-3491,Business Value,Very High
+CF-003492,BANK-3492,Technical Complexity,Medium
+CF-003493,MOB-3493,Risk Level,Very High
+CF-003495,DATA-3495,Customer Impact,Very High
+CF-003497,DATA-3497,Technical Complexity,Low
+CF-003498,BI-3498,Technical Complexity,Very High
+CF-003499,CLOUD-3499,Risk Level,Medium
+CF-003501,SEC-3501,Risk Level,Medium
+CF-003502,ERP-3502,Risk Level,Medium
+CF-003503,ERP-3503,Customer Impact,Low
+CF-003504,BI-3504,Risk Level,High
+CF-003505,CRM-3505,Risk Level,High
+CF-003506,BI-3506,Business Value,High
+CF-003507,ERP-3507,Technical Complexity,Low
+CF-003508,PORTAL-3508,Story Points,High
+CF-003510,BI-3510,Technical Complexity,Very High
+CF-003511,BI-3511,Risk Level,Low
+CF-003512,SEC-3512,Customer Impact,High
+CF-003513,CLOUD-3513,Risk Level,Very High
+CF-003514,PORTAL-3514,Business Value,Medium
+CF-003515,BANK-3515,Customer Impact,Low
+CF-003516,CLOUD-3516,Customer Impact,Very High
+CF-003517,DATA-3517,Risk Level,Low
+CF-003519,CRM-3519,Risk Level,Medium
+CF-003520,CLOUD-3520,Risk Level,High
+CF-003521,BI-3521,Business Value,Low
+CF-003522,SEC-3522,Customer Impact,Medium
+CF-003523,BANK-3523,Technical Complexity,Low
+CF-003524,ERP-3524,Business Value,Very High
+CF-003525,ECOM-3525,Story Points,Low
+CF-003526,BANK-3526,Customer Impact,Very High
+CF-003527,MOB-3527,Business Value,High
+CF-003528,PORTAL-3528,Customer Impact,Very High
+CF-003529,ERP-3529,Technical Complexity,Very High
+CF-003530,CRM-3530,Business Value,Very High
+CF-003531,BANK-3531,Customer Impact,Low
+CF-003532,PORTAL-3532,Business Value,Very High
+CF-003533,DATA-3533,Story Points,High
+CF-003536,DATA-3536,Technical Complexity,Medium
+CF-003537,DATA-3537,Risk Level,Very High
+CF-003538,PORTAL-3538,Story Points,Medium
+CF-003541,MOB-3541,Story Points,Low
+CF-003542,BI-3542,Story Points,Medium
+CF-003543,SEC-3543,Customer Impact,Low
+CF-003546,BI-3546,Story Points,Very High
+CF-003547,BANK-3547,Business Value,Low
+CF-003549,BI-3549,Technical Complexity,High
+CF-003550,BI-3550,Story Points,Very High
+CF-003551,BI-3551,Business Value,Medium
+CF-003552,CRM-3552,Risk Level,Very High
+CF-003553,PORTAL-3553,Story Points,High
+CF-003554,DATA-3554,Story Points,Medium
+CF-003555,BANK-3555,Risk Level,Very High
+CF-003556,MOB-3556,Customer Impact,Very High
+CF-003557,DATA-3557,Story Points,Medium
+CF-003558,CRM-3558,Risk Level,Medium
+CF-003559,DATA-3559,Customer Impact,Very High
+CF-003560,BANK-3560,Technical Complexity,Medium
+CF-003562,CRM-3562,Customer Impact,High
+CF-003563,ECOM-3563,Technical Complexity,Medium
+CF-003564,ECOM-3564,Risk Level,Low
+CF-003565,SEC-3565,Technical Complexity,High
+CF-003566,MOB-3566,Customer Impact,High
+CF-003567,DATA-3567,Business Value,Low
+CF-003568,CRM-3568,Customer Impact,High
+CF-003571,MOB-3571,Story Points,Medium
+CF-003573,ECOM-3573,Risk Level,Medium
+CF-003574,ECOM-3574,Customer Impact,Very High
+CF-003576,ECOM-3576,Customer Impact,High
+CF-003577,CRM-3577,Story Points,High
+CF-003578,PORTAL-3578,Technical Complexity,Very High
+CF-003580,ECOM-3580,Technical Complexity,Medium
+CF-003581,CRM-3581,Business Value,Low
+CF-003582,DATA-3582,Risk Level,High
+CF-003584,ERP-3584,Risk Level,Low
+CF-003585,BANK-3585,Technical Complexity,Medium
+CF-003586,MOB-3586,Risk Level,Very High
+CF-003587,ERP-3587,Business Value,Medium
+CF-003589,ECOM-3589,Customer Impact,High
+CF-003590,BI-3590,Story Points,Low
+CF-003592,ERP-3592,Technical Complexity,Medium
+CF-003593,BI-3593,Risk Level,Medium
+CF-003596,DATA-3596,Technical Complexity,Low
+CF-003597,BANK-3597,Business Value,Medium
+CF-003598,CLOUD-3598,Technical Complexity,Very High
+CF-003599,DATA-3599,Business Value,Medium
+CF-003600,SEC-3600,Story Points,Low
+CF-003601,ECOM-3601,Customer Impact,Low
+CF-003602,BANK-3602,Risk Level,Low
+CF-003603,CRM-3603,Story Points,Very High
+CF-003604,ECOM-3604,Technical Complexity,Low
+CF-003605,CRM-3605,Customer Impact,Medium
+CF-003606,BI-3606,Technical Complexity,Very High
+CF-003607,MOB-3607,Customer Impact,High
+CF-003608,SEC-3608,Customer Impact,Very High
+CF-003609,BI-3609,Technical Complexity,Very High
+CF-003610,BI-3610,Story Points,Medium
+CF-003612,DATA-3612,Customer Impact,Very High
+CF-003614,MOB-3614,Technical Complexity,Very High
+CF-003615,CLOUD-3615,Risk Level,Medium
+CF-003616,BI-3616,Technical Complexity,Low
+CF-003617,MOB-3617,Technical Complexity,High
+CF-003618,DATA-3618,Customer Impact,Low
+CF-003620,BI-3620,Story Points,Medium
+CF-003621,SEC-3621,Risk Level,High
+CF-003623,CLOUD-3623,Technical Complexity,High
+CF-003624,DATA-3624,Customer Impact,Very High
+CF-003625,ECOM-3625,Customer Impact,Very High
+CF-003627,ECOM-3627,Business Value,High
+CF-003628,DATA-3628,Customer Impact,Medium
+CF-003629,PORTAL-3629,Technical Complexity,Very High
+CF-003630,PORTAL-3630,Business Value,Low
+CF-003631,MOB-3631,Risk Level,Medium
+CF-003632,CLOUD-3632,Business Value,Medium
+CF-003634,SEC-3634,Risk Level,Very High
+CF-003635,BANK-3635,Story Points,Medium
+CF-003637,CLOUD-3637,Customer Impact,Very High
+CF-003640,ECOM-3640,Customer Impact,Very High
+CF-003642,ECOM-3642,Customer Impact,Medium
+CF-003644,ERP-3644,Technical Complexity,Very High
+CF-003645,MOB-3645,Business Value,High
+CF-003646,SEC-3646,Customer Impact,High
+CF-003647,BI-3647,Customer Impact,Very High
+CF-003648,CRM-3648,Technical Complexity,High
+CF-003649,ERP-3649,Technical Complexity,Medium
+CF-003652,ECOM-3652,Technical Complexity,High
+CF-003654,PORTAL-3654,Story Points,Very High
+CF-003655,BANK-3655,Story Points,Low
+CF-003656,PORTAL-3656,Story Points,Medium
+CF-003658,BANK-3658,Customer Impact,Very High
+CF-003659,BI-3659,Story Points,Very High
+CF-003662,PORTAL-3662,Business Value,Low
+CF-003663,BI-3663,Story Points,Low
+CF-003664,ECOM-3664,Story Points,Very High
+CF-003665,CLOUD-3665,Customer Impact,Very High
+CF-003666,DATA-3666,Business Value,Very High
+CF-003667,BI-3667,Customer Impact,High
+CF-003669,MOB-3669,Technical Complexity,High
+CF-003670,ECOM-3670,Technical Complexity,Medium
+CF-003671,BI-3671,Technical Complexity,High
+CF-003672,MOB-3672,Story Points,Low
+CF-003673,ECOM-3673,Business Value,Very High
+CF-003675,CLOUD-3675,Story Points,Very High
+CF-003676,CRM-3676,Technical Complexity,High
+CF-003677,BI-3677,Customer Impact,Low
+CF-003678,BANK-3678,Story Points,Very High
+CF-003679,BI-3679,Customer Impact,Medium
+CF-003680,BI-3680,Risk Level,Low
+CF-003681,CRM-3681,Risk Level,Low
+CF-003682,MOB-3682,Risk Level,High
+CF-003685,MOB-3685,Story Points,Medium
+CF-003686,ECOM-3686,Customer Impact,High
+CF-003688,ECOM-3688,Business Value,High
+CF-003690,PORTAL-3690,Story Points,Low
+CF-003692,MOB-3692,Technical Complexity,Low
+CF-003693,ERP-3693,Story Points,Low
+CF-003694,PORTAL-3694,Technical Complexity,Medium
+CF-003695,CLOUD-3695,Story Points,Very High
+CF-003696,BI-3696,Business Value,High
+CF-003698,BANK-3698,Technical Complexity,Medium
+CF-003699,CRM-3699,Technical Complexity,Medium
+CF-003700,DATA-3700,Business Value,Medium
+CF-003701,PORTAL-3701,Business Value,Low
+CF-003703,CLOUD-3703,Customer Impact,Very High
+CF-003704,BANK-3704,Customer Impact,Medium
+CF-003706,SEC-3706,Technical Complexity,High
+CF-003707,CRM-3707,Story Points,Low
+CF-003708,CRM-3708,Customer Impact,Very High
+CF-003709,SEC-3709,Risk Level,Medium
+CF-003711,CRM-3711,Technical Complexity,Medium
+CF-003712,MOB-3712,Customer Impact,Medium
+CF-003713,CLOUD-3713,Business Value,Medium
+CF-003714,CRM-3714,Customer Impact,Medium
+CF-003715,DATA-3715,Technical Complexity,Medium
+CF-003716,SEC-3716,Business Value,High
+CF-003717,MOB-3717,Risk Level,High
+CF-003719,ECOM-3719,Story Points,Medium
+CF-003720,BI-3720,Customer Impact,Medium
+CF-003721,BI-3721,Risk Level,Low
+CF-003723,SEC-3723,Technical Complexity,Very High
+CF-003724,ECOM-3724,Customer Impact,Low
+CF-003725,ECOM-3725,Customer Impact,Low
+CF-003726,ECOM-3726,Technical Complexity,Medium
+CF-003727,ERP-3727,Technical Complexity,Low
+CF-003728,PORTAL-3728,Risk Level,Low
+CF-003729,BI-3729,Risk Level,Very High
+CF-003730,ECOM-3730,Customer Impact,Low
+CF-003731,CLOUD-3731,Risk Level,High
+CF-003732,DATA-3732,Story Points,Very High
+CF-003733,BANK-3733,Customer Impact,High
+CF-003734,MOB-3734,Story Points,Medium
+CF-003736,CRM-3736,Story Points,High
+CF-003737,SEC-3737,Technical Complexity,Medium
+CF-003738,BI-3738,Story Points,Low
+CF-003739,SEC-3739,Story Points,High
+CF-003741,DATA-3741,Story Points,Medium
+CF-003742,PORTAL-3742,Technical Complexity,Very High
+CF-003743,BANK-3743,Story Points,Very High
+CF-003744,ERP-3744,Customer Impact,Very High
+CF-003745,ERP-3745,Technical Complexity,Low
+CF-003747,PORTAL-3747,Customer Impact,Very High
+CF-003748,ERP-3748,Customer Impact,Medium
+CF-003749,DATA-3749,Customer Impact,Medium
+CF-003750,ECOM-3750,Business Value,High
+CF-003751,MOB-3751,Customer Impact,High
+CF-003752,ERP-3752,Business Value,Low
+CF-003753,PORTAL-3753,Story Points,Medium
+CF-003755,BANK-3755,Risk Level,Medium
+CF-003756,CLOUD-3756,Technical Complexity,Very High
+CF-003757,BANK-3757,Risk Level,Medium
+CF-003759,CRM-3759,Risk Level,Low
+CF-003760,SEC-3760,Customer Impact,Low
+CF-003761,ECOM-3761,Customer Impact,Medium
+CF-003763,BANK-3763,Story Points,High
+CF-003764,PORTAL-3764,Risk Level,Medium
+CF-003765,BANK-3765,Risk Level,Medium
+CF-003766,PORTAL-3766,Story Points,Very High
+CF-003769,PORTAL-3769,Business Value,Low
+CF-003770,PORTAL-3770,Customer Impact,Very High
+CF-003771,BANK-3771,Technical Complexity,High
+CF-003772,DATA-3772,Business Value,High
+CF-003773,BI-3773,Story Points,High
+CF-003774,BI-3774,Story Points,High
+CF-003777,ERP-3777,Business Value,High
+CF-003779,DATA-3779,Risk Level,Low
+CF-003780,BI-3780,Customer Impact,Medium
+CF-003781,DATA-3781,Technical Complexity,Very High
+CF-003782,CRM-3782,Technical Complexity,Medium
+CF-003783,BANK-3783,Business Value,Very High
+CF-003784,BANK-3784,Story Points,Low
+CF-003785,BI-3785,Technical Complexity,Very High
+CF-003786,ERP-3786,Story Points,Low
+CF-003787,CLOUD-3787,Risk Level,Medium
+CF-003788,SEC-3788,Business Value,Very High
+CF-003789,MOB-3789,Technical Complexity,Very High
+CF-003790,MOB-3790,Business Value,Medium
+CF-003791,BI-3791,Business Value,Very High
+CF-003792,MOB-3792,Customer Impact,Medium
+CF-003793,SEC-3793,Technical Complexity,Low
+CF-003794,PORTAL-3794,Technical Complexity,High
+CF-003795,BI-3795,Technical Complexity,Very High
+CF-003796,CRM-3796,Risk Level,Low
+CF-003797,ERP-3797,Customer Impact,Low
+CF-003798,CRM-3798,Business Value,Medium
+CF-003801,CLOUD-3801,Story Points,High
+CF-003802,ECOM-3802,Story Points,Very High
+CF-003804,CLOUD-3804,Risk Level,Low
+CF-003805,CRM-3805,Technical Complexity,High
+CF-003806,PORTAL-3806,Risk Level,Medium
+CF-003807,CRM-3807,Technical Complexity,High
+CF-003808,MOB-3808,Risk Level,Medium
+CF-003809,ECOM-3809,Technical Complexity,Medium
+CF-003810,MOB-3810,Technical Complexity,Very High
+CF-003812,BI-3812,Business Value,High
+CF-003816,ERP-3816,Risk Level,Very High
+CF-003817,BI-3817,Technical Complexity,Low
+CF-003818,DATA-3818,Technical Complexity,High
+CF-003819,DATA-3819,Customer Impact,Medium
+CF-003820,CLOUD-3820,Business Value,High
+CF-003821,MOB-3821,Customer Impact,High
+CF-003824,SEC-3824,Story Points,Medium
+CF-003825,BI-3825,Technical Complexity,High
+CF-003826,MOB-3826,Risk Level,Very High
+CF-003828,MOB-3828,Story Points,Low
+CF-003829,ECOM-3829,Risk Level,Low
+CF-003830,BANK-3830,Customer Impact,Low
+CF-003834,SEC-3834,Technical Complexity,Very High
+CF-003835,ERP-3835,Story Points,High
+CF-003836,SEC-3836,Story Points,High
+CF-003837,DATA-3837,Risk Level,Very High
+CF-003838,PORTAL-3838,Risk Level,High
+CF-003839,ERP-3839,Customer Impact,Medium
+CF-003840,BI-3840,Customer Impact,Low
+CF-003841,CRM-3841,Business Value,Low
+CF-003842,BI-3842,Technical Complexity,High
+CF-003844,MOB-3844,Risk Level,Medium
+CF-003845,BANK-3845,Risk Level,Low
+CF-003846,ECOM-3846,Risk Level,Very High
+CF-003847,ECOM-3847,Story Points,High
+CF-003848,CLOUD-3848,Business Value,Medium
+CF-003849,ECOM-3849,Business Value,Low
+CF-003850,PORTAL-3850,Customer Impact,High
+CF-003851,CRM-3851,Story Points,Low
+CF-003852,SEC-3852,Customer Impact,Very High
+CF-003853,BANK-3853,Risk Level,High
+CF-003854,ERP-3854,Story Points,Medium
+CF-003855,ERP-3855,Story Points,Medium
+CF-003856,ERP-3856,Business Value,Very High
+CF-003858,ECOM-3858,Customer Impact,High
+CF-003859,MOB-3859,Story Points,Low
+CF-003860,ECOM-3860,Business Value,Very High
+CF-003861,CLOUD-3861,Risk Level,Medium
+CF-003862,BANK-3862,Story Points,Medium
+CF-003863,MOB-3863,Business Value,Very High
+CF-003864,BANK-3864,Business Value,Medium
+CF-003865,CLOUD-3865,Risk Level,Very High
+CF-003866,PORTAL-3866,Customer Impact,Low
+CF-003868,BI-3868,Technical Complexity,Very High
+CF-003869,DATA-3869,Business Value,Very High
+CF-003870,MOB-3870,Story Points,Medium
+CF-003872,PORTAL-3872,Customer Impact,High
+CF-003873,SEC-3873,Risk Level,Medium
+CF-003877,PORTAL-3877,Risk Level,Very High
+CF-003879,ERP-3879,Customer Impact,Very High
+CF-003880,ECOM-3880,Risk Level,High
+CF-003881,ERP-3881,Story Points,Very High
+CF-003882,ECOM-3882,Technical Complexity,High
+CF-003883,SEC-3883,Business Value,High
+CF-003884,CLOUD-3884,Technical Complexity,Low
+CF-003885,BI-3885,Technical Complexity,High
+CF-003886,ERP-3886,Technical Complexity,Low
+CF-003887,SEC-3887,Customer Impact,Medium
+CF-003888,BANK-3888,Customer Impact,Medium
+CF-003889,CLOUD-3889,Technical Complexity,High
+CF-003892,ECOM-3892,Customer Impact,Medium
+CF-003895,CRM-3895,Technical Complexity,Very High
+CF-003896,CLOUD-3896,Business Value,Medium
+CF-003897,DATA-3897,Story Points,Low
+CF-003898,SEC-3898,Story Points,Very High
+CF-003900,MOB-3900,Risk Level,Low
+CF-003901,PORTAL-3901,Business Value,Very High
+CF-003902,DATA-3902,Business Value,High
+CF-003903,PORTAL-3903,Business Value,Very High
+CF-003907,SEC-3907,Technical Complexity,High
+CF-003908,BI-3908,Business Value,High
+CF-003909,SEC-3909,Business Value,Low
+CF-003912,BI-3912,Technical Complexity,Medium
+CF-003913,CRM-3913,Business Value,Very High
+CF-003914,ECOM-3914,Business Value,Very High
+CF-003915,CLOUD-3915,Customer Impact,Low
+CF-003916,CLOUD-3916,Customer Impact,Medium
+CF-003918,MOB-3918,Story Points,Medium
+CF-003919,MOB-3919,Technical Complexity,Low
+CF-003920,PORTAL-3920,Risk Level,Very High
+CF-003921,ECOM-3921,Technical Complexity,High
+CF-003922,PORTAL-3922,Story Points,Medium
+CF-003923,DATA-3923,Customer Impact,Low
+CF-003924,BI-3924,Story Points,Low
+CF-003925,SEC-3925,Technical Complexity,Low
+CF-003926,ECOM-3926,Business Value,Low
+CF-003927,BI-3927,Story Points,Medium
+CF-003928,BI-3928,Technical Complexity,Medium
+CF-003929,CRM-3929,Business Value,Medium
+CF-003930,MOB-3930,Business Value,Medium
+CF-003931,CRM-3931,Business Value,Low
+CF-003932,BANK-3932,Story Points,High
+CF-003933,BI-3933,Story Points,High
+CF-003934,MOB-3934,Risk Level,Very High
+CF-003935,BANK-3935,Risk Level,Medium
+CF-003936,CLOUD-3936,Story Points,Medium
+CF-003938,ERP-3938,Business Value,Very High
+CF-003941,CLOUD-3941,Customer Impact,Low
+CF-003942,BI-3942,Business Value,Very High
+CF-003943,CRM-3943,Story Points,Very High
+CF-003944,MOB-3944,Business Value,Medium
+CF-003945,CLOUD-3945,Business Value,Very High
+CF-003946,BI-3946,Business Value,Medium
+CF-003947,SEC-3947,Story Points,High
+CF-003948,MOB-3948,Risk Level,Very High
+CF-003949,SEC-3949,Business Value,High
+CF-003951,ERP-3951,Risk Level,High
+CF-003952,ERP-3952,Story Points,High
+CF-003953,SEC-3953,Technical Complexity,Medium
+CF-003955,CLOUD-3955,Customer Impact,Medium
+CF-003956,DATA-3956,Story Points,Low
+CF-003957,MOB-3957,Risk Level,High
+CF-003959,CLOUD-3959,Business Value,High
+CF-003960,MOB-3960,Technical Complexity,Medium
+CF-003961,ERP-3961,Risk Level,Low
+CF-003962,BANK-3962,Technical Complexity,Low
+CF-003963,DATA-3963,Risk Level,Medium
+CF-003964,CRM-3964,Risk Level,Low
+CF-003965,DATA-3965,Story Points,Medium
+CF-003966,BI-3966,Technical Complexity,Very High
+CF-003967,DATA-3967,Risk Level,High
+CF-003968,DATA-3968,Technical Complexity,High
+CF-003969,PORTAL-3969,Technical Complexity,Medium
+CF-003970,DATA-3970,Story Points,High
+CF-003972,DATA-3972,Risk Level,Low
+CF-003973,SEC-3973,Story Points,Medium
+CF-003974,ECOM-3974,Customer Impact,Very High
+CF-003975,CRM-3975,Technical Complexity,High
+CF-003976,ERP-3976,Risk Level,Medium
+CF-003978,ECOM-3978,Technical Complexity,High
+CF-003980,BI-3980,Story Points,Low
+CF-003981,MOB-3981,Story Points,Very High
+CF-003982,BI-3982,Customer Impact,Low
+CF-003983,BANK-3983,Customer Impact,High
+CF-003984,CRM-3984,Technical Complexity,Low
+CF-003985,BANK-3985,Risk Level,Very High
+CF-003986,ECOM-3986,Business Value,High
+CF-003987,BI-3987,Story Points,High
+CF-003990,PORTAL-3990,Business Value,Low
+CF-003991,BANK-3991,Risk Level,High
+CF-003992,MOB-3992,Customer Impact,High
+CF-003993,PORTAL-3993,Story Points,Very High
+CF-003994,PORTAL-3994,Technical Complexity,Low
+CF-003995,PORTAL-3995,Technical Complexity,Medium
+CF-003996,ECOM-3996,Customer Impact,Very High
+CF-003997,MOB-3997,Technical Complexity,Very High
+CF-003999,BI-3999,Story Points,Medium
+CF-004000,BANK-4000,Customer Impact,Very High
+CF-004001,ECOM-4001,Story Points,Low
+CF-004002,CLOUD-4002,Risk Level,Very High
+CF-004003,DATA-4003,Technical Complexity,Very High
+CF-004005,SEC-4005,Risk Level,Low
+CF-004006,MOB-4006,Business Value,High
+CF-004007,CRM-4007,Business Value,Very High
+CF-004009,PORTAL-4009,Technical Complexity,Very High
+CF-004010,SEC-4010,Risk Level,Low
+CF-004012,CLOUD-4012,Risk Level,Medium
+CF-004014,DATA-4014,Technical Complexity,Very High
+CF-004015,BANK-4015,Technical Complexity,Medium
+CF-004016,ERP-4016,Story Points,Very High
+CF-004017,BI-4017,Business Value,Low
+CF-004018,MOB-4018,Customer Impact,Very High
+CF-004019,CRM-4019,Risk Level,Very High
+CF-004020,SEC-4020,Story Points,Medium
+CF-004022,ERP-4022,Story Points,Low
+CF-004023,ERP-4023,Customer Impact,Very High
+CF-004024,MOB-4024,Risk Level,Medium
+CF-004025,ECOM-4025,Risk Level,Very High
+CF-004026,SEC-4026,Business Value,Medium
+CF-004028,PORTAL-4028,Risk Level,Low
+CF-004029,MOB-4029,Technical Complexity,Low
+CF-004030,DATA-4030,Risk Level,Low
+CF-004031,MOB-4031,Story Points,Medium
+CF-004032,CLOUD-4032,Business Value,High
+CF-004033,DATA-4033,Business Value,Medium
+CF-004034,BANK-4034,Risk Level,Medium
+CF-004035,BANK-4035,Business Value,Very High
+CF-004036,ECOM-4036,Story Points,High
+CF-004038,ECOM-4038,Story Points,High
+CF-004040,CLOUD-4040,Technical Complexity,Medium
+CF-004041,SEC-4041,Customer Impact,Very High
+CF-004042,ERP-4042,Story Points,Low
+CF-004043,BI-4043,Business Value,Low
+CF-004044,MOB-4044,Story Points,Low
+CF-004045,MOB-4045,Risk Level,Medium
+CF-004046,CRM-4046,Story Points,Medium
+CF-004047,SEC-4047,Risk Level,Medium
+CF-004048,ERP-4048,Risk Level,Very High
+CF-004049,BI-4049,Technical Complexity,High
+CF-004050,ERP-4050,Customer Impact,High
+CF-004051,BANK-4051,Technical Complexity,High
+CF-004052,MOB-4052,Technical Complexity,High
+CF-004055,ERP-4055,Customer Impact,Medium
+CF-004056,CLOUD-4056,Story Points,Medium
+CF-004057,SEC-4057,Customer Impact,High
+CF-004058,BANK-4058,Customer Impact,Low
+CF-004059,BANK-4059,Story Points,Medium
+CF-004061,CRM-4061,Story Points,Very High
+CF-004063,BANK-4063,Technical Complexity,Medium
+CF-004064,SEC-4064,Story Points,High
+CF-004065,CRM-4065,Customer Impact,High
+CF-004067,PORTAL-4067,Business Value,Low
+CF-004068,DATA-4068,Business Value,Medium
+CF-004069,SEC-4069,Business Value,Medium
+CF-004070,SEC-4070,Customer Impact,Very High
+CF-004071,ECOM-4071,Technical Complexity,Low
+CF-004072,CRM-4072,Customer Impact,Very High
+CF-004073,BANK-4073,Business Value,Very High
+CF-004074,MOB-4074,Story Points,Low
+CF-004075,DATA-4075,Technical Complexity,High
+CF-004076,PORTAL-4076,Risk Level,Medium
+CF-004079,ECOM-4079,Customer Impact,Very High
+CF-004080,CLOUD-4080,Risk Level,High
+CF-004083,DATA-4083,Risk Level,Medium
+CF-004084,MOB-4084,Customer Impact,Medium
+CF-004085,ERP-4085,Risk Level,Very High
+CF-004086,SEC-4086,Technical Complexity,Very High
+CF-004087,SEC-4087,Story Points,Low
+CF-004088,BI-4088,Technical Complexity,Very High
+CF-004089,ECOM-4089,Story Points,Medium
+CF-004090,PORTAL-4090,Customer Impact,Very High
+CF-004091,ERP-4091,Business Value,High
+CF-004092,DATA-4092,Risk Level,Low
+CF-004093,SEC-4093,Risk Level,Medium
+CF-004096,DATA-4096,Risk Level,Low
+CF-004097,PORTAL-4097,Customer Impact,High
+CF-004099,ECOM-4099,Business Value,Medium
+CF-004101,CLOUD-4101,Technical Complexity,Low
+CF-004103,DATA-4103,Business Value,High
+CF-004106,CLOUD-4106,Technical Complexity,Medium
+CF-004107,BANK-4107,Business Value,Low
+CF-004108,CLOUD-4108,Risk Level,Medium
+CF-004109,ECOM-4109,Business Value,Low
+CF-004111,ERP-4111,Customer Impact,Medium
+CF-004112,ECOM-4112,Story Points,Low
+CF-004114,MOB-4114,Technical Complexity,Medium
+CF-004116,PORTAL-4116,Customer Impact,Medium
+CF-004117,BI-4117,Customer Impact,Very High
+CF-004118,SEC-4118,Technical Complexity,Medium
+CF-004119,ERP-4119,Customer Impact,Very High
+CF-004120,DATA-4120,Risk Level,High
+CF-004121,ERP-4121,Story Points,Low
+CF-004122,CLOUD-4122,Technical Complexity,High
+CF-004123,ERP-4123,Story Points,Low
+CF-004125,BANK-4125,Risk Level,Very High
+CF-004126,MOB-4126,Technical Complexity,Low
+CF-004127,CRM-4127,Customer Impact,Medium
+CF-004128,MOB-4128,Story Points,Low
+CF-004129,ERP-4129,Story Points,High
+CF-004130,DATA-4130,Risk Level,Low
+CF-004131,SEC-4131,Risk Level,High
+CF-004132,CLOUD-4132,Story Points,Medium
+CF-004133,ECOM-4133,Customer Impact,High
+CF-004134,SEC-4134,Customer Impact,High
+CF-004136,PORTAL-4136,Technical Complexity,Medium
+CF-004137,CRM-4137,Technical Complexity,Medium
+CF-004138,ECOM-4138,Customer Impact,Very High
+CF-004139,DATA-4139,Technical Complexity,High
+CF-004140,PORTAL-4140,Story Points,High
+CF-004141,PORTAL-4141,Customer Impact,High
+CF-004142,SEC-4142,Customer Impact,Very High
+CF-004143,SEC-4143,Customer Impact,Very High
+CF-004145,SEC-4145,Story Points,Very High
+CF-004146,ERP-4146,Customer Impact,Very High
+CF-004147,BANK-4147,Story Points,Medium
+CF-004148,ERP-4148,Business Value,Medium
+CF-004149,ERP-4149,Customer Impact,Low
+CF-004150,ERP-4150,Business Value,Very High
+CF-004151,CRM-4151,Story Points,High
+CF-004152,ERP-4152,Technical Complexity,Very High
+CF-004153,DATA-4153,Business Value,Very High
+CF-004154,SEC-4154,Story Points,Low
+CF-004155,ECOM-4155,Story Points,Low
+CF-004156,BANK-4156,Story Points,Very High
+CF-004158,MOB-4158,Customer Impact,Very High
+CF-004160,MOB-4160,Story Points,High
+CF-004161,CLOUD-4161,Business Value,Very High
+CF-004162,PORTAL-4162,Story Points,Medium
+CF-004163,CLOUD-4163,Business Value,Medium
+CF-004165,SEC-4165,Risk Level,High
+CF-004167,SEC-4167,Customer Impact,High
+CF-004168,SEC-4168,Story Points,High
+CF-004169,CLOUD-4169,Story Points,Medium
+CF-004171,MOB-4171,Business Value,High
+CF-004172,SEC-4172,Technical Complexity,Very High
+CF-004173,CLOUD-4173,Customer Impact,High
+CF-004174,ERP-4174,Technical Complexity,High
+CF-004175,ECOM-4175,Story Points,Low
+CF-004176,BANK-4176,Technical Complexity,High
+CF-004177,DATA-4177,Technical Complexity,High
+CF-004178,PORTAL-4178,Technical Complexity,High
+CF-004179,DATA-4179,Customer Impact,Very High
+CF-004181,ERP-4181,Business Value,Low
+CF-004182,CLOUD-4182,Technical Complexity,Very High
+CF-004184,CRM-4184,Risk Level,Very High
+CF-004185,BI-4185,Story Points,Medium
+CF-004186,CLOUD-4186,Customer Impact,High
+CF-004187,BI-4187,Risk Level,High
+CF-004188,MOB-4188,Business Value,Medium
+CF-004189,CRM-4189,Risk Level,High
+CF-004191,ECOM-4191,Customer Impact,Medium
+CF-004192,SEC-4192,Story Points,Medium
+CF-004193,BANK-4193,Story Points,High
+CF-004194,DATA-4194,Risk Level,High
+CF-004195,MOB-4195,Risk Level,Very High
+CF-004196,CLOUD-4196,Business Value,Very High
+CF-004197,CRM-4197,Customer Impact,Low
+CF-004199,SEC-4199,Story Points,Medium
+CF-004201,SEC-4201,Customer Impact,Medium
+CF-004203,ERP-4203,Customer Impact,Medium
+CF-004204,CRM-4204,Risk Level,Medium
+CF-004205,CLOUD-4205,Technical Complexity,Medium
+CF-004206,ECOM-4206,Business Value,High
+CF-004207,BANK-4207,Business Value,High
+CF-004209,PORTAL-4209,Customer Impact,High
+CF-004210,CRM-4210,Technical Complexity,Medium
+CF-004211,ECOM-4211,Risk Level,Medium
+CF-004212,MOB-4212,Story Points,Very High
+CF-004213,MOB-4213,Story Points,High
+CF-004215,MOB-4215,Technical Complexity,Very High
+CF-004216,MOB-4216,Story Points,Medium
+CF-004217,CLOUD-4217,Business Value,Medium
+CF-004219,PORTAL-4219,Technical Complexity,Low
+CF-004220,CLOUD-4220,Technical Complexity,Very High
+CF-004222,SEC-4222,Technical Complexity,Low
+CF-004223,BANK-4223,Story Points,Very High
+CF-004224,ERP-4224,Business Value,Low
+CF-004225,PORTAL-4225,Business Value,High
+CF-004226,SEC-4226,Business Value,Very High
+CF-004227,BANK-4227,Business Value,High
+CF-004228,BI-4228,Technical Complexity,Low
+CF-004229,DATA-4229,Story Points,Low
+CF-004231,ECOM-4231,Business Value,Low
+CF-004232,ECOM-4232,Story Points,Very High
+CF-004233,CRM-4233,Technical Complexity,Very High
+CF-004234,CRM-4234,Business Value,High
+CF-004235,CRM-4235,Technical Complexity,High
+CF-004236,CLOUD-4236,Risk Level,Low
+CF-004237,MOB-4237,Risk Level,Very High
+CF-004238,PORTAL-4238,Risk Level,Very High
+CF-004239,CLOUD-4239,Risk Level,Medium
+CF-004242,BI-4242,Technical Complexity,High
+CF-004243,CRM-4243,Customer Impact,Low
+CF-004244,ERP-4244,Technical Complexity,Low
+CF-004245,CLOUD-4245,Technical Complexity,High
+CF-004246,BANK-4246,Risk Level,Medium
+CF-004247,DATA-4247,Technical Complexity,High
+CF-004249,CRM-4249,Business Value,Low
+CF-004250,CLOUD-4250,Customer Impact,Medium
+CF-004251,MOB-4251,Story Points,Low
+CF-004253,BI-4253,Technical Complexity,Low
+CF-004254,CRM-4254,Business Value,Very High
+CF-004255,DATA-4255,Story Points,High
+CF-004256,CLOUD-4256,Business Value,Low
+CF-004258,CRM-4258,Technical Complexity,Very High
+CF-004259,CLOUD-4259,Risk Level,Very High
+CF-004260,BANK-4260,Business Value,High
+CF-004262,PORTAL-4262,Customer Impact,Very High
+CF-004263,PORTAL-4263,Risk Level,Medium
+CF-004265,PORTAL-4265,Technical Complexity,Medium
+CF-004266,BI-4266,Story Points,High
+CF-004267,BANK-4267,Story Points,High
+CF-004268,BI-4268,Technical Complexity,Low
+CF-004269,ECOM-4269,Business Value,Very High
+CF-004270,PORTAL-4270,Customer Impact,Low
+CF-004271,CRM-4271,Story Points,Low
+CF-004272,CRM-4272,Risk Level,Very High
+CF-004273,DATA-4273,Risk Level,Low
+CF-004274,CRM-4274,Customer Impact,Very High
+CF-004275,SEC-4275,Customer Impact,Low
+CF-004276,CRM-4276,Story Points,Low
+CF-004277,MOB-4277,Customer Impact,High
+CF-004279,ECOM-4279,Technical Complexity,High
+CF-004280,PORTAL-4280,Technical Complexity,Low
+CF-004282,CRM-4282,Story Points,High
+CF-004283,ECOM-4283,Technical Complexity,Low
+CF-004285,CLOUD-4285,Story Points,Very High
+CF-004286,CLOUD-4286,Technical Complexity,Very High
+CF-004287,ERP-4287,Story Points,Medium
+CF-004288,BI-4288,Customer Impact,High
+CF-004289,PORTAL-4289,Customer Impact,High
+CF-004290,PORTAL-4290,Risk Level,Very High
+CF-004291,BI-4291,Risk Level,Medium
+CF-004292,CRM-4292,Customer Impact,High
+CF-004293,PORTAL-4293,Risk Level,Very High
+CF-004294,ECOM-4294,Business Value,Very High
+CF-004296,SEC-4296,Customer Impact,Low
+CF-004297,ECOM-4297,Customer Impact,Low
+CF-004298,BI-4298,Story Points,High
+CF-004299,CLOUD-4299,Customer Impact,Low
+CF-004300,CRM-4300,Technical Complexity,Low
+CF-004301,CRM-4301,Risk Level,Medium
+CF-004302,SEC-4302,Customer Impact,High
+CF-004305,BANK-4305,Business Value,High
+CF-004307,CLOUD-4307,Story Points,High
+CF-004308,BI-4308,Risk Level,Low
+CF-004309,CLOUD-4309,Story Points,Medium
+CF-004310,MOB-4310,Risk Level,Low
+CF-004311,CLOUD-4311,Technical Complexity,Medium
+CF-004313,CRM-4313,Customer Impact,Low
+CF-004315,DATA-4315,Risk Level,Medium
+CF-004316,ECOM-4316,Business Value,Very High
+CF-004317,DATA-4317,Story Points,Low
+CF-004318,DATA-4318,Customer Impact,Very High
+CF-004319,BANK-4319,Story Points,Low
+CF-004320,BANK-4320,Risk Level,Very High
+CF-004321,CLOUD-4321,Risk Level,Medium
+CF-004322,ERP-4322,Technical Complexity,Low
+CF-004323,PORTAL-4323,Customer Impact,Very High
+CF-004324,PORTAL-4324,Story Points,Very High
+CF-004326,ERP-4326,Story Points,Medium
+CF-004328,BI-4328,Risk Level,Medium
+CF-004329,ECOM-4329,Business Value,Medium
+CF-004330,CLOUD-4330,Technical Complexity,High
+CF-004331,DATA-4331,Risk Level,Low
+CF-004332,BI-4332,Technical Complexity,Very High
+CF-004333,DATA-4333,Business Value,Very High
+CF-004334,PORTAL-4334,Risk Level,Low
+CF-004335,BANK-4335,Risk Level,High
+CF-004336,SEC-4336,Customer Impact,Medium
+CF-004337,ERP-4337,Risk Level,Very High
+CF-004338,CRM-4338,Risk Level,Very High
+CF-004339,SEC-4339,Business Value,Very High
+CF-004340,ECOM-4340,Risk Level,Very High
+CF-004341,BANK-4341,Business Value,Low
+CF-004342,DATA-4342,Business Value,Very High
+CF-004343,CRM-4343,Business Value,High
+CF-004344,MOB-4344,Technical Complexity,High
+CF-004346,ERP-4346,Risk Level,Medium
+CF-004347,PORTAL-4347,Risk Level,Low
+CF-004348,ECOM-4348,Story Points,Low
+CF-004349,ERP-4349,Risk Level,Very High
+CF-004351,DATA-4351,Customer Impact,High
+CF-004352,SEC-4352,Risk Level,Low
+CF-004353,CRM-4353,Risk Level,Very High
+CF-004354,MOB-4354,Risk Level,High
+CF-004355,CRM-4355,Technical Complexity,Low
+CF-004356,CLOUD-4356,Business Value,Medium
+CF-004357,CRM-4357,Story Points,Very High
+CF-004358,DATA-4358,Risk Level,Medium
+CF-004360,ECOM-4360,Risk Level,Low
+CF-004362,MOB-4362,Business Value,High
+CF-004363,CLOUD-4363,Customer Impact,Low
+CF-004364,ECOM-4364,Story Points,Low
+CF-004365,BI-4365,Business Value,Low
+CF-004366,MOB-4366,Customer Impact,High
+CF-004368,PORTAL-4368,Risk Level,High
+CF-004369,MOB-4369,Business Value,Very High
+CF-004370,BANK-4370,Technical Complexity,High
+CF-004374,PORTAL-4374,Technical Complexity,Medium
+CF-004375,MOB-4375,Technical Complexity,Medium
+CF-004376,CRM-4376,Business Value,High
+CF-004377,BI-4377,Story Points,Very High
+CF-004378,BANK-4378,Customer Impact,Medium
+CF-004379,BANK-4379,Technical Complexity,Medium
+CF-004380,CLOUD-4380,Risk Level,Medium
+CF-004381,MOB-4381,Story Points,Low
+CF-004383,CLOUD-4383,Business Value,Medium
+CF-004384,BANK-4384,Risk Level,High
+CF-004385,CRM-4385,Risk Level,Very High
+CF-004386,SEC-4386,Customer Impact,Low
+CF-004387,BI-4387,Business Value,Low
+CF-004388,PORTAL-4388,Risk Level,High
+CF-004389,BANK-4389,Customer Impact,Very High
+CF-004390,CRM-4390,Customer Impact,High
+CF-004391,SEC-4391,Technical Complexity,High
+CF-004392,BANK-4392,Business Value,Medium
+CF-004394,SEC-4394,Business Value,High
+CF-004395,CLOUD-4395,Technical Complexity,High
+CF-004396,ECOM-4396,Story Points,Very High
+CF-004397,CLOUD-4397,Customer Impact,High
+CF-004398,ERP-4398,Story Points,Very High
+CF-004399,PORTAL-4399,Story Points,High
+CF-004400,ECOM-4400,Story Points,Very High
+CF-004401,MOB-4401,Technical Complexity,Medium
+CF-004402,BANK-4402,Customer Impact,Medium
+CF-004404,MOB-4404,Story Points,Low
+CF-004405,ERP-4405,Risk Level,Low
+CF-004406,DATA-4406,Business Value,Medium
+CF-004407,ECOM-4407,Customer Impact,Low
+CF-004408,CLOUD-4408,Risk Level,High
+CF-004409,BI-4409,Story Points,Medium
+CF-004411,SEC-4411,Risk Level,High
+CF-004413,BI-4413,Business Value,High
+CF-004414,BANK-4414,Risk Level,Very High
+CF-004415,DATA-4415,Story Points,Low
+CF-004416,PORTAL-4416,Risk Level,Low
+CF-004417,MOB-4417,Story Points,Low
+CF-004418,PORTAL-4418,Technical Complexity,Medium
+CF-004419,SEC-4419,Story Points,Medium
+CF-004422,ERP-4422,Customer Impact,High
+CF-004423,ECOM-4423,Story Points,Medium
+CF-004424,ECOM-4424,Customer Impact,Low
+CF-004425,MOB-4425,Risk Level,Medium
+CF-004426,MOB-4426,Customer Impact,Medium
+CF-004428,BI-4428,Risk Level,Medium
+CF-004429,ERP-4429,Technical Complexity,High
+CF-004431,DATA-4431,Technical Complexity,Low
+CF-004432,BANK-4432,Business Value,Medium
+CF-004433,PORTAL-4433,Risk Level,Very High
+CF-004434,DATA-4434,Customer Impact,Medium
+CF-004435,ERP-4435,Customer Impact,High
+CF-004437,ERP-4437,Story Points,Medium
+CF-004438,BI-4438,Technical Complexity,Very High
+CF-004439,ERP-4439,Customer Impact,Low
+CF-004440,SEC-4440,Risk Level,Very High
+CF-004442,MOB-4442,Technical Complexity,Medium
+CF-004443,DATA-4443,Story Points,Low
+CF-004444,BANK-4444,Business Value,Medium
+CF-004445,ERP-4445,Technical Complexity,Very High
+CF-004446,BANK-4446,Business Value,Low
+CF-004447,BI-4447,Story Points,Low
+CF-004448,BANK-4448,Business Value,Very High
+CF-004449,BI-4449,Business Value,Medium
+CF-004450,MOB-4450,Business Value,Very High
+CF-004451,PORTAL-4451,Business Value,Very High
+CF-004452,MOB-4452,Customer Impact,Very High
+CF-004453,ECOM-4453,Risk Level,High
+CF-004454,PORTAL-4454,Business Value,Medium
+CF-004455,BI-4455,Story Points,Very High
+CF-004457,PORTAL-4457,Risk Level,Very High
+CF-004459,SEC-4459,Technical Complexity,Low
+CF-004460,PORTAL-4460,Story Points,Medium
+CF-004461,MOB-4461,Customer Impact,Medium
+CF-004462,BANK-4462,Customer Impact,Low
+CF-004463,MOB-4463,Risk Level,Medium
+CF-004464,ECOM-4464,Risk Level,Very High
+CF-004465,BANK-4465,Customer Impact,Very High
+CF-004466,DATA-4466,Business Value,Medium
+CF-004467,DATA-4467,Story Points,Low
+CF-004468,BI-4468,Customer Impact,Medium
+CF-004469,CLOUD-4469,Technical Complexity,Very High
+CF-004470,CRM-4470,Technical Complexity,High
+CF-004472,ERP-4472,Story Points,Very High
+CF-004473,SEC-4473,Story Points,Low
+CF-004474,PORTAL-4474,Customer Impact,Medium
+CF-004475,PORTAL-4475,Technical Complexity,Low
+CF-004477,DATA-4477,Customer Impact,Low
+CF-004478,ERP-4478,Risk Level,High
+CF-004480,BANK-4480,Technical Complexity,Medium
+CF-004481,CRM-4481,Customer Impact,Low
+CF-004482,ECOM-4482,Technical Complexity,Medium
+CF-004483,ECOM-4483,Technical Complexity,High
+CF-004484,PORTAL-4484,Customer Impact,Very High
+CF-004485,CRM-4485,Story Points,High
+CF-004486,BI-4486,Business Value,Very High
+CF-004487,CRM-4487,Story Points,Medium
+CF-004488,SEC-4488,Risk Level,Low
+CF-004489,BI-4489,Risk Level,Very High
+CF-004490,CLOUD-4490,Risk Level,Very High
+CF-004491,CRM-4491,Business Value,Very High
+CF-004492,ERP-4492,Story Points,Very High
+CF-004493,DATA-4493,Technical Complexity,Very High
+CF-004495,BANK-4495,Story Points,Medium
+CF-004496,DATA-4496,Technical Complexity,Low
+CF-004497,CLOUD-4497,Business Value,Very High
+CF-004498,BANK-4498,Risk Level,Low
+CF-004499,BANK-4499,Story Points,Very High
+CF-004501,SEC-4501,Risk Level,High
+CF-004502,ECOM-4502,Business Value,High
+CF-004503,SEC-4503,Story Points,Medium
+CF-004505,MOB-4505,Technical Complexity,Very High
+CF-004506,SEC-4506,Risk Level,High
+CF-004507,BI-4507,Customer Impact,Medium
+CF-004508,ECOM-4508,Technical Complexity,Medium
+CF-004511,BANK-4511,Technical Complexity,Very High
+CF-004512,PORTAL-4512,Story Points,Low
+CF-004513,ERP-4513,Risk Level,Very High
+CF-004514,SEC-4514,Business Value,High
+CF-004515,ECOM-4515,Customer Impact,Very High
+CF-004517,MOB-4517,Story Points,Very High
+CF-004518,SEC-4518,Technical Complexity,Very High
+CF-004519,BANK-4519,Business Value,High
+CF-004520,DATA-4520,Risk Level,Very High
+CF-004521,PORTAL-4521,Technical Complexity,Very High
+CF-004524,DATA-4524,Risk Level,High
+CF-004525,PORTAL-4525,Story Points,Very High
+CF-004527,MOB-4527,Customer Impact,Very High
+CF-004529,SEC-4529,Customer Impact,High
+CF-004530,CLOUD-4530,Customer Impact,High
+CF-004531,PORTAL-4531,Story Points,Low
+CF-004532,MOB-4532,Technical Complexity,Medium
+CF-004533,DATA-4533,Business Value,Medium
+CF-004534,DATA-4534,Customer Impact,High
+CF-004535,BANK-4535,Technical Complexity,High
+CF-004536,BANK-4536,Customer Impact,Very High
+CF-004537,BI-4537,Customer Impact,Very High
+CF-004539,PORTAL-4539,Business Value,Medium
+CF-004540,PORTAL-4540,Business Value,High
+CF-004541,ECOM-4541,Technical Complexity,High
+CF-004542,BI-4542,Technical Complexity,Medium
+CF-004543,CLOUD-4543,Customer Impact,Medium
+CF-004544,PORTAL-4544,Business Value,Very High
+CF-004545,MOB-4545,Risk Level,High
+CF-004546,ECOM-4546,Customer Impact,High
+CF-004547,ECOM-4547,Risk Level,Very High
+CF-004548,ERP-4548,Customer Impact,Medium
+CF-004549,CLOUD-4549,Story Points,High
+CF-004551,DATA-4551,Customer Impact,Low
+CF-004552,MOB-4552,Technical Complexity,High
+CF-004553,SEC-4553,Risk Level,Medium
+CF-004554,BI-4554,Customer Impact,Medium
+CF-004555,ECOM-4555,Story Points,Very High
+CF-004556,BANK-4556,Customer Impact,Very High
+CF-004557,PORTAL-4557,Technical Complexity,Very High
+CF-004558,SEC-4558,Business Value,High
+CF-004559,ECOM-4559,Business Value,Very High
+CF-004560,BANK-4560,Technical Complexity,Very High
+CF-004561,ERP-4561,Customer Impact,Very High
+CF-004562,ECOM-4562,Risk Level,Medium
+CF-004563,BANK-4563,Business Value,Medium
+CF-004564,ERP-4564,Business Value,Very High
+CF-004565,ERP-4565,Customer Impact,High
+CF-004566,CLOUD-4566,Risk Level,High
+CF-004567,SEC-4567,Business Value,Low
+CF-004569,BI-4569,Customer Impact,Very High
+CF-004570,MOB-4570,Technical Complexity,Medium
+CF-004571,ERP-4571,Business Value,High
+CF-004572,CRM-4572,Risk Level,Very High
+CF-004574,DATA-4574,Business Value,High
+CF-004577,CRM-4577,Technical Complexity,Low
+CF-004579,PORTAL-4579,Technical Complexity,Medium
+CF-004580,ERP-4580,Risk Level,Very High
+CF-004582,PORTAL-4582,Business Value,High
+CF-004583,ECOM-4583,Business Value,Very High
+CF-004584,SEC-4584,Business Value,Low
+CF-004585,PORTAL-4585,Risk Level,Low
+CF-004586,BANK-4586,Risk Level,Low
+CF-004587,BANK-4587,Story Points,High
+CF-004588,MOB-4588,Customer Impact,Low
+CF-004589,BI-4589,Technical Complexity,High
+CF-004590,CRM-4590,Risk Level,Very High
+CF-004591,CLOUD-4591,Story Points,Medium
+CF-004592,CRM-4592,Customer Impact,Very High
+CF-004593,ECOM-4593,Story Points,Low
+CF-004595,SEC-4595,Business Value,High
+CF-004596,ERP-4596,Risk Level,Low
+CF-004599,BANK-4599,Customer Impact,High
+CF-004600,CLOUD-4600,Business Value,Medium
+CF-004601,MOB-4601,Technical Complexity,Very High
+CF-004602,BI-4602,Customer Impact,Very High
+CF-004603,CRM-4603,Business Value,Very High
+CF-004604,DATA-4604,Customer Impact,Low
+CF-004605,DATA-4605,Risk Level,Medium
+CF-004606,PORTAL-4606,Customer Impact,Low
+CF-004607,DATA-4607,Business Value,High
+CF-004608,BI-4608,Business Value,Very High
+CF-004609,BANK-4609,Business Value,Low
+CF-004610,MOB-4610,Risk Level,Medium
+CF-004611,ERP-4611,Technical Complexity,Medium
+CF-004612,CLOUD-4612,Technical Complexity,Medium
+CF-004613,PORTAL-4613,Risk Level,Low
+CF-004614,PORTAL-4614,Customer Impact,Medium
+CF-004618,SEC-4618,Customer Impact,Low
+CF-004619,ECOM-4619,Technical Complexity,Very High
+CF-004620,MOB-4620,Story Points,High
+CF-004621,ERP-4621,Customer Impact,High
+CF-004622,ERP-4622,Story Points,Low
+CF-004624,CRM-4624,Risk Level,Very High
+CF-004625,BI-4625,Risk Level,Low
+CF-004626,SEC-4626,Customer Impact,High
+CF-004627,CLOUD-4627,Customer Impact,Medium
+CF-004631,ECOM-4631,Technical Complexity,Medium
+CF-004632,BI-4632,Story Points,Low
+CF-004633,CLOUD-4633,Customer Impact,Medium
+CF-004634,BI-4634,Business Value,Very High
+CF-004635,DATA-4635,Customer Impact,Low
+CF-004636,CLOUD-4636,Technical Complexity,Medium
+CF-004637,CRM-4637,Technical Complexity,Very High
+CF-004638,CLOUD-4638,Business Value,Medium
+CF-004639,ERP-4639,Technical Complexity,Medium
+CF-004641,CRM-4641,Technical Complexity,High
+CF-004643,BI-4643,Business Value,High
+CF-004645,BANK-4645,Customer Impact,High
+CF-004646,BANK-4646,Technical Complexity,Medium
+CF-004648,ERP-4648,Risk Level,Medium
+CF-004649,ECOM-4649,Risk Level,High
+CF-004650,MOB-4650,Technical Complexity,Medium
+CF-004651,CRM-4651,Customer Impact,Very High
+CF-004652,MOB-4652,Business Value,Very High
+CF-004654,DATA-4654,Technical Complexity,Very High
+CF-004656,BANK-4656,Customer Impact,Very High
+CF-004657,ECOM-4657,Technical Complexity,Medium
+CF-004658,SEC-4658,Customer Impact,High
+CF-004660,MOB-4660,Business Value,High
+CF-004662,PORTAL-4662,Customer Impact,Very High
+CF-004663,MOB-4663,Business Value,Medium
+CF-004665,ECOM-4665,Customer Impact,Low
+CF-004667,CRM-4667,Technical Complexity,High
+CF-004668,SEC-4668,Risk Level,Low
+CF-004669,ECOM-4669,Risk Level,Medium
+CF-004670,CRM-4670,Story Points,Medium
+CF-004671,BANK-4671,Story Points,High
+CF-004673,SEC-4673,Story Points,Medium
+CF-004674,CRM-4674,Customer Impact,Medium
+CF-004675,CLOUD-4675,Customer Impact,Very High
+CF-004676,MOB-4676,Technical Complexity,Low
+CF-004678,DATA-4678,Customer Impact,Very High
+CF-004679,BANK-4679,Story Points,Medium
+CF-004680,BANK-4680,Story Points,Low
+CF-004681,DATA-4681,Business Value,High
+CF-004682,DATA-4682,Technical Complexity,Low
+CF-004683,PORTAL-4683,Customer Impact,Medium
+CF-004684,DATA-4684,Story Points,High
+CF-004685,ERP-4685,Business Value,Low
+CF-004686,CLOUD-4686,Risk Level,High
+CF-004687,BANK-4687,Risk Level,Low
+CF-004688,DATA-4688,Customer Impact,High
+CF-004689,CRM-4689,Risk Level,Medium
+CF-004691,PORTAL-4691,Business Value,Low
+CF-004692,DATA-4692,Technical Complexity,Medium
+CF-004693,MOB-4693,Customer Impact,Medium
+CF-004694,BANK-4694,Risk Level,Very High
+CF-004695,ECOM-4695,Story Points,High
+CF-004696,ECOM-4696,Story Points,Medium
+CF-004698,MOB-4698,Story Points,Medium
+CF-004699,MOB-4699,Technical Complexity,High
+CF-004700,SEC-4700,Risk Level,Low
+CF-004701,BI-4701,Risk Level,High
+CF-004702,DATA-4702,Business Value,Medium
+CF-004704,CLOUD-4704,Customer Impact,Medium
+CF-004705,ECOM-4705,Risk Level,Very High
+CF-004706,MOB-4706,Story Points,High
+CF-004707,ECOM-4707,Customer Impact,High
+CF-004708,CRM-4708,Customer Impact,Very High
+CF-004711,CRM-4711,Story Points,Low
+CF-004712,MOB-4712,Risk Level,Very High
+CF-004714,CLOUD-4714,Business Value,Low
+CF-004715,ECOM-4715,Story Points,Medium
+CF-004716,SEC-4716,Business Value,High
+CF-004717,MOB-4717,Technical Complexity,Very High
+CF-004718,BI-4718,Story Points,Medium
+CF-004719,ECOM-4719,Customer Impact,Medium
+CF-004720,MOB-4720,Story Points,Medium
+CF-004721,ERP-4721,Technical Complexity,Medium
+CF-004722,ECOM-4722,Risk Level,Low
+CF-004723,ERP-4723,Business Value,High
+CF-004724,MOB-4724,Customer Impact,Very High
+CF-004725,ECOM-4725,Technical Complexity,High
+CF-004726,CLOUD-4726,Customer Impact,Medium
+CF-004728,ECOM-4728,Story Points,High
+CF-004730,SEC-4730,Risk Level,Very High
+CF-004732,PORTAL-4732,Story Points,Low
+CF-004733,BANK-4733,Technical Complexity,Very High
+CF-004737,SEC-4737,Business Value,Low
+CF-004738,ECOM-4738,Story Points,Very High
+CF-004740,CLOUD-4740,Customer Impact,High
+CF-004741,CLOUD-4741,Business Value,High
+CF-004742,PORTAL-4742,Business Value,Low
+CF-004743,BI-4743,Customer Impact,High
+CF-004744,BANK-4744,Customer Impact,Low
+CF-004745,ERP-4745,Risk Level,Very High
+CF-004746,ECOM-4746,Business Value,Very High
+CF-004747,ECOM-4747,Risk Level,High
+CF-004748,ERP-4748,Story Points,Low
+CF-004749,ERP-4749,Story Points,Low
+CF-004750,CRM-4750,Story Points,High
+CF-004752,SEC-4752,Story Points,Medium
+CF-004753,PORTAL-4753,Customer Impact,Very High
+CF-004754,PORTAL-4754,Customer Impact,Very High
+CF-004755,SEC-4755,Technical Complexity,High
+CF-004757,PORTAL-4757,Story Points,Medium
+CF-004759,BI-4759,Business Value,Very High
+CF-004760,BI-4760,Story Points,Very High
+CF-004761,ERP-4761,Story Points,Very High
+CF-004762,PORTAL-4762,Customer Impact,Medium
+CF-004763,ERP-4763,Risk Level,High
+CF-004764,SEC-4764,Technical Complexity,High
+CF-004766,ECOM-4766,Risk Level,High
+CF-004768,CRM-4768,Story Points,Low
+CF-004769,MOB-4769,Risk Level,Very High
+CF-004771,CLOUD-4771,Risk Level,High
+CF-004772,MOB-4772,Customer Impact,Low
+CF-004773,BANK-4773,Business Value,Low
+CF-004775,BI-4775,Risk Level,Very High
+CF-004776,SEC-4776,Story Points,Medium
+CF-004777,CLOUD-4777,Customer Impact,Very High
+CF-004778,DATA-4778,Customer Impact,Medium
+CF-004779,BI-4779,Story Points,Low
+CF-004780,CLOUD-4780,Story Points,Medium
+CF-004781,ERP-4781,Business Value,High
+CF-004782,PORTAL-4782,Story Points,Medium
+CF-004783,ERP-4783,Customer Impact,Medium
+CF-004784,BANK-4784,Risk Level,Low
+CF-004785,MOB-4785,Business Value,Medium
+CF-004786,BANK-4786,Risk Level,Very High
+CF-004787,SEC-4787,Technical Complexity,Low
+CF-004789,DATA-4789,Risk Level,High
+CF-004791,CLOUD-4791,Risk Level,Very High
+CF-004792,ECOM-4792,Business Value,High
+CF-004793,ERP-4793,Risk Level,Very High
+CF-004794,SEC-4794,Customer Impact,Low
+CF-004795,DATA-4795,Risk Level,Medium
+CF-004796,DATA-4796,Business Value,Low
+CF-004797,BANK-4797,Risk Level,Medium
+CF-004799,CLOUD-4799,Business Value,Low
+CF-004800,CLOUD-4800,Story Points,Very High
+CF-004801,CRM-4801,Technical Complexity,High
+CF-004802,CRM-4802,Story Points,Low
+CF-004803,SEC-4803,Risk Level,Low
+CF-004805,PORTAL-4805,Customer Impact,Medium
+CF-004806,CRM-4806,Customer Impact,Very High
+CF-004807,ECOM-4807,Business Value,Low
+CF-004808,CLOUD-4808,Story Points,Low
+CF-004810,BI-4810,Customer Impact,Medium
+CF-004812,CRM-4812,Story Points,Very High
+CF-004813,PORTAL-4813,Risk Level,Low
+CF-004814,MOB-4814,Customer Impact,High
+CF-004815,SEC-4815,Business Value,Low
+CF-004816,SEC-4816,Story Points,Low
+CF-004818,ERP-4818,Customer Impact,Very High
+CF-004819,MOB-4819,Risk Level,Medium
+CF-004821,MOB-4821,Business Value,High
+CF-004822,BI-4822,Business Value,High
+CF-004823,ECOM-4823,Technical Complexity,Low
+CF-004824,ECOM-4824,Technical Complexity,Medium
+CF-004825,DATA-4825,Business Value,Medium
+CF-004826,MOB-4826,Story Points,High
+CF-004827,CRM-4827,Technical Complexity,Low
+CF-004828,ECOM-4828,Business Value,High
+CF-004829,CLOUD-4829,Risk Level,Low
+CF-004830,CLOUD-4830,Customer Impact,Medium
+CF-004831,CRM-4831,Customer Impact,Low
+CF-004832,ECOM-4832,Risk Level,High
+CF-004833,ERP-4833,Customer Impact,Very High
+CF-004834,MOB-4834,Story Points,Very High
+CF-004835,MOB-4835,Customer Impact,Very High
+CF-004836,CLOUD-4836,Customer Impact,High
+CF-004837,PORTAL-4837,Risk Level,Very High
+CF-004838,ERP-4838,Business Value,Low
+CF-004839,CLOUD-4839,Technical Complexity,High
+CF-004840,SEC-4840,Business Value,Low
+CF-004841,BI-4841,Business Value,High
+CF-004843,ECOM-4843,Risk Level,Low
+CF-004844,DATA-4844,Business Value,High
+CF-004847,SEC-4847,Risk Level,High
+CF-004850,ERP-4850,Business Value,High
+CF-004851,MOB-4851,Business Value,Medium
+CF-004852,ECOM-4852,Story Points,Very High
+CF-004853,CRM-4853,Technical Complexity,Low
+CF-004854,CLOUD-4854,Technical Complexity,Low
+CF-004855,ECOM-4855,Risk Level,Low
+CF-004856,ECOM-4856,Business Value,High
+CF-004857,MOB-4857,Risk Level,Very High
+CF-004858,PORTAL-4858,Story Points,Low
+CF-004859,DATA-4859,Customer Impact,Medium
+CF-004860,CRM-4860,Risk Level,Very High
+CF-004861,BI-4861,Risk Level,Low
+CF-004862,ERP-4862,Customer Impact,Low
+CF-004863,DATA-4863,Technical Complexity,Medium
+CF-004864,DATA-4864,Customer Impact,Medium
+CF-004865,MOB-4865,Business Value,Medium
+CF-004866,SEC-4866,Customer Impact,Medium
+CF-004869,CRM-4869,Risk Level,Low
+CF-004870,CLOUD-4870,Customer Impact,High
+CF-004871,ECOM-4871,Story Points,High
+CF-004872,DATA-4872,Technical Complexity,Medium
+CF-004874,BI-4874,Technical Complexity,Medium
+CF-004875,ERP-4875,Risk Level,Medium
+CF-004876,ERP-4876,Risk Level,Low
+CF-004877,CRM-4877,Business Value,High
+CF-004878,ERP-4878,Customer Impact,Very High
+CF-004879,ERP-4879,Story Points,Medium
+CF-004880,ECOM-4880,Story Points,Very High
+CF-004881,SEC-4881,Customer Impact,Low
+CF-004882,BI-4882,Risk Level,High
+CF-004883,ECOM-4883,Story Points,Medium
+CF-004884,SEC-4884,Business Value,Low
+CF-004885,ECOM-4885,Story Points,Low
+CF-004886,SEC-4886,Business Value,Medium
+CF-004887,ECOM-4887,Technical Complexity,High
+CF-004888,CRM-4888,Customer Impact,High
+CF-004890,DATA-4890,Business Value,High
+CF-004891,ECOM-4891,Risk Level,Very High
+CF-004893,BANK-4893,Risk Level,Low
+CF-004894,ERP-4894,Story Points,High
+CF-004896,SEC-4896,Customer Impact,Very High
+CF-004897,CRM-4897,Technical Complexity,Medium
+CF-004898,BI-4898,Risk Level,Medium
+CF-004899,DATA-4899,Customer Impact,Low
+CF-004900,BANK-4900,Technical Complexity,Very High
+CF-004901,PORTAL-4901,Business Value,Low
+CF-004902,CLOUD-4902,Business Value,Very High
+CF-004903,PORTAL-4903,Risk Level,Very High
+CF-004905,PORTAL-4905,Customer Impact,Low
+CF-004907,ERP-4907,Technical Complexity,Very High
+CF-004908,CLOUD-4908,Risk Level,Very High
+CF-004909,DATA-4909,Story Points,Medium
+CF-004910,ECOM-4910,Customer Impact,High
+CF-004911,PORTAL-4911,Story Points,Very High
+CF-004912,SEC-4912,Business Value,Very High
+CF-004913,MOB-4913,Business Value,Low
+CF-004914,PORTAL-4914,Risk Level,Very High
+CF-004915,ECOM-4915,Risk Level,Low
+CF-004916,CRM-4916,Technical Complexity,Very High
+CF-004917,MOB-4917,Customer Impact,Medium
+CF-004918,ECOM-4918,Technical Complexity,Medium
+CF-004919,ERP-4919,Business Value,Very High
+CF-004920,MOB-4920,Technical Complexity,Very High
+CF-004921,CRM-4921,Risk Level,Medium
+CF-004922,CLOUD-4922,Customer Impact,Low
+CF-004923,ERP-4923,Customer Impact,Low
+CF-004924,MOB-4924,Customer Impact,Low
+CF-004925,ECOM-4925,Story Points,Very High
+CF-004926,PORTAL-4926,Technical Complexity,Low
+CF-004927,CRM-4927,Risk Level,Low
+CF-004929,ECOM-4929,Business Value,Medium
+CF-004930,MOB-4930,Technical Complexity,Medium
+CF-004931,BANK-4931,Business Value,High
+CF-004932,SEC-4932,Customer Impact,Very High
+CF-004934,MOB-4934,Technical Complexity,Low
+CF-004935,BANK-4935,Story Points,Medium
+CF-004936,BI-4936,Technical Complexity,Low
+CF-004937,CRM-4937,Business Value,Low
+CF-004938,ERP-4938,Risk Level,Low
+CF-004943,MOB-4943,Business Value,Very High
+CF-004944,ERP-4944,Customer Impact,Very High
+CF-004945,DATA-4945,Risk Level,Low
+CF-004946,DATA-4946,Technical Complexity,Very High
+CF-004947,BANK-4947,Story Points,Low
+CF-004949,MOB-4949,Story Points,Low
+CF-004950,ERP-4950,Story Points,High
+CF-004952,ERP-4952,Technical Complexity,Medium
+CF-004953,PORTAL-4953,Technical Complexity,Low
+CF-004954,BANK-4954,Risk Level,Very High
+CF-004955,ECOM-4955,Business Value,Low
+CF-004956,ECOM-4956,Business Value,Low
+CF-004957,SEC-4957,Customer Impact,High
+CF-004958,SEC-4958,Customer Impact,Low
+CF-004959,PORTAL-4959,Business Value,High
+CF-004960,BI-4960,Business Value,Very High
+CF-004961,MOB-4961,Technical Complexity,High
+CF-004962,DATA-4962,Risk Level,Medium
+CF-004963,CLOUD-4963,Risk Level,High
+CF-004964,ECOM-4964,Technical Complexity,Medium
+CF-004965,MOB-4965,Risk Level,Low
+CF-004967,CLOUD-4967,Technical Complexity,Very High
+CF-004968,BANK-4968,Technical Complexity,Very High
+CF-004969,PORTAL-4969,Risk Level,High
+CF-004970,ERP-4970,Risk Level,Very High
+CF-004971,DATA-4971,Technical Complexity,Medium
+CF-004973,CLOUD-4973,Story Points,High
+CF-004974,MOB-4974,Technical Complexity,Very High
+CF-004975,DATA-4975,Technical Complexity,Medium
+CF-004976,CRM-4976,Story Points,Medium
+CF-004978,BANK-4978,Story Points,Low
+CF-004980,BANK-4980,Risk Level,Very High
+CF-004981,MOB-4981,Customer Impact,Very High
+CF-004982,BI-4982,Story Points,High
+CF-004983,PORTAL-4983,Risk Level,Low
+CF-004984,SEC-4984,Business Value,Low
+CF-004986,ERP-4986,Story Points,Low
+CF-004987,ECOM-4987,Business Value,High
+CF-004988,CRM-4988,Risk Level,Medium
+CF-004989,MOB-4989,Customer Impact,Low
+CF-004990,SEC-4990,Customer Impact,Very High
+CF-004991,BI-4991,Technical Complexity,Very High
+CF-004992,CRM-4992,Risk Level,Medium
+CF-004994,SEC-4994,Business Value,Medium
+CF-004995,SEC-4995,Story Points,High
+CF-004996,SEC-4996,Technical Complexity,Very High
+CF-004999,DATA-4999,Risk Level,Medium
+CF-005000,SEC-5000,Technical Complexity,Very High

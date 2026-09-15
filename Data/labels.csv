@@ -1,0 +1,16 @@
+﻿label_id,label_name
+LBL-001,frontend
+LBL-002,backend
+LBL-003,database
+LBL-004,security
+LBL-005,urgent
+LBL-006,customer
+LBL-007,production
+LBL-008,technical-debt
+LBL-009,performance
+LBL-010,mobile
+LBL-011,api
+LBL-012,bug
+LBL-013,improvement
+LBL-014,data
+LBL-015,analytics

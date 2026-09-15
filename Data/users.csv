@@ -1,0 +1,51 @@
+﻿user_id,username,first_name,last_name,email,team,role,active
+USR-0001,user0001,Lucie,Marie,user0001@company.local,Data,Developer,True
+USR-0002,user0002,André,Traore,user0002@company.local,DevOps,Data Analyst,True
+USR-0003,user0003,Robert,Moulin,user0003@company.local,Data,Product Owner,True
+USR-0004,user0004,Maurice,Joly,user0004@company.local,Data,Project Manager,True
+USR-0005,user0005,Nathalie,Henry,user0005@company.local,Development,Developer,True
+USR-0006,user0006,Margaret,Traore,user0006@company.local,Development,Project Manager,True
+USR-0007,user0007,Émilie,Fernandez,user0007@company.local,Business,Data Analyst,True
+USR-0008,user0008,Jeanne,Briand,user0008@company.local,UX/UI,Business Analyst,True
+USR-0009,user0009,Arthur,Martinez,user0009@company.local,QA,Product Owner,True
+USR-0010,user0010,Éric,Carpentier,user0010@company.local,UX/UI,Data Analyst,True
+USR-0011,user0011,Nicolas,Bodin,user0011@company.local,Project Management,Developer,True
+USR-0012,user0012,Josette,Michel,user0012@company.local,Data,QA Engineer,True
+USR-0013,user0013,Gabrielle,Philippe,user0013@company.local,UX/UI,Business Analyst,True
+USR-0014,user0014,Michelle,Delahaye,user0014@company.local,Security,Project Manager,True
+USR-0015,user0015,Martine,Morvan,user0015@company.local,Business,Developer,True
+USR-0016,user0016,Astrid,Vasseur,user0016@company.local,Project Management,Project Manager,True
+USR-0017,user0017,Caroline,Pruvost,user0017@company.local,Data,Developer,True
+USR-0018,user0018,Roger,Robert,user0018@company.local,UX/UI,Developer,True
+USR-0019,user0019,Patricia,Leroux,user0019@company.local,Data,DevOps Engineer,True
+USR-0020,user0020,Marthe,Briand,user0020@company.local,Project Management,Data Analyst,True
+USR-0021,user0021,Zacharie,Lopes,user0021@company.local,DevOps,Product Owner,True
+USR-0022,user0022,Honoré,Fabre,user0022@company.local,Data,Project Manager,True
+USR-0023,user0023,Paulette,Marques,user0023@company.local,DevOps,Data Analyst,True
+USR-0024,user0024,François,Morin,user0024@company.local,UX/UI,Product Owner,True
+USR-0025,user0025,Alex,Pereira,user0025@company.local,DevOps,Product Owner,True
+USR-0026,user0026,Agathe,Barre,user0026@company.local,Development,Data Analyst,True
+USR-0027,user0027,Josette,Aubry,user0027@company.local,Project Management,DevOps Engineer,True
+USR-0028,user0028,Susan,Bertrand,user0028@company.local,DevOps,Project Manager,True
+USR-0029,user0029,Nathalie,Jacques,user0029@company.local,Project Management,Data Analyst,True
+USR-0030,user0030,Élise,Denis,user0030@company.local,Business,Product Owner,True
+USR-0031,user0031,Alexandria,Chevalier,user0031@company.local,UX/UI,Data Analyst,True
+USR-0032,user0032,Françoise,Cousin,user0032@company.local,UX/UI,Product Owner,True
+USR-0033,user0033,Véronique,Techer,user0033@company.local,Business,QA Engineer,True
+USR-0034,user0034,Laure,Étienne,user0034@company.local,QA,Project Manager,True
+USR-0035,user0035,Hortense,Olivier,user0035@company.local,Development,Business Analyst,True
+USR-0036,user0036,Maryse,Muller,user0036@company.local,QA,Business Analyst,True
+USR-0037,user0037,Benjamin,Peltier,user0037@company.local,Data,DevOps Engineer,True
+USR-0038,user0038,Michel,Leleu,user0038@company.local,Security,Project Manager,True
+USR-0039,user0039,Stéphane,Chevalier,user0039@company.local,Development,Product Owner,True
+USR-0040,user0040,Dominique,Rey,user0040@company.local,UX/UI,Business Analyst,True
+USR-0041,user0041,Eugène,Gillet,user0041@company.local,Data,QA Engineer,True
+USR-0042,user0042,Roger,De Sousa,user0042@company.local,Security,Developer,False
+USR-0043,user0043,Luce,Marchal,user0043@company.local,UX/UI,Project Manager,True
+USR-0044,user0044,Isaac,Lemaître,user0044@company.local,Data,Business Analyst,True
+USR-0045,user0045,Adrienne,Lacroix,user0045@company.local,DevOps,Data Analyst,True
+USR-0046,user0046,Marguerite,Da Costa,user0046@company.local,QA,Project Manager,False
+USR-0047,user0047,Martine,Normand,user0047@company.local,Development,Project Manager,True
+USR-0048,user0048,Madeleine,Guérin,user0048@company.local,Development,Developer,True
+USR-0049,user0049,Julie,Bousquet,user0049@company.local,UX/UI,Data Analyst,True
+USR-0050,user0050,Jean,Joubert,user0050@company.local,Data,Developer,True
